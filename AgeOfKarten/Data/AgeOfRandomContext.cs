@@ -16,6 +16,6 @@ namespace AgeOfKarten.Data
         public DbSet<NationCard> NationCards { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
-            => options.UseSqlite("Data Source=sqlitedemo.db");
+            => options.UseSqlite("Data Source=database.db");
     }
 }

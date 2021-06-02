@@ -32,11 +32,19 @@
 
                 <div class="form-group">
                     <label>Image Name</label>
-                    <input class="form-control" @bind="newCardImageName" />
+                    @if (imageNames != null)
+                    {
+                        <select class="form-control" @bind="newCardImageName">
+                            @foreach (var imgName in imageNames)
+                            {
+                                <option value="@imgName">@imgName</option>
+                            }
+                        </select>
+                    }
                 </div>
 
                 <div class="form-group">
-                    <button class="btn btn-success btn-block">Create Card</button>
+                    <button class="btn btn-success btn-block" @onclick="CreateCard">Create Card</button>
                 </div>
             </div>
         </div>
@@ -63,12 +71,22 @@
 
                 <div class="form-group">
                     <label>Select Card</label>
-                    <select class="form-control">
+                    <select class="form-control" @bind="selectedCardId">
                         <option value="-1" disabled>Choose Card</option>
-                        @foreach(var card in cards)
+                        @foreach (var card in cards)
                         {
-                            <option>@card.Name</option>
+                            <option value="@card.CardId">@card.Name</option>
                         }
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Select Age</label>
+                    <select class="form-control" @bind="selectedAge">
+                        <option value="0">I: Exploration Age</option>
+                        <option value="1">II: Commerce Age</option>
+                        <option value="2">III: Fortress Age</option>
+                        <option value="3">IV: Industrial Age</option>
                     </select>
                 </div>
 
@@ -78,8 +96,14 @@
                 </div>
 
                 <div class="form-group">
-                    <button class="btn btn-success btn-block">Assign Card to Nation</button>
+                    <button class="btn btn-success btn-block" @onclick="AssignCardToNation">Assign Card to Nation</button>
                 </div>
+
+                @if (!string.IsNullOrEmpty(errorMessage))
+                {
+                    <div class="alert alert-danger">@errorMessage</div>
+                }
+
             </div>
         </div>
     </div>
@@ -98,9 +122,15 @@
 
     private int propability { get; set; } = 10;
 
+    private int selectedAge { get; set; } = 0;
+
     private List<Models.Nation> nations = new List<Models.Nation>();
 
     private List<Models.Card> cards = new List<Models.Card>();
+
+    private List<string> imageNames { get; set; }
+
+    private string errorMessage { get; set; }
 
     private void CreateNation()
     {
@@ -120,6 +150,7 @@
             if (newCard != null)
             {
                 cards.Add(newCard);
+                newCardName = "";
             }
         }
     }
@@ -128,12 +159,12 @@
     {
         if (selectedNationId != -1 && selectedCardId != -1)
         {
-            var nation = nations.FirstOrDefault(n => n.NationId == selectedCardId);
-            var card = cards.FirstOrDefault(n => n.CardId == selectedCardId);
-            if (nation != null && card != null)
-            {
-                mainService.AssignCardToNation(card, nation, propability);
-            }
+
+            mainService.AssignCardToNation(selectedCardId, selectedNationId, selectedAge, propability);
+        }
+        else
+        {
+            errorMessage = $"NationId: {selectedNationId} CardId: {selectedCardId} non of this values can be zero!";
         }
     }
 
@@ -141,5 +172,8 @@
     {
         base.OnInitialized();
         nations = mainService.GetNations();
+        cards = mainService.GetCards();
+        imageNames = mainService.GetImageNames();
+        newCardImageName = imageNames.FirstOrDefault();
     }
 }

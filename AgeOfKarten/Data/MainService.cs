@@ -1,4 +1,5 @@
 ﻿using AgeOfKarten.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -36,23 +37,43 @@ namespace AgeOfKarten.Data
 
         public List<Card> GetCards()
         {
-            return _context.Cards.ToList();
+            return _context.Cards.AsNoTracking().ToList();
         }
 
         public List<Nation> GetNations()
         {
-            return _context.Nations.ToList();
+            return _context.Nations.AsNoTracking().ToList();
         }
 
-        public NationCard AssignCardToNation(Card card, Nation nation, int propability)
+        public NationCard AssignCardToNation(int cardId, int nationId, int age, int propability)
         {
             var assignment = new NationCard();
-            assignment.Card = card;
-            assignment.Nation = nation;
+            assignment.Card = _context.Cards.FirstOrDefault(n => n.CardId == cardId);
+            assignment.Nation = _context.Nations.FirstOrDefault(n => n.NationId == nationId);
+            assignment.Age = age;
             assignment.Propability = propability;
             _context.NationCards.Add(assignment);
             _context.SaveChanges();
             return assignment;
+        }
+
+        public List<Card> GetCardsForNationAndAge(int nationId, int age)
+        {
+            return _context.NationCards
+                .Where(n => n.Nation.NationId == nationId &&
+                n.Age == age).Select(n => n.Card).ToList();
+        }
+
+        public List<string> GetImageNames()
+        {
+            string path = AppContext.BaseDirectory + "wwwroot/img/icons";
+            
+            if (!System.IO.Directory.Exists(path))
+                return new List<string>() { $"pathNotFound: {path}" };
+
+            var dir = new System.IO.DirectoryInfo(path);
+            var files = dir.GetFiles("*.png");
+            return files.Select(n => n.Name).ToList();
         }
 
         public MainService(AgeOfRandomContext context)
