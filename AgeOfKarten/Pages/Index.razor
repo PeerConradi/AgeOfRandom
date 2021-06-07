@@ -1,17 +1,16 @@
 ﻿@page "/"
+@inject Data.MainService mainService; 
 
 <div class="row">
     <div class="col-12">
         <div class="form-group">
             <label>Nation</label>
-            <select class="form-control">
-                <option>Nation 1</option>
-                <option>Nation 2</option>
-                <option>Nation 3</option>
-                <option>Nation 4</option>
-                <option>Nation 5</option>
-                <option>Nation 6</option>
-            </select>
+                <select @bind="@selectedCityFile" class="form-control">
+                    @foreach (var fileName in Data.MainService.Civs)
+                    {
+                        <option value="@fileName.Key">@fileName.Value</option>
+                    }
+                </select>
         </div>
     </div>
 </div>
@@ -22,21 +21,158 @@
         <table class="table">
             <tbody>
                 <tr>
-                    <td>1</td>
+                    <td>I</td>
+                    @if (PickedCards != null)
+                    {
+                        @foreach (var card in PickedCards.Where(n => n.Age == 0).OrderBy(n => n.DisplayUnitCount))
+                        {
+                            <td>
+                                <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
+                                <p>@card.Name</p>
+                            </td>
+
+                        }
+                    }
+
                 </tr>
 
                 <tr>
-                    <td>2</td>
+                    <td>II</td>
+                    @if (PickedCards != null)
+                    {
+                        @foreach (var card in PickedCards.Where(n => n.Age == 1).OrderBy(n => n.DisplayUnitCount))
+                        {
+                <td>
+                    <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
+                    <p>@card.Name</p>
+                </td>
+
+                        }
+                    }
                 </tr>
 
                 <tr>
-                    <td>3</td>
+                    <td>III</td>
+                    @if (PickedCards != null)
+                    {
+                        @foreach (var card in PickedCards.Where(n => n.Age == 2).OrderBy(n => n.DisplayUnitCount))
+                        {
+                <td>
+                    <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
+                    <p>@card.Name</p>
+                </td>
+
+                        }
+                    }
                 </tr>
 
                 <tr>
-                    <td>4</td>
+                    <td>IV</td>
+                    @if (PickedCards != null)
+                    {
+                        @foreach (var card in PickedCards.Where(n => n.Age == 3).OrderBy(n => n.DisplayUnitCount))
+                        {
+                <td>
+                    <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
+                    <p>@card.Name</p>
+                </td>
+
+                        }
+                    }
                 </tr>
             </tbody>
         </table>
     </div>
 </div>
+
+
+
+@if (cards == null)
+{
+    <p>HomeCity wird geladen</p>
+}
+else
+{
+    <div class="row">
+
+
+        @foreach(var card in cards.OrderBy(n => n.Age).ThenBy(n => n.DisplayUnitCount))
+        {
+
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" style="margin: 20px; width: 64px; height: 64px" src="/img/@card.ImageName" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@card.Name</h5>
+                    <p class="card-text">Display Unit Count: @card.DisplayUnitCount</p>
+                </div>
+            </div>
+
+        }
+    </div>
+}
+
+@code 
+{
+
+    List<Models.InfoItem> cards;
+
+    List<Models.InfoItem> PickedCards;
+
+    private string _selectedCityFile = "";
+    private string selectedCityFile
+    {
+        get => _selectedCityFile;
+        set
+        {
+            if (_selectedCityFile != value)
+            {
+                _selectedCityFile = value;
+                PickedCards = new List<Models.InfoItem>();
+                Task.Run(async () =>
+                {
+                    cards = await mainService.GetCardsOfNation(selectedCityFile, "English");
+                    MixDeck();
+                });
+
+
+            }
+        }
+    }
+
+    private void MixDeck()
+    {
+        var cardsClone = cards.ToList();
+        Random rnd = new Random();
+        int remainingSlots = 25;
+        int cardsToPickOnFirst = rnd.Next(3, 5);
+        remainingSlots -= cardsToPickOnFirst;
+        int cardsToPickOnSecond = rnd.Next(8, 10);
+        remainingSlots -= cardsToPickOnSecond;
+        int cardsToPickOnThird = rnd.Next(8, 10);
+        remainingSlots -= cardsToPickOnThird;
+        int cardsToPickOnFourth = remainingSlots;
+
+        while (PickedCards.Count < 25)
+        {
+            var pickedCard = cardsClone.ElementAt(rnd.Next(0, cardsClone.Count));
+
+
+            if ((pickedCard.Age == 0 && PickedCards.Count(n => n.Age == 0) < cardsToPickOnFirst) ||
+                (pickedCard.Age == 1 && PickedCards.Count(n => n.Age == 1) < cardsToPickOnSecond) ||
+                (pickedCard.Age == 2 && PickedCards.Count(n => n.Age == 2) < cardsToPickOnThird) ||
+                (pickedCard.Age == 3 && PickedCards.Count(n => n.Age == 3) < cardsToPickOnFourth)
+                )
+            {
+                PickedCards.Add(pickedCard);
+                cardsClone.Remove(pickedCard);
+            }
+
+        }
+        InvokeAsync(StateHasChanged);
+    }
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+    }
+}

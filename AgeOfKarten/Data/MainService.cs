@@ -1,85 +1,82 @@
 ﻿using AgeOfKarten.Models;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Components;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 
 namespace AgeOfKarten.Data
 {
     public class MainService
     {
-        private readonly AgeOfRandomContext _context;
+        public NavigationManager MyNavigationManager { get; set; }
 
-        //public List<Card> GetCardsForNationAndAge(int nationId, int age)
-        //{
-
-        //}
-
-        public Nation CreateNation(string name)
+        public static Dictionary<string, string> Civs = new Dictionary<string, string>()
         {
-            var newNation = new Nation();
-            newNation.Name = name;
-            _context.Nations.Add(newNation);
-            _context.SaveChanges();
-            return newNation;
+            {"homecityamericans.xml", "America" },
+            {"homecitybritish.xml", "British" },
+        };
+
+        public async Task<homecity> ReadHomeCity(string name)
+        {
+            homecity hc = null;
+            string path = MyNavigationManager.BaseUri + "gamefiles/nations/" + name;
+            var httpClient = new System.Net.Http.HttpClient();
+            var stream = await httpClient.GetStreamAsync(path);
+            var serializer = new System.Xml.Serialization.XmlSerializer(typeof(homecity));
+
+            hc = (homecity)serializer.Deserialize(stream);
+            return hc;
         }
 
-        public Card CreateCard(string name, string imageName)
+        public async Task<List<InfoItem>> GetCardsOfNation(string nation, string language)
         {
-            var newCard = new Card();
-            newCard.Name = name;
-            newCard.ImageName = imageName;
-            _context.Cards.Add(newCard);
-            _context.SaveChanges();
-            return newCard;
+            var stringTableTask = await LoadStringTable(language);
+            var hcTask = await ReadHomeCity(nation);
+            var ttTask = await ReadTechTree();
+
+            var items = from card in hcTask.cards
+                        join techt in ttTask.tech on card.name equals techt.name
+                        join strName in stringTableTask.language.entries on techt.displaynameid equals strName._locid
+                        select new InfoItem()
+                        {
+                            Age = card.age,
+                            ImageName = techt.icon,
+                            Name = strName.Value,
+                            DisplayUnitCount = card.displayunitcount
+                        };
+            return items.ToList();
         }
 
-        public List<Card> GetCards()
+        public async Task<stringtable> LoadStringTable(string language)
         {
-            return _context.Cards.AsNoTracking().ToList();
+            stringtable table = null;
+            string path = MyNavigationManager.BaseUri + "/gamefiles/strings/" + language + "/stringtabley.xml";
+            Console.WriteLine("Pfad: " + path);
+
+            var httpClient = new System.Net.Http.HttpClient();
+            var stream = await httpClient.GetStreamAsync(path);
+            var serializer = new System.Xml.Serialization.XmlSerializer(typeof(stringtable));
+                table = (stringtable)serializer.Deserialize(stream);
+
+            return table;
         }
 
-        public List<Nation> GetNations()
+        public async Task<techtree> ReadTechTree()
         {
-            return _context.Nations.AsNoTracking().ToList();
+            techtree tt = null;
+            string path = MyNavigationManager.BaseUri + "/gamefiles/techtree/Data/techtreey.xml";
+            var httpClient = new System.Net.Http.HttpClient();
+            var stream = await httpClient.GetStreamAsync(path);
+            var serializer = new System.Xml.Serialization.XmlSerializer(typeof(techtree));
+            tt = (techtree)serializer.Deserialize(stream);
+            return tt;
         }
 
-        public NationCard AssignCardToNation(int cardId, int nationId, int age, int propability)
+        public MainService(NavigationManager navManager)
         {
-            var assignment = new NationCard();
-            assignment.Card = _context.Cards.FirstOrDefault(n => n.CardId == cardId);
-            assignment.Nation = _context.Nations.FirstOrDefault(n => n.NationId == nationId);
-            assignment.Age = age;
-            assignment.Propability = propability;
-            _context.NationCards.Add(assignment);
-            _context.SaveChanges();
-            return assignment;
-        }
-
-        public List<Card> GetCardsForNationAndAge(int nationId, int age)
-        {
-            return _context.NationCards
-                .Where(n => n.Nation.NationId == nationId &&
-                n.Age == age).Select(n => n.Card).ToList();
-        }
-
-        public List<string> GetImageNames()
-        {
-            string path = AppContext.BaseDirectory + "wwwroot/img/icons";
-            
-            if (!System.IO.Directory.Exists(path))
-                return new List<string>() { $"pathNotFound: {path}" };
-
-            var dir = new System.IO.DirectoryInfo(path);
-            var files = dir.GetFiles("*.png");
-            return files.Select(n => n.Name).ToList();
-        }
-
-        public MainService(AgeOfRandomContext context)
-        {
-            _context = context;
-            _context.Database.EnsureCreated();
+            this.MyNavigationManager = navManager;
         }
     }
 }
