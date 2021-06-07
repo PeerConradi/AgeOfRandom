@@ -54,40 +54,6 @@ namespace AgeOfKarten.Models
     public partial class techtreeTech
     {
 
-        private object[] itemsField;
-
-        private ItemsChoiceType[] itemsElementNameField;
-
-        private string nameField;
-
-        private string typeField;
-
-        /// <remarks/>
-        [System.Xml.Serialization.XmlElementAttribute("cost", typeof(techtreeTechCost))]
-        [System.Xml.Serialization.XmlElementAttribute("dbid", typeof(ushort))]
-        [System.Xml.Serialization.XmlElementAttribute("effect", typeof(techtreeTechEffect))]
-        [System.Xml.Serialization.XmlElementAttribute("effects", typeof(techtreeTechEffects))]
-        [System.Xml.Serialization.XmlElementAttribute("flag", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("icontexturecoords", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("iconwpf", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("prereqs", typeof(techtreeTechPrereqs))]
-        [System.Xml.Serialization.XmlElementAttribute("prereqsnotmetrollovertextid", typeof(ushort))]
-        [System.Xml.Serialization.XmlElementAttribute("researchpoints", typeof(decimal))]
-        [System.Xml.Serialization.XmlElementAttribute("revolutionciv", typeof(string))]
-        [System.Xml.Serialization.XmlElementAttribute("status", typeof(string))]
-        [System.Xml.Serialization.XmlChoiceIdentifierAttribute("ItemsElementName")]
-        public object[] Items
-        {
-            get
-            {
-                return this.itemsField;
-            }
-            set
-            {
-                this.itemsField = value;
-            }
-        }
-
         public string rollovertextid { get; set; }
 
         public uint displaynameid { get; set; }
@@ -96,47 +62,12 @@ namespace AgeOfKarten.Models
         public string icon { get; set; }
 
         /// <remarks/>
-        [System.Xml.Serialization.XmlElementAttribute("ItemsElementName")]
-        [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public ItemsChoiceType[] ItemsElementName
-        {
-            get
-            {
-                return this.itemsElementNameField;
-            }
-            set
-            {
-                this.itemsElementNameField = value;
-            }
-        }
+        [System.Xml.Serialization.XmlAttributeAttribute()]
+        public string name { get; set; }
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public string name
-        {
-            get
-            {
-                return this.nameField;
-            }
-            set
-            {
-                this.nameField = value;
-            }
-        }
-
-        /// <remarks/>
-        [System.Xml.Serialization.XmlAttributeAttribute()]
-        public string type
-        {
-            get
-            {
-                return this.typeField;
-            }
-            set
-            {
-                this.typeField = value;
-            }
-        }
+        public string type { get; set; }
     }
 
     /// <remarks/>

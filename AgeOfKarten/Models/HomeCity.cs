@@ -587,145 +587,36 @@ namespace AgeOfKarten.Models
     public partial class homecityCard
     {
 
-        private string nameField;
-
-        private sbyte maxcountField;
-
-        private byte levelField;
-
-        private string prereqtechField;
-
-        private byte ageField;
-
-        private bool displayunitcountFieldSpecified;
-
-        private object revoltcardField;
-
-        private byte infiniteinlastageField;
-
-        private bool infiniteinlastageFieldSpecified;
+        /// <remarks/>
+        public string name { get; set; }
 
         /// <remarks/>
-        public string name
-        {
-            get
-            {
-                return this.nameField;
-            }
-            set
-            {
-                this.nameField = value;
-            }
-        }
+        //public sbyte maxcount { get; set; }
 
         /// <remarks/>
-        public sbyte maxcount
-        {
-            get
-            {
-                return this.maxcountField;
-            }
-            set
-            {
-                this.maxcountField = value;
-            }
-        }
+        //public ushort level { get; set; }
 
         /// <remarks/>
-        public byte level
-        {
-            get
-            {
-                return this.levelField;
-            }
-            set
-            {
-                this.levelField = value;
-            }
-        }
+        //public string prereqtech { get; set; }
 
         /// <remarks/>
-        public string prereqtech
-        {
-            get
-            {
-                return this.prereqtechField;
-            }
-            set
-            {
-                this.prereqtechField = value;
-            }
-        }
-
-        /// <remarks/>
-        public byte age
-        {
-            get
-            {
-                return this.ageField;
-            }
-            set
-            {
-                this.ageField = value;
-            }
-        }
-
+        public byte age { get; set; }
         /// <remarks/>
         public short displayunitcount { get; set; }
 
         /// <remarks/>
-        [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool displayunitcountSpecified
-        {
-            get
-            {
-                return this.displayunitcountFieldSpecified;
-            }
-            set
-            {
-                this.displayunitcountFieldSpecified = value;
-            }
-        }
+        //[System.Xml.Serialization.XmlIgnoreAttribute()]
+        //public bool displayunitcountSpecified { get; set; }
 
         /// <remarks/>
-        public object revoltcard
-        {
-            get
-            {
-                return this.revoltcardField;
-            }
-            set
-            {
-                this.revoltcardField = value;
-            }
-        }
+        //public object revoltcard { get; set; }
 
         /// <remarks/>
-        public byte infiniteinlastage
-        {
-            get
-            {
-                return this.infiniteinlastageField;
-            }
-            set
-            {
-                this.infiniteinlastageField = value;
-            }
-        }
+        //public byte infiniteinlastage { get; set; }
 
         /// <remarks/>
-        [System.Xml.Serialization.XmlIgnoreAttribute()]
-        public bool infiniteinlastageSpecified
-        {
-            get
-            {
-                return this.infiniteinlastageFieldSpecified;
-            }
-            set
-            {
-                this.infiniteinlastageFieldSpecified = value;
-            }
-        }
+        //[System.Xml.Serialization.XmlIgnoreAttribute()]
+        //public bool infiniteinlastageSpecified { get; set; }
     }
 
     /// <remarks/>

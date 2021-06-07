@@ -89,10 +89,13 @@
 
 @if (cards == null)
 {
-    <p>HomeCity wird geladen</p>
+    <p>No Cards loaded</p>
 }
 else
 {
+    <div class="row">
+        <h1>Other possible cards</h1>
+    </div>
     <div class="row">
 
 
@@ -141,7 +144,7 @@ else
 
     private void MixDeck()
     {
-        var cardsClone = cards.ToList();
+        Console.WriteLine("Starte Mischen" + DateTime.Now.ToLongTimeString());
         Random rnd = new Random();
         int remainingSlots = 25;
         int cardsToPickOnFirst = rnd.Next(3, 5);
@@ -154,7 +157,7 @@ else
 
         while (PickedCards.Count < 25)
         {
-            var pickedCard = cardsClone.ElementAt(rnd.Next(0, cardsClone.Count));
+            var pickedCard = cards.ElementAt(rnd.Next(0, cards.Count));
 
 
             if ((pickedCard.Age == 0 && PickedCards.Count(n => n.Age == 0) < cardsToPickOnFirst) ||
@@ -164,10 +167,11 @@ else
                 )
             {
                 PickedCards.Add(pickedCard);
-                cardsClone.Remove(pickedCard);
+                cards.Remove(pickedCard);
             }
 
         }
+        Console.WriteLine("Fertig gemischt" + DateTime.Now.ToLongTimeString());
         InvokeAsync(StateHasChanged);
     }
 
