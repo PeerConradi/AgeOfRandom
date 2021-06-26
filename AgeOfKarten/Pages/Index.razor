@@ -2,20 +2,29 @@
 @inject Data.MainService mainService;
 
 <div class="row">
-    <div class="col-12">
+    <div class="col-8">
         <div class="form-group">
             <label>Nation</label>
-            @if (!loadingDeck)
-            {
-                <select @bind="@selectedCityFile" class="form-control">
-                    @foreach (var fileName in Data.MainService.Civs)
-                    {
-                        <option value="@fileName.Key">@fileName.Value</option>
-                    }
-                </select>
-            }
+            <select @bind="@selectedCityFile" class="form-control">
+                @foreach (var fileName in Data.MainService.Civs)
+                {
+                    <option value="@fileName.Key">@fileName.Value</option>
+                }
+            </select>
 
         </div>
+    </div>
+
+    <div class="col-4">
+        @if (!loadingDeck)
+        {
+            <button class="btn btn-primary btn-block" @onclick="MixCards">Mix Cards</button>
+        }
+        else
+        {
+            <button class="btn disabled btn-primary btn-block">Cards are getting mixed</button>
+        }
+
     </div>
 </div>
 
@@ -135,32 +144,22 @@ else
 
     private bool loadingDeck = false;
 
-    private string _selectedCityFile = "";
-    private string selectedCityFile
+    private string selectedCityFile { get; set; }
+
+    private async Task MixCards()
     {
-        get => _selectedCityFile;
-        set
+        if (selectedCityFile != null)
         {
-            if (_selectedCityFile != value)
-            {
-                this.loadingDeck = true;
-                this.InvokeAsync(StateHasChanged);
-                _selectedCityFile = value;
-                PickedCards = new List<Models.InfoItem>();
-                Task.Run(async () =>
-                {
-                    cards = await mainService.GetCardsOfNation(selectedCityFile, "English");
-                    MixDeck();
-                });
-
-
-            }
+            this.loadingDeck = true;
+            await this.InvokeAsync(StateHasChanged);
+            PickedCards = new List<Models.InfoItem>();
+            cards = await mainService.GetCardsOfNation(selectedCityFile, "English");
+            MixDeck();
         }
     }
 
     private void MixDeck()
     {
-        Console.WriteLine("Starte Mischen" + DateTime.Now.ToLongTimeString());
         Random rnd = new Random();
         int remainingSlots = 25;
         int cardsToPickOnFirst = rnd.Next(3, 5);
@@ -187,7 +186,6 @@ else
             }
 
         }
-        Console.WriteLine("Fertig gemischt" + DateTime.Now.ToLongTimeString());
         this.loadingDeck = false;
         InvokeAsync(StateHasChanged);
     }
@@ -195,5 +193,6 @@ else
     protected override void OnInitialized()
     {
         base.OnInitialized();
+        this.selectedCityFile = Data.MainService.Civs.First().Key;
     }
 }
