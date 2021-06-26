@@ -4,7 +4,7 @@
 <div class="row">
 
     <div class="col-1">
-        <img src="/img/resources/images/icons/flags/Flag_Aztec.png" style="width: 100%; height: auto;" />
+        <img src="@((Program.IsRelease) ? "/AgeOfRandom" : null)/img/resources/images/icons/flags/Flag_Aztec.png" style="width: 100%; height: auto;" />
     </div>
 
     <div class="col-7">
@@ -45,7 +45,7 @@
                         @foreach (var card in PickedCards.Where(n => n.Age == 0).OrderBy(n => n.DisplayUnitCount))
                         {
                             <td>
-                                <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
+                                <img src="@((Program.IsRelease) ? "/AgeOfRandom" : null)/img/@card.ImageName" style="width: 64px; height: 64px" />
                                 <p>@card.Name</p>
                             </td>
 
@@ -61,7 +61,7 @@
                         @foreach (var card in PickedCards.Where(n => n.Age == 1).OrderBy(n => n.DisplayUnitCount))
                         {
                             <td>
-                                <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
+                                <img src="@((Program.IsRelease) ? "/AgeOfRandom" : null)/img/@card.ImageName" style="width: 64px; height: 64px" />
                                 <p>@card.Name</p>
                             </td>
 
@@ -76,7 +76,7 @@
                         @foreach (var card in PickedCards.Where(n => n.Age == 2).OrderBy(n => n.DisplayUnitCount))
                         {
                             <td>
-                                <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
+                                <img src="@((Program.IsRelease) ? "/AgeOfRandom" : null)/img/@card.ImageName" style="width: 64px; height: 64px" />
                                 <p>@card.Name</p>
                             </td>
 

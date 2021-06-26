@@ -12,6 +12,9 @@ namespace AgeOfKarten
 {
     public class Program
     {
+
+        public static bool IsRelease = true;
+        
         public static async Task Main(string[] args)
         {
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
