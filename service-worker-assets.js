@@ -6501,6 +6501,6030 @@
       "url": "img\/resources\/images\/icons\/ingame\/politicians\/consulate_openrelations.png"
     },
     {
+      "hash": "sha256-F3QiZ6h3s\/xvlctpC6Ku2yxfSzci1xy8cvefxs8ucvI=",
+      "url": "img\/resources\/images\/icons\/techs\/abbasid_common_market\/abbasid_common_market_64x64.png"
+    },
+    {
+      "hash": "sha256-PSFWVIMs6izjwhuIEzWBszUGWtuh76c7DvbbrIRfA+o=",
+      "url": "img\/resources\/images\/icons\/techs\/admiralty\/admiralty.png"
+    },
+    {
+      "hash": "sha256-vnB079s9dmpcppApSX1eEI6+CdZXkOTES\/Ml5r7ZifI=",
+      "url": "img\/resources\/images\/icons\/techs\/advanced_balloon.png"
+    },
+    {
+      "hash": "sha256-esFgIvt9sOSZZIBCnupZ2Py+7OfM5xImBgfAPtcwuqI=",
+      "url": "img\/resources\/images\/icons\/techs\/amalgamation\/amalgamation_32x32.png"
+    },
+    {
+      "hash": "sha256-cicBlt+LLcnplDXACXFq9ZNq3MrwtRmrtfAkrnb8wmM=",
+      "url": "img\/resources\/images\/icons\/techs\/amalgamation\/amalgamation_64x64.png"
+    },
+    {
+      "hash": "sha256-guq+5MuO+uvc7ccuC2lekEeiYrgsmCtqXSoA\/zlH6dw=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/54th_massachusetts_infantry.png"
+    },
+    {
+      "hash": "sha256-L7iTPtGcSpMs+cYjlLgZEpsIxJC4iVT95ZrwfNIaThI=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/black_mesa.png"
+    },
+    {
+      "hash": "sha256-ska+sYzwhgwoaACy86QSio92ZaZZPp7m8kH8EXhlExQ=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/brigadier_general.png"
+    },
+    {
+      "hash": "sha256-IqKQCzbkXaqAzW1IUMQrUwEVUXm6rhpRGmlu+099Qfo=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/buffalo_soldiers.png"
+    },
+    {
+      "hash": "sha256-SwdvxVULUh81KV9GH0tH5fDaLWf0hjVeXR1Nq68COXU=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/cadets.png"
+    },
+    {
+      "hash": "sha256-suTIQf1nlNkccJNN9XEQlMtYmjLA45dt8KmA4tJ5TUo=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/coffee_mill_gun.png"
+    },
+    {
+      "hash": "sha256-h19r5iiSKGJL1O4HSbIFn9hfeYT4GH2hTxCv6NLtIEs=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/colorado_gold_rush.png"
+    },
+    {
+      "hash": "sha256-bijyp3UsCPo+vQiNGtN8YpVoaBnfKCJNsBvHzTqVxKs=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/constitutions.png"
+    },
+    {
+      "hash": "sha256-WNpSYt3c1JPl\/2Gbwd3xhjstOsQxS5dX1jxM5n75AgE=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/ca_bear_flag_revolt.png"
+    },
+    {
+      "hash": "sha256-Y\/0IR3rR1fLW\/TEgzXVXGDC9gtwvmBXELenE5Cisr5k=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/ca_california_gold_rush.png"
+    },
+    {
+      "hash": "sha256-oW\/cIZKqQs4leWFrant9LUP1OEzw+R4+6fi3TN72+dY=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/cc_connecticut_shipwrights.png"
+    },
+    {
+      "hash": "sha256-FgnivsRB1H8rZwmkctgXLVOQQ\/HxxTc4NI0X4eqVygc=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/dw_delaware_blues.png"
+    },
+    {
+      "hash": "sha256-lhKQOlDDwuitw+QQ5UeW0zOZUMxk6SQCeTrPzLMXvgE=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/dw_fertile lowlands.png"
+    },
+    {
+      "hash": "sha256-Ik19Gni0Lq161aA4PWHEohx3X9QzahDLcbwhPtpx5mk=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/fl_florida_cowhunters.png"
+    },
+    {
+      "hash": "sha256-urnGh2vkZwHa3edrIcaSJOQp05ZqeDrDkzbB2cXnFPk=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/fl_seminole_ponies.png"
+    },
+    {
+      "hash": "sha256-IvJqkSPEwbB2a5+1jr9mIqmaPGbhfK15rV7DkczrkoM=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/il_deere_steel_plow.png"
+    },
+    {
+      "hash": "sha256-Bv1QBTmVNR2kJxzLGGvINaCnK5Lxd89T4mTlCSR1J08=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/il_land_of_lincoln.png"
+    },
+    {
+      "hash": "sha256-9vRG8pajZMIZuLbvyhS897hZxkJkvTHU2SSvL12rLRQ=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/in_mammoth_act.png"
+    },
+    {
+      "hash": "sha256-RxnbQlGm3FkcBGdKzXnk5oF4TG96l842\/t1JdUDC0nI=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/kt_kentucky_hunters.png"
+    },
+    {
+      "hash": "sha256-1BwUVr\/S6OeaMOI9amB7a9lqogi\/8+SgYiNz9OA697g=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/ms_boston_tea_party.png"
+    },
+    {
+      "hash": "sha256-wJHV9jyym7p2RDiG7qY0QxQAjTFbJIWmvA7gaHITcnY=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/ms_plymouth_settlers.png"
+    },
+    {
+      "hash": "sha256-ybXMpIweJL7K5oPo47Y9ScV\/tRmXhLrT4NahrZHOD8Q=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/my_annapolis_naval_academy.png"
+    },
+    {
+      "hash": "sha256-Gr72UjGrtX8zZrsFPIaakuRQokW6gFvPiqkaTW6GHh4=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/my_chesapeake_oyster_pirate.png"
+    },
+    {
+      "hash": "sha256-L24eb5oAe3isldBHbDDVaRsI7BRMN9IGhcZJfuzeToI=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/nh_french_canadians.png"
+    },
+    {
+      "hash": "sha256-yuvKy3VGK6Yrm5aF\/ZKHfzCz7jTFIvZwCfmCPLaYR8Y=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/nj_morris_canal.png"
+    },
+    {
+      "hash": "sha256-EdtFsDKx7lII8JUOI3umU2tI0LiDha9kW3U0NZTZxZ0=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/nj_new_jersey_seaports.png"
+    },
+    {
+      "hash": "sha256-8QRyPqkuwcGG++6FsjdIkv\/1ILRcQ1SqXCet+Wb8nOk=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/ny_new_york_zouaves.png"
+    },
+    {
+      "hash": "sha256-2Q9sYfsCcU6S2BeKSbLFtYJejxexYiTUd4CFBytxcK4=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/oh_putnam.png"
+    },
+    {
+      "hash": "sha256-AaV4nkxcAzY7R\/8EAHL2umkbGeVvpKxruV82gKi967I=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/oh_supply_network.png"
+    },
+    {
+      "hash": "sha256-YNOR6X+LIu338xzaqFhzzCOfCv2YSVJ0UKDBLAFTyfc=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/oh_supply_network_team.png"
+    },
+    {
+      "hash": "sha256-7iSMbnvjgHlgPCnvsvzD\/vs5m+tJ5F396PaRBiI3+Uk=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/py_pennsylvania_pound.png"
+    },
+    {
+      "hash": "sha256-lXpwcjccSwQxVGRCas3zobZ5c+Rj8sS+4mpjmp1x9Wc=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/py_philadelphia_convention.png"
+    },
+    {
+      "hash": "sha256-ZeR9B7O4OBo3N3hhhZHFGIKcceAOgs5DqweFpLtZvHY=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/py_tammany_festival.png"
+    },
+    {
+      "hash": "sha256-0KV725hKW+YBYBvreoNC9cpzU\/Y4\/G+0GsfsCu4SRFA=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/ri_corliss_steam_engine.png"
+    },
+    {
+      "hash": "sha256-2u7muUX3rKeJcYQI8GMPtBv6KVq9Sv1LMm2\/A8wXOHQ=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/ri_slater_textile_mill.png"
+    },
+    {
+      "hash": "sha256-mucv6pVSrztoyoihVf\/bkMeA9OSu\/tkghPi9JkypPWc=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/sc_marions_diversions.png"
+    },
+    {
+      "hash": "sha256-zU1qanbMHisIkuQ320aZD3BUoqo7HKXrzSHKMfzBPeY=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/sc_moultries_militia.png"
+    },
+    {
+      "hash": "sha256-uC2zVKk8Fq3AoE2bIQsVr3QKKRyZiBSht5iaypLgkV4=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/ts_overmountain_settlers.png"
+    },
+    {
+      "hash": "sha256-+5ZSrTmgeb0Op6UESnJsvMSG9tu7R6muMnrqDcFcS68=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/ts_watauga_association.png"
+    },
+    {
+      "hash": "sha256-PxaEJjUY0mlLfnJmM3sivHGCyqL3WzfjCDNwyIxhhcg=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/tx_texan_forts.png"
+    },
+    {
+      "hash": "sha256-S5CNtY3UvOue\/SKipDLIzo8uhRXve1gJ6VTdTO+5nDc=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/tx_the_alamo.png"
+    },
+    {
+      "hash": "sha256-F3XLJsjnVkIQtEILPHuECcFH6oDhiXUjSSWwtnrQI98=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/vg_culpeper_minutemen.png"
+    },
+    {
+      "hash": "sha256-poSx0fKNLXCKZQMGer60o+L\/TBSd8ChHVOZ8ydTf6W0=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/vg_virginia_general_assembly.png"
+    },
+    {
+      "hash": "sha256-Zy9UvtYAxjE8vvlcJUfWSPgC9TqUYJw0gb89OrhvOvA=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/vm_green_mountain_boys.png"
+    },
+    {
+      "hash": "sha256-BQzhwbFqAjF+K5cHY6Zabn7zUcQbnj4X4iOucduBKRo=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/federal\/vm_vermont_coppers.png"
+    },
+    {
+      "hash": "sha256-jeROtUSjaoVsMM1IABsPmFIxyPKIaVOTOoXwBWdE4PM=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/frontiersmen.png"
+    },
+    {
+      "hash": "sha256-kuFeF9SmIQDdLEDBpYbRepBuk4neYDNcayYX8Wgs1ps=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/hamiltonian_economics.png"
+    },
+    {
+      "hash": "sha256-TxrVTGAqxk\/IWF39t4RDp8\/m86J5jN952yLapgE1yyo=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/hulk.png"
+    },
+    {
+      "hash": "sha256-iZ6AioMV0Qf7aFo6pk8sK0aEzPTkyUtHpnVVpfRwYaM=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/immigrants\/immigrants_british.png"
+    },
+    {
+      "hash": "sha256-TaEPog\/44Hit5cuOq8njSeK9serp7MLatGOi9TPRm8s=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/immigrants\/immigrants_chinese.png"
+    },
+    {
+      "hash": "sha256-8aKO8x\/kNrw2p3nNQmalKn7fEz7s\/etLsemEtspddms=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/immigrants\/immigrants_dutch.png"
+    },
+    {
+      "hash": "sha256-O7QttiGC9Axi8SSj2CJ9azUknWoem0OaTo9tSzotJK4=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/immigrants\/immigrants_french.png"
+    },
+    {
+      "hash": "sha256-7pUsmCNcWH4YIcWnyZ1\/NEqSIOLn8b16Wnx2RBjo8YY=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/immigrants\/immigrants_german.png"
+    },
+    {
+      "hash": "sha256-PcQ6YvEhd+gRtJKS+7Lg+w2x\/\/L5aQxew6ik5tPclpE=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/immigrants\/immigrants_irish.png"
+    },
+    {
+      "hash": "sha256-ykoby4HTfvKKDsSQQvN6Qax9YzAifuJ3G92kWtdTfT4=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/immigrants\/immigrants_russian.png"
+    },
+    {
+      "hash": "sha256-ioWoDXqnM1IDJ8FSdEx9I9+HaxMxKeCjMkQm26GxyF8=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/immigrants\/immigrants_spanish.png"
+    },
+    {
+      "hash": "sha256-aWa4aRfovpu\/TF9+DywJJK6NPCkf\/8\/Ygr6h4O70Rpg=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/immigrants\/immigrants_swedish.png"
+    },
+    {
+      "hash": "sha256-bAagsxLujNUQISULY1X9zhwkXgo\/ZVUBYnGZ5wosnxs=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/infinite_state_militia.png"
+    },
+    {
+      "hash": "sha256-hNRsJaF4+GvofiL67rUtskEwRezBrd+eDz+BJ06Hy7A=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/infinite_team_north_carolina_quakers.png"
+    },
+    {
+      "hash": "sha256-Mwc6X+UXoySKI+5ae6yhKsmHfKDFGRr\/DmdspgkEcrc=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/infinite_us_cavalry.png"
+    },
+    {
+      "hash": "sha256-Ox4aOx5DJGCfw37xVEyq2XS3NEy9DCdA2Oq8m0kzcGg=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/iowa_farmlands.png"
+    },
+    {
+      "hash": "sha256-8d7XsoULSUC0GbGDVBFsjWnA4z6R3eZN0n7Bnsx546s=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/legion_armand.png"
+    },
+    {
+      "hash": "sha256-tFc+GsLfSbSrK2nj9n+Udr6tPTpCR61Ljp+JllvzQ0g=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/legion_kovat.png"
+    },
+    {
+      "hash": "sha256-sz+aTmM1M5dhV993LIopX1MmiLvDQDBGDrK729TYMJU=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/legion_lee.png"
+    },
+    {
+      "hash": "sha256-AOmGtE5l0Pjiq8EGqz0nCT5bU0K3tQeZfVsaexwfPAc=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/legion_pulaski.png"
+    },
+    {
+      "hash": "sha256-xUtnS9Mal+sOoPzWw+tkceoog0XuBtdrOaPr8TqHDiE=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/legion_washington.png"
+    },
+    {
+      "hash": "sha256-QOlru3iBpQzkLtbDRi8FSl2k8lTsaAo\/I7DsYoKsUUM=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/levy_minutemen.png"
+    },
+    {
+      "hash": "sha256-Aw4Z1zPgO8XFp5PT47m5zfs8lSSlv9KnZKn+NvZItyY=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/levy_pikemen.png"
+    },
+    {
+      "hash": "sha256-x82UYvLaRCvL4wyU8eNyEA+aMSQehs70+VrK8J9\/+uU=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/longrifles.png"
+    },
+    {
+      "hash": "sha256-AYCRR7ALpGGQnLZOpQE1piB+fnBar+EEI\/5Q\/ceX6TQ=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/michigan_sharpshooters.png"
+    },
+    {
+      "hash": "sha256-16Gwtk6hZMcqAKiHvRnWtb\/UuYticgw7FiKAZyiD+50=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/minneapolis_mills.png"
+    },
+    {
+      "hash": "sha256-62vYLYPNRgYIbFo5QNvWUXto5lHYYu73aYGpvTQ7534=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/minutemen_companies.png"
+    },
+    {
+      "hash": "sha256-uTBm5dcmU3wRi9yOO+YRZC0nl5Odh9+ixFlNg+Jy2pU=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/mississippi_steamers.png"
+    },
+    {
+      "hash": "sha256-nWdR998q1eremZkb4rnW5Kz8Q5cKLcdL5dDLrDA+Xng=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/new_mexico_immigration.png"
+    },
+    {
+      "hash": "sha256-FhkM3G02APme\/oGjeG6xGZNo8CZXUgQWzEjB0wY80Ms=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/oregon_trail.png"
+    },
+    {
+      "hash": "sha256-jAOVeqjXZCOkhFVII60Dsj+cVJz0Kuf7h1yzOXx6S6w=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/patriotism.png"
+    },
+    {
+      "hash": "sha256-2tkHzbXT0Qf914umtebeypV1MJ3ixzo1ytdjBSfYRBo=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/pennsylvania_cavalry.png"
+    },
+    {
+      "hash": "sha256-+lPHCDxnikZzNcNBHEKakuxJDz036ixLDoVtk\/uD6bw=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/pennsylvania_rifles.png"
+    },
+    {
+      "hash": "sha256-NviAccaVf91SPMN\/78\/o6YgwT9ocgzXq449WfMEpdco=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/pine_tree_state.png"
+    },
+    {
+      "hash": "sha256-j0e3PTTZPhPUWcRSX1jIztc6BRRzUq3FIeUDdjfczGc=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/poker.png"
+    },
+    {
+      "hash": "sha256-f4jcRYDeRB2X5oAJe8Xyzg78ibO6c54HUG\/NqVRb+Tg=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/reno_gang.png"
+    },
+    {
+      "hash": "sha256-FIo+QFnt8dOI4cDhA3VHn0+ZtDDh7hjxBRNF5KFrEbE=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/scouts_apache.png"
+    },
+    {
+      "hash": "sha256-rgFSacXjrxBne9rFfuwNUmx\/s0v5Dnd8bqakzt6NUzw=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/scouts_navajo.png"
+    },
+    {
+      "hash": "sha256-FUF4ezuS\/SbYl7\/Q\/bnbNHm2dJYTQeWMPa22DyOI4+k=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/scouts_seminole.png"
+    },
+    {
+      "hash": "sha256-2c21ektAlHsUV9cMmg85mqv+oPvLvQuGvQUfSnt1oKI=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/sheriffs.png"
+    },
+    {
+      "hash": "sha256-hiVJaEFPLYfeit\/mkPWPZiVozTq5uvGYWyNALym8zgs=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/shotgun_messengers.png"
+    },
+    {
+      "hash": "sha256-YhxhRjDKq16JRA5ZVHnz6HyTLSSbGQMH1CsBPVcZEdg=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/spar_torpedos.png"
+    },
+    {
+      "hash": "sha256-JAsBRwdCXjlZfq2Ic9TvbjkFvfcOthJMzifX+KXJUis=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/springfield_armory.png"
+    },
+    {
+      "hash": "sha256-XV+jtwzXSaH8bmSK+atf1Hm4qzHwgEy9cVVnmb2Lcx0=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/statehood.png"
+    },
+    {
+      "hash": "sha256-wn\/g8WULRy9r6I86mbVUEM+Wm9JvA5qnf4XjVPOmkWM=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/team_alaska_purchase.png"
+    },
+    {
+      "hash": "sha256-wl6M\/6cmjLj2+76u3QJAOZuTdGcepfRTJn7GPtiWByg=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/team_decoy_artillery.png"
+    },
+    {
+      "hash": "sha256-2K5TGIsLGkXczY5lR0UQn\/mGDNOYXafeIC0135DyF0c=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/team_gatling_gun.png"
+    },
+    {
+      "hash": "sha256-KkYNKbT1uIQTgPTrOEonBycI7CHvaqTXZPEv6mjp+Iw=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/team_lewis_clark_expedition.png"
+    },
+    {
+      "hash": "sha256-mc5WkYsQ7Mfcd3YvhK3T\/ALKCHHQglbztYH\/Z2AwW\/Q=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/team_louisiana_purchase.png"
+    },
+    {
+      "hash": "sha256-iZMJpgnuyrdSTbTuc6tHg70WThaeEbLzzLC503tnav8=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/united_states_marines.png"
+    },
+    {
+      "hash": "sha256-csH1sHekYHV1UALvE2yM7PUM8TgsSJIvGIDydz46+Y8=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/us_army.png"
+    },
+    {
+      "hash": "sha256-fYyYWe4+FD8WxiZFQA86FCf7lT4Wn6EJxuykWizZVDE=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/us_rangers.png"
+    },
+    {
+      "hash": "sha256-Uvy6SvS076z7Xu1lB7yT0F6vWZRqULDcYn5Y1ao9tRA=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/virginia_oak.png"
+    },
+    {
+      "hash": "sha256-njDtn7TDYtgQeXY5cs9QfAK2LT0dYpi0+SnMvY1fpV8=",
+      "url": "img\/resources\/images\/icons\/techs\/americans\/washington_lumber_mills.png"
+    },
+    {
+      "hash": "sha256-cgYgPZwajIwaA1Il01zl21GA9v9+Mc+wh82VFx1RkqI=",
+      "url": "img\/resources\/images\/icons\/techs\/armor_plating\/armor_plating.png"
+    },
+    {
+      "hash": "sha256-Th+R1lixrPdB\/LctLerBR3a\/Sheaa5cXwwhBT6JKS9g=",
+      "url": "img\/resources\/images\/icons\/techs\/artificial_fertilizer\/artificial_fertilizer.png"
+    },
+    {
+      "hash": "sha256-vJpUa7D9GmVWpgXZgTkpHzmCA1dShYnrOIHNzFLp9LA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/acupuncture.png"
+    },
+    {
+      "hash": "sha256-5Hx7YiyH8azH1W\/fr65HNeKgCbg1cMJVhv1VpWXQusY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/advanced_consulate.png"
+    },
+    {
+      "hash": "sha256-Dee8stoKINDEUJjebK4eHhRPaHJPSKWSylwSEMwFoiY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/age_2.png"
+    },
+    {
+      "hash": "sha256-yT81SPT3sFPGGSPeU\/Cx220USGUAwaAKEveLHooxCks=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/age_3.png"
+    },
+    {
+      "hash": "sha256-\/PWcxLjzv5eus7rlDwx6j4dRjnby9VqYvRSTqHTmRsw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/age_4.png"
+    },
+    {
+      "hash": "sha256-8dnZy1FF9c5p4yiC69QcWUWuSUbceS7ms3pPoM4suDk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/age_5.png"
+    },
+    {
+      "hash": "sha256-oQWuR7NxOdUGxSbRqSXsBIHqzX2G3SXWGAK6QEnDmOU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/army_of_the_pure.png"
+    },
+    {
+      "hash": "sha256-RGIBWmlMjFwkNBn8OWZAwNM0zsiiprwdZZhTcoMJlSM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/attack_upgrade.png"
+    },
+    {
+      "hash": "sha256-FMjGJBxLs1ZIzsE5Kxv\/cqV3sHHaa7utfmcYACZaD\/M=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/bombay_marine.png"
+    },
+    {
+      "hash": "sha256-IvpYWYM\/\/NsDuJyzXQL64BkyYANKJxrt6unyeNVh4kc=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/british_army_icon_64.png"
+    },
+    {
+      "hash": "sha256-8RUIVrTLMdd\/eBUxuYD0HUmrNprPVx21HxhYJpWYLfc=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/british_brigade_icon_64.png"
+    },
+    {
+      "hash": "sha256-PgsZ4Vl+LUqSoC\/WVYfInlpPRzqL9Wp1llH3LcC+qZ4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/british_company_icon_64.png"
+    },
+    {
+      "hash": "sha256-1XYsHpQGvAbXVnLZNAvCMWvEHheIYcgOTCfIUMvVX84=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/british_force_icon_64.png"
+    },
+    {
+      "hash": "sha256-5QGXVEabifQ\/41aMFBr7j5CazoKyD\/YKwhLOAkn\/UnE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/camel_frightening.png"
+    },
+    {
+      "hash": "sha256-hKO9B5QlJUGfQ5jc7jrrbsHWwszi8E6P05fD2Y+dGvk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/christian_schools.png"
+    },
+    {
+      "hash": "sha256-8EN2h7IV18yZyeUC9RdNyrcXOUdUU4\/HGdhdKwQZ4D0=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_atakebune_ship.png"
+    },
+    {
+      "hash": "sha256-g6zplxO3NPqsrKxrXsg1WNWBWwMTxstMI0rJ09XyznI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_cherry_orchard_wagon.png"
+    },
+    {
+      "hash": "sha256-tLFVhgW9gCB+Y4thgbC\/bQHpp3dcVvmliyonMd+ZVFE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_fishing_boat_shipment.png"
+    },
+    {
+      "hash": "sha256-o42tiR9e\/haYQTe2bcjE5TCQVKwclhIoC\/NAfpOKOHE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_fish_market_shipment.png"
+    },
+    {
+      "hash": "sha256-TMQt89oPjDWlv8\/cLQAR0JMaI566R9tT3mBh9vRpab0=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_flaming_arrow_shipment.png"
+    },
+    {
+      "hash": "sha256-ojhjID1J86+M+a739j16z09AvnpI\/X+5PVJs\/Ub4xzk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_fune_shipment.png"
+    },
+    {
+      "hash": "sha256-cm0u1Su2mB1WhshLsVrut4OOHi5Ps84lQ9sJaDEQkuw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_improved_buildings.png"
+    },
+    {
+      "hash": "sha256-qQHGHNQKMz8JkqqxZiFzc1h8BHMcBDbILntEIy57Mrw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_infinite_chakrams.png"
+    },
+    {
+      "hash": "sha256-yfKro91KyaOO18SHyoJXw\/qLJC5JhBIRIh3HGEabfck=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_infinite_naginata_rider.png"
+    },
+    {
+      "hash": "sha256-lX9pjuuu9cru+wfq\/qgMHcaHuh+v3hV16W\/oJ2cW0mo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_infinite_samurai.png"
+    },
+    {
+      "hash": "sha256-nm3myNQCOEWY7HWuOpm9VXnoG28vHfyxf1plkDDUrX8=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_infinite_war_elephants.png"
+    },
+    {
+      "hash": "sha256-GVJXmCWL9h0hEEVU7Rf5OUYhdgmq+h6ApynMMOKqZOg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_morutaru_shipment.png"
+    },
+    {
+      "hash": "sha256-h2QKhWHoMOCa7O3pojo32rzaNkBnA+4\/G1\/zXvjSOdM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_naginata_rider_shipment.png"
+    },
+    {
+      "hash": "sha256-GbICBZFzMPaCD20J6xIKDFI49DqDgRKc3WpApkCZfzM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_ninja_shipment.png"
+    },
+    {
+      "hash": "sha256-qo\/8EDJ\/7I6Kze5TkP\/EVaHizgYnHLb4+nodPDZpMCs=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_ronin_shipment.png"
+    },
+    {
+      "hash": "sha256-YrVoSsij\/93s5B3ACKLhCiAmWF2NnL\/yo2qYDtlLmp4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_samurai_shipment.png"
+    },
+    {
+      "hash": "sha256-9XG3WV3e6VipxgHwQSbXbBLXOnyz+7IknePKBtzZsXA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_saw_mills_shipment.png"
+    },
+    {
+      "hash": "sha256-c+jFTxPUg2T4NBqRwCAtTqXTcXPXyGuKcanS3QgvBmY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_ships_gurkha_1.png"
+    },
+    {
+      "hash": "sha256-0UX+Y6fenZx9OlULGnvCvQmtV9Zc20dkZm1J33qVFX8=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_ships_gurkha_2.png"
+    },
+    {
+      "hash": "sha256-LaJSrTUNabD7CFGJCVPmGADV5gJ\/UYNo1k1WO3v8gdo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_silver_smith_shipment.png"
+    },
+    {
+      "hash": "sha256-rPHJhOhkjJmAqTc2WpfacL+nYlzSn61cGEcG\/DAG1uE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_sohei_shipment.png"
+    },
+    {
+      "hash": "sha256-dav41\/adMUkknvFVLD4Vesi8jpvtbGkfa9\/igc0V1bc=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_tekkousen_shipment.png"
+    },
+    {
+      "hash": "sha256-6JD4ncYCibFz8UkFTEjalyX17vwaDdrbFuMwmafiInw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_wokou_ronin.png"
+    },
+    {
+      "hash": "sha256-6IE6L6Ed5LSuHI9NC6a5sI60p6BgU1TzYPYbjMXJZuk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_yabusame_shipment.png"
+    },
+    {
+      "hash": "sha256-FBLu+5RACQZlcQNv+Ty+aCjcYH2JTu3O1PrFrfppEvI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/chuck\/hc_yojimbo_shipment.png"
+    },
+    {
+      "hash": "sha256-XBX+m19dSxryMt3EWR1LjjJV7Y3t85teAbTvzODABgU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/civil_servants.png"
+    },
+    {
+      "hash": "sha256-UUL09ApgACig0CwK2+Muj9PvgE53ZY516VeHVeQpGss=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/clenched_fist.png"
+    },
+    {
+      "hash": "sha256-suZVCsAdGEgP6ax2w32rXH85HVHBnTo0E0gEcXrjPnA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/collective_economy.png"
+    },
+    {
+      "hash": "sha256-AaQrVOIwgCfl4TH5ttX617OXvEu\/oa9iLgQ8gQcLGTU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/consulate.png"
+    },
+    {
+      "hash": "sha256-K+VvfJtJe+XuSPWs0VZWOKnjmbU5CdD3+90thvCh0bk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/critical_upgrade.png"
+    },
+    {
+      "hash": "sha256-Ter0po5MMa4f3EC014orrsm7fct1auhQNtgqBGHUOeI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dim_mak.png"
+    },
+    {
+      "hash": "sha256-uBBZz\/dn9gC1MAUSRPNDQcVZcVeKgixtDQXwYA1PpN0=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/diplomatic_intrigue.png"
+    },
+    {
+      "hash": "sha256-WNlA4yjqfu0aZFiOe6bWp9K8WPrwVya6JBWtCmssccQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciple_aura.png"
+    },
+    {
+      "hash": "sha256-3Fm3BN5mNOiBmQ7Ju\/HKI5Ppldg66yTTXl8UAcTfhTE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciplined_cavalry.png"
+    },
+    {
+      "hash": "sha256-\/uNeMk6KwIbaxZFXD9yPPmX22xgLugmBLJxRjJYsCOI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciplined_chokuno.png"
+    },
+    {
+      "hash": "sha256-VirznPO+1KnV\/8Y12aHu6ShqlneJPpnYc1VVIfA4\/sM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciplined_elephants.png"
+    },
+    {
+      "hash": "sha256-5JKxT8bywLzLFTVvJowL5vujeo6DQM8AR16FpY4QzFk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciplined_infantry.png"
+    },
+    {
+      "hash": "sha256-IpboepUgVc3aVVFbczM4AGAJ3Vfb7BswMS8\/oBnCbaw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciplined_keshik.png"
+    },
+    {
+      "hash": "sha256-gYZwwuoDls7hXU\/L0Oyai8kIRID1lnFccWvkEOGMM+g=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciplined_natives.png"
+    },
+    {
+      "hash": "sha256-A3Hq3VEjLBGhAh+7KlDu4\/LH0pRFpLxLwa8T3hKQGik=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciplined_pikeman.png"
+    },
+    {
+      "hash": "sha256-6CrKOKqAv2TQryx\/mNCKfjs+hXsBYvX3eKvs9W2g42U=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciplined_ranged_infantry.png"
+    },
+    {
+      "hash": "sha256-k16V4gNwZrsAU9bVy6eOyPm1\/3Z62SL1lDvdWPvmS\/o=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciplined_siege.png"
+    },
+    {
+      "hash": "sha256-YBEvxsNHwbptYJiQ72+kUjboeR+CZ1hk7rg2gVjq180=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/disciplined_stepperider.png"
+    },
+    {
+      "hash": "sha256-IykPfkxMxT+SNVf0\/CqLgsBnjJMMK4MsqLmwUTU5m+g=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dojo_ashigaru.png"
+    },
+    {
+      "hash": "sha256-tPUPpq8WuhAQHfm9dWgtgDiABPYD+AuIaY8xN0PpyS4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dojo_naginata.png"
+    },
+    {
+      "hash": "sha256-fvM6zKX53aNXGR9OtweAJTBI8GOTtngYZUi4SXrrPTg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dojo_samurai.png"
+    },
+    {
+      "hash": "sha256-6t8ihgyxPMhUFHJ538xmazhCAOrB4OZpwjSRyZOY\/Q4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dojo_yabusame.png"
+    },
+    {
+      "hash": "sha256-JCpr92z2TBe0ekknKRiKD166HGS93O2F4nirSUezVqQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dojo_yumi.png"
+    },
+    {
+      "hash": "sha256-TlKVemMJverOVgnGne03u6e0ZmMXTLIiB+IoGvlylyM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dutch_army.png"
+    },
+    {
+      "hash": "sha256-4hMonPjhPL7Ab6FIzT1G86ER0g8eKwWU+Ov8cHuuQJ4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dutch_brigade.png"
+    },
+    {
+      "hash": "sha256-hjEHxnF7V8s3Pndi5D+fjw6uOAJo0F1pQiE47K6z1No=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dutch_company.png"
+    },
+    {
+      "hash": "sha256-lixvJHOLpWdNL615oVHUDkK4snmrvsUKQ4FohGhTfSs=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dutch_expeditionary_company.png"
+    },
+    {
+      "hash": "sha256-4kZp1B\/r0yh+obYDwTXNvLFNb3ogLcUvdBmsFWafR2o=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/dutch_expeditionary_force.png"
+    },
+    {
+      "hash": "sha256-TshnuPXv6t1TgJsMtnFr44hhfR7oh2+pJZRbI6En6J4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/elephant_limit.png"
+    },
+    {
+      "hash": "sha256-GAliRl7VNgan570nbKoiyIhZ\/EgDPftQ5aDEv\/q7B9k=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/elephant_trampling.png"
+    },
+    {
+      "hash": "sha256-BEInao8z0BX8NGSQBiEGkcYfBxMcqV6n8EHLwKP3hmA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/european_army.png"
+    },
+    {
+      "hash": "sha256-BXeqr4LZc32la599o+cMH50DHgBc9P8d0QEMEi+AATw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/european_cannons.png"
+    },
+    {
+      "hash": "sha256-oiFbWRfw8OqhT+rQpvRWsxYa96Edl7h0roK90qCkPYE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_arquebusier.png"
+    },
+    {
+      "hash": "sha256-az+a5JOqELEAzCDXVEmnYFOqd6QAdiV3p2HLaaPW6zk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_cavalry.png"
+    },
+    {
+      "hash": "sha256-Xy7qLv3XnOIZWdOmqfWxYknpR0dw4Q4D3WbbNoJT\/zc=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_changdao.png"
+    },
+    {
+      "hash": "sha256-X9WNK+5NtO1F0vErONGBzt\/VjFWrNdFT15WOjJhxHNc=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_chokuno.png"
+    },
+    {
+      "hash": "sha256-uf\/F\/wKM0bSyE9rM3yS\/rmfKwFMtaJSota6fJM8RcGw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_elephants.png"
+    },
+    {
+      "hash": "sha256-1yMFBLBSBf45naEyRs\/jbuVHQi9XymJZfey6XPP\/v8M=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_infantry.png"
+    },
+    {
+      "hash": "sha256-EqQSIXDMFzQpSySQXvY7Z6o3xPQgikJq1zN+Nm5+1PY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_ironflail.png"
+    },
+    {
+      "hash": "sha256-eeR18IyfkrtKsY\/0ad1UoBvTFksjFmfRGoT3nh+bsjM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_keshik.png"
+    },
+    {
+      "hash": "sha256-Ky22A2zx2W6AHBWZmCQQlOVgW9Z3TTTOXFi0Zq3T\/XM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_meteorhammer.png"
+    },
+    {
+      "hash": "sha256-xF3jDrmxa447rW8scM+2hUnNGDLpB7lO0aTDSEexhf4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_pikeman.png"
+    },
+    {
+      "hash": "sha256-FRtSrIqCmRQdm3lx4E0H9zXShaHjdJctK0yJovxXcn4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_ranged_infantry.png"
+    },
+    {
+      "hash": "sha256-4Ru8NxrHlZkzH2qFsNNhN66\/WQs3BOPHhT\/MWbXDFGM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_siege.png"
+    },
+    {
+      "hash": "sha256-WwtVBa1B6+2EwN8gas\/1SiLd9mpCYISy1driIXe\/P9Y=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/exalted_stepperider.png"
+    },
+    {
+      "hash": "sha256-6KKnTh0zUMZ\/wePle8uxrUpDyShxq664zlw2AOeH4XY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/faster_shipments.png"
+    },
+    {
+      "hash": "sha256-QZKftQOyLxLzLsG7KJdiejQ1lWiAWcuLzW+PL1WgsDU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/fasting.png"
+    },
+    {
+      "hash": "sha256-cpmR7E+4DGo35ym4QwMmrwt+cgU1zUUaued0AVvSCts=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/flume_and_ditching.png"
+    },
+    {
+      "hash": "sha256-T9TN172XK0Mkd6wbX+pzcG435XhTMn\/sw+fGxjPrmgc=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/flying_buttress.png"
+    },
+    {
+      "hash": "sha256-0roi0hibZl2MEzeJDn5y+qriShSfwp2azJT7QzcOKFQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/foreign_logging.png"
+    },
+    {
+      "hash": "sha256-aUzTGx9HWKQTMu7EHJIF2FjpRlTlvajbKn88THEFBdI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/french_army_icon_64.png"
+    },
+    {
+      "hash": "sha256-fZyjKkDj9bq6jNlWPReG4JQjq37RX\/RhG9mth+SIOvQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/french_brigade_icon_64.png"
+    },
+    {
+      "hash": "sha256-0dL9yY505Iq+RtOogiP9BPIi3hnWx\/AIV0rCl2B2O\/w=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/french_company_icon_64.png"
+    },
+    {
+      "hash": "sha256-raPk9yuibiUEinNhPbSpASExfyxrZsLdL4NIyQh5+94=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/french_force_icon_64.png"
+    },
+    {
+      "hash": "sha256-Vdwk8MWjjAl15ZbO4K3RLO2juwZSCQfscIxU9LZpA3s=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/germany_army.png"
+    },
+    {
+      "hash": "sha256-QtmjFGl5QyqDuZgqOvZRCMoX6Twizn7fPCLRs7+lAcA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/germany_brigade.png"
+    },
+    {
+      "hash": "sha256-xWpd7KcO8WbMs+W0lrqetuE7WFFdN4hRlpcpLuEUPe8=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/germany_company.png"
+    },
+    {
+      "hash": "sha256-SkIoxdylBc3NxUggLPDGzU1ut8ybr\/fZC6nXah27Q30=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/german_brigade.png"
+    },
+    {
+      "hash": "sha256-WqjSP+ASkf7gExzhBA3mupbHyZmCNjdXOlApVRZk6yA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/german_expeditionary_company.png"
+    },
+    {
+      "hash": "sha256-\/8++z+94f9ESPjRaUfN101zlDLmREfekvQozh3KoI0g=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/gold_hand_dmg.png"
+    },
+    {
+      "hash": "sha256-vu2pkQFryEjsNDBjD42aeyoZfm4RmsSUt1ZQoEnQ\/Mo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/gold_hand_dmg_on.png"
+    },
+    {
+      "hash": "sha256-6JXIp56cowARQNAhSVjauqw0h63eituhXuOepRYyfpY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/gold_range_dmg.png"
+    },
+    {
+      "hash": "sha256-ir3Oemn2lJyBoLme01r4LUDg8VLo3FgdFUKP1L4jgYI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/gold_range_dmg_on.png"
+    },
+    {
+      "hash": "sha256-UFSqFEO9xJK74C1TRMw2g816PlZGiUrIgSn6L42dL0M=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/gold_unit_hp.png"
+    },
+    {
+      "hash": "sha256-HQivaktVQQYNIjjPwLBQIzIfAy4JSblXJHfhhH3U+sI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/gold_unit_hp_on.png"
+    },
+    {
+      "hash": "sha256-69wzvuul9ETCOBByvCqBDIg2g+XiVV5Db1x2u08NnPg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/gold_unit_speed.png"
+    },
+    {
+      "hash": "sha256-nyh3Qmmc70D\/jaqLV\/W1iQhCJ76IEdylDBtFrSabzzY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/gold_unit_speed_on.png"
+    },
+    {
+      "hash": "sha256-omf55+Z7rKPo5UFguPTM\/N8lE68CVzubYWavUqM0OiY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/government_county_icon_64.png"
+    },
+    {
+      "hash": "sha256-TG2I0d5UkM913XsophH\/\/TpA826ZIHyWLikyfTpC5Dg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/government_prefecture_icon_64.png"
+    },
+    {
+      "hash": "sha256-jhEXfBEiuLE+yAw7ZDEaKFWdBvcVXinftggqBQSRs3M=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/government_provincial_icon_64.png"
+    },
+    {
+      "hash": "sha256-C7TwXUOPp0KCOWgPoEGUKpybMSz9FEcCXnXewfK+\/Kw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/government_town_icon_64.png"
+    },
+    {
+      "hash": "sha256-QE4ssuetT1RCax2IYO4pFlcMMmxtUdsFPbMr4710KsY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/hanami_parties.png"
+    },
+    {
+      "hash": "sha256-A5jUNjBPPCAbwZ\/kutPAU9uINThhZxJBBULakkZPJr8=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/hc_bazaar.png"
+    },
+    {
+      "hash": "sha256-Q7qYxWSjTVXYT5tG7bg7T7OOh5+xy3Za\/93CBR4G71k=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/hc_farmland_conservation_icon_64.png"
+    },
+    {
+      "hash": "sha256-29ooNLdrh0Lvw2zpprEf9B5gZTV+kEXtfIrunIcJtZM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/hc_morutaru_upgrade.png"
+    },
+    {
+      "hash": "sha256-lcXavaQDYHqcFHHX9ll2m8HJLjkVYn\/XDJPEDKWKZN4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/hc_sohei_shipment.png"
+    },
+    {
+      "hash": "sha256-3VN3ST\/wPVi7FzbO+G0r7aTei2KKx2+4QTAT1g2dnEo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/hc_the_raj.png"
+    },
+    {
+      "hash": "sha256-ZP4Abvb2YYgvPJ5hLtMqw\/\/2V35s68DciNfka8n990I=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/hc_trade_empire.png"
+    },
+    {
+      "hash": "sha256-n8zcCBqPSqmSX5q+vQNiu1KjXGDYZaIRHJ6vWkAq30s=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/hc_year_of_the_ox.png"
+    },
+    {
+      "hash": "sha256-epSKWr4zFPJicubU0KEF949NQUAt9ZOhsLH1N0+g1fk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honered_natives.png"
+    },
+    {
+      "hash": "sha256-fRaKN\/WF4n2SueYUfMWA7N+j9zBjuea0LmVoyw3NAR4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_arquebusier.png"
+    },
+    {
+      "hash": "sha256-lY3yIy16RNQt8d9\/5I4fuZPxSDwLn8FLGzu\/8ED03No=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_cavalry.png"
+    },
+    {
+      "hash": "sha256-cAZNIf5mcPRF5Cnlf75QJ7eRYxGX\/OENGugqXh1Pg0k=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_changdao.png"
+    },
+    {
+      "hash": "sha256-ND8UJSQumd2GX7enzbb0jqAzDvUEpV8S2mowScrSO18=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_chokuno.png"
+    },
+    {
+      "hash": "sha256-+BecY1Jg8qcPAPd\/yy7qQ\/b4QTPbdIc6vPxFqv3zqrE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_elephants.png"
+    },
+    {
+      "hash": "sha256-jH5I9pJ+7Ndj18yg36DkJxUHBpu\/CQ3bIwGnm5TTn1Q=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_infantry.png"
+    },
+    {
+      "hash": "sha256-e5CQzG\/w\/wXansE4jDFmLTpuSzqvz69MknkoVr0mWmU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_ironflail.png"
+    },
+    {
+      "hash": "sha256-x2CcGFEyugoYSXlg5r9xoxlBXLamay99VbgEL2v\/0fk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_keshik.png"
+    },
+    {
+      "hash": "sha256-UYwV10gRlO7Z97dWDf2oUcU5y2qkstEBJxZklxw5j10=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_meteorhammer.png"
+    },
+    {
+      "hash": "sha256-+pEAMGI9MdxuWULsrbMiN3WDFWqHTUtclQrbujy+1Fo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_pikeman.png"
+    },
+    {
+      "hash": "sha256-IgL7OPmVu0Bpc1WEbgm87IelToMLj7ZDh\/wmzPZ9cS0=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_ranged_infantry.png"
+    },
+    {
+      "hash": "sha256-09CT3TsCCtaVTF8CQ8bJr5uZScB588g3K3UdlX\/hGQU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_siege.png"
+    },
+    {
+      "hash": "sha256-h1eXCkCweo1rUj1KOD+EftpENRatbnzUQC71ucFt6m8=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/honored_stepperider.png"
+    },
+    {
+      "hash": "sha256-1ckI6Srlhedu+R0nrQrpjRmrA2uV0K1J3uxjFQNITf0=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/hunting_eagles.png"
+    },
+    {
+      "hash": "sha256-n3u\/DPqy6Sdr2ndH3d8\/wTElEYiKOTTRqi\/Nzb3A5Qg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/imperial_beureaucracy.png"
+    },
+    {
+      "hash": "sha256-IK7MYsk2BMdui7lvmU8Qi8VKaqyGwpch3lLyEdPqTYY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/improved_healing.png"
+    },
+    {
+      "hash": "sha256-WOjzhMAa09Z1r1kO8taRlL+GJQqq7oSEUyla8zowqAk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/improved_warships.png"
+    },
+    {
+      "hash": "sha256-oJrqYZb8kOyi+xEEKxI+x83Mwl8hIOvDX\/uSHpsjEGM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/indian_civil_service.png"
+    },
+    {
+      "hash": "sha256-OG4GwxYTYFEfJlYyF65UHmzHxvQL0Uv8+I3oTNUAJ3c=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/irrigation_channels.png"
+    },
+    {
+      "hash": "sha256-5EGKG9uxVoAsCJR46Qivn0h8gM38PbUBW1f7Z6x22HI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/master_lessons.png"
+    },
+    {
+      "hash": "sha256-4wvR7jt0XMSTL9phzyfiO\/xHUNcuAa7v7t4cRARZhIU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/mechanized_rice_cultivation.png"
+    },
+    {
+      "hash": "sha256-F+JZoc\/724FtsJ6Zie9OfRZZMABf\/VbzeyEkXoY5M9M=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/meditation.png"
+    },
+    {
+      "hash": "sha256-vXNkdwWrDXKUvab522Qp+bZgr7msObmPj76h6lAauqw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/merritocracy.png"
+    },
+    {
+      "hash": "sha256-hH0rVA0cQ6HGuAp6fk\/6lL25BWFHkQuxNRKo0kN8rv4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/ming_army_icon_portrait.png"
+    },
+    {
+      "hash": "sha256-kXY\/1AaWG2SQ1fjuL1f74WbKlKKs4C67nzUK2k6agq4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/mughal_architecture.png"
+    },
+    {
+      "hash": "sha256-cEfNLkHu\/FFytjbOmvF9hHlP37E4N4HRjyLXL2+Oiso=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/new_mongolian_army_icon_portrait.png"
+    },
+    {
+      "hash": "sha256-gq+CnjfFOoV\/iz1rSnc2QdJzTj1OCtf\/LOIWeVml70Q=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/old_han_icon_portrait.png"
+    },
+    {
+      "hash": "sha256-6q6AxlwgGLkVRjygUTIYtVa7kYrRCf6n6rbdTtvelD8=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/ottoman_army.png"
+    },
+    {
+      "hash": "sha256-3y4r9GH\/2hPCLtnyGU81+qm\/Fa93CjEHnWHGCWUvSzw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/ottoman_brigade.png"
+    },
+    {
+      "hash": "sha256-nZVTdntOSAg4H0X+Z2WQushiMa0HuFIVj2gDfxBA1n0=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/ottoman_company.png"
+    },
+    {
+      "hash": "sha256-7PXBu\/Id4dHuGMvb9Gjs\/2xch58rz7Z87kcy+7P64ZQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/ottoman_expeditionary_company.png"
+    },
+    {
+      "hash": "sha256-w8w4t9Ky9l7HxSOWiKDHCBFaBG4sWgkMjtSlGQvKr2A=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/paddy_threshing.png"
+    },
+    {
+      "hash": "sha256-4Xcc5hZYyK4F\/kKGZlHja9yC4Fv5o3P4RbdkCGFg54U=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/peacetime_fishing.png"
+    },
+    {
+      "hash": "sha256-Pb5PXoLDNiBVMIKJWQadn9avMzJYNJSV0RrZ+HtfyUw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/pet_training.png"
+    },
+    {
+      "hash": "sha256-XYjgyzaGZaoSBDm1whA5x8uzZ34BnhFryWQqyCmdO8w=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/pilgrimage.png"
+    },
+    {
+      "hash": "sha256-jwdrVDaRSLeggWIdywNo0NUwEE6LQre\/fKv+0pRYaXg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/portuguese_expiditionary_fleet_icon_64.png"
+    },
+    {
+      "hash": "sha256-F36iw\/9tN1v\/XXB1TjDa5r0H4h2dvq1gtrsscxjykrE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/portuguese_exploration_fleet_icon_64.png"
+    },
+    {
+      "hash": "sha256-Zv5YCcIUbFJp8fZjfxtstXkcvV\/ccT4VTFLHVh5czQc=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/por_army_icon_64.png"
+    },
+    {
+      "hash": "sha256-p9vEnUBsNe5ojxzAZwHT8r0tshcriCwbji95hFl+Y6Y=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/por_brigade_icon_64.png"
+    },
+    {
+      "hash": "sha256-7cIcPpJqdQj2vA4waySyNwHXiEF25Cu0SM3nPSrUraw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/por_company_icon_64.png"
+    },
+    {
+      "hash": "sha256-GsbpEzknc9JKk3G8ZJAoixxrTwYYTXBctmDUMKihGwk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/por_force_icon_64.png"
+    },
+    {
+      "hash": "sha256-0JzfD326z0P5xPH54ZskiOgpL2UBtUYmlnI04LSnzT8=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/professional_hunters.png"
+    },
+    {
+      "hash": "sha256-KP3yTdbxCljwQwYuGKPzGR4U3FIih5NZIw21iQHF4qE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/punjabi_new_year.png"
+    },
+    {
+      "hash": "sha256-vn6eMeBuik1ulsolOJBCaB4zCK1XHQVUq+KvZSanpxk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/regenerative_forestry.png"
+    },
+    {
+      "hash": "sha256-Em3Yd5cTgXuxi1COf\/eP3sDLfNDx+sWBoQxMhJo31wg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/reinforced_gauntlets.png"
+    },
+    {
+      "hash": "sha256-xosrA5WUw4RTMYalsb7GNIlAWt2Gg21XtkQN0xYvEVU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/rice_exports.png"
+    },
+    {
+      "hash": "sha256-4SC5lwNN5ZNew5636bHQI9ORiGLMEsogwDiHG94Xua0=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/rice_markets.png"
+    },
+    {
+      "hash": "sha256-Rr7pXcEF6GoLTYoq3O2eIRtchRfW1yQc41DHAi6dEDg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/rice_surplus.png"
+    },
+    {
+      "hash": "sha256-zPYwOoB7qD3fENa2tL0t6kPcPs6BnPG0fJ2wRsVwE0o=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/rice_trade.png"
+    },
+    {
+      "hash": "sha256-buzZHj\/BSoFa+G\/dXwFIATvXoZ3aAf69f3+RPVwCgkE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/rus_army_icon_64.png"
+    },
+    {
+      "hash": "sha256-nVM01LH\/SCPUB6CQJxFeGEM8cooCysWD8RBuVopqOu8=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/rus_brigade_icon_64.png"
+    },
+    {
+      "hash": "sha256-LJ6PFGh56sbIPgGtH1rE152QihjMxYKxtlGbP38gCk4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/rus_company_icon_64.png"
+    },
+    {
+      "hash": "sha256-N5QDGS+Z5I8Q33wFYL14mS3I\/8b+fKO7Jpr7ZR3\/26Q=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/rus_force_icon_64.png"
+    },
+    {
+      "hash": "sha256-UzkZTPhHg6FKd9hqKSIUub+Q9sPcYj7RLQVaTQB7CSI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/sacred_cow.png"
+    },
+    {
+      "hash": "sha256-95Ov5LUJ4iULYR16KM\/BfznRBplyz1Tedroa+pBGUiM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/shaolin_warrior.png"
+    },
+    {
+      "hash": "sha256-JBKNECv8br8xhOWqoEMc9dnxgSyEPwiyomHZ2LxVC8E=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/sharia.png"
+    },
+    {
+      "hash": "sha256-z0sD\/EpXp\/2xdST35KLM4cV\/SiNIYduGDUPcR2Xto+g=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/shrine_coin.png"
+    },
+    {
+      "hash": "sha256-7EppGDTU2bq1uQcmc4i8IJ5FvTKL25qQVD40qnBSRNI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/shrine_coin_on.png"
+    },
+    {
+      "hash": "sha256-8Br7zHYvwZRjDYGKBUQxA8\/H3L7rHLmPOs5H03fmwyI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/shrine_food.png"
+    },
+    {
+      "hash": "sha256-ozH1U60OW+x1kwjeBrmkoxsJaQMmDFWczDbzTs4Di+A=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/shrine_food_on.png"
+    },
+    {
+      "hash": "sha256-aR9+pFskoeqXKTM99\/NAdGRKa968DOdzgbm7URndCYo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/shrine_wood.png"
+    },
+    {
+      "hash": "sha256-wQoWlYSXBH6VAypka20BZkbenkbA25Z27ZVUjyMvb6Y=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/shrine_wood_on.png"
+    },
+    {
+      "hash": "sha256-27mmaU4VWDh3Ykm6TDszesi4Q9gFWecepRg\/Cp97tPA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/shrine_xp.png"
+    },
+    {
+      "hash": "sha256-zToolJegqHEM2Cc1nDNqGE8RvhAUxDL6dN9ayE43VFE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/shrine_xp_on.png"
+    },
+    {
+      "hash": "sha256-O2BqtltHqgThwXAuSLIao3x+01IwIrleYHg2inuEERg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/sikh_gurus.png"
+    },
+    {
+      "hash": "sha256-IM3PEywqOMsl3TnF\/MCtVe1mB4uS2dxXFmCv\/QONKWo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/smokeless_powder.png"
+    },
+    {
+      "hash": "sha256-SQjbIfxYfQd7a+M6n88yPjDGBGosksEN42jFbsvvfxo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/spanish_army.png"
+    },
+    {
+      "hash": "sha256-6rVtvUnyziMbxQmX50rgLYHYPsMuZJZwy4vOURSkDcU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/spanish_brigade.png"
+    },
+    {
+      "hash": "sha256-UYZmDxMd3iGDiUANIb+a+pGW7Ml6UMFBw9ceyAgD0JA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/spanish_company.png"
+    },
+    {
+      "hash": "sha256-bGkf9qgdnjqqAGo95pY7jS82PRNMHFHDTz3JaS0t2Eo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/spanish_expeditionary_company.png"
+    },
+    {
+      "hash": "sha256-Zbc8ksoVmIgeFyrY1Mm2NpiJvL+tFib8c667IucnYQk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/sumptuary_laws.png"
+    },
+    {
+      "hash": "sha256-etoEtIz5s6tMoXXvhxW3ZpOA31kdjMbHNeqxs+5Czno=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_advance_to_regulars_icon_64.png"
+    },
+    {
+      "hash": "sha256-LhtBtTuSS46L3fc1ZhgGEdp0bQKojyNHZYMuqHg8AQE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_attack_upgrade.png"
+    },
+    {
+      "hash": "sha256-C\/f29bSeBILbUtWLe2TCQBUPhStrHY1Ek3kHRBqK72s=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_blanket_filters.png"
+    },
+    {
+      "hash": "sha256-+cjBchljJv8x9XdrTaC0vANy8tyhCUTyVwLcEU48lIA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_cherry_blossom_festival_icon_64.png"
+    },
+    {
+      "hash": "sha256-JERpQmePpHA6lWjClswavCb\/MAwq1CwuZ0cBrNCBubw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_city_defense.png"
+    },
+    {
+      "hash": "sha256-Iqmh\/PsyWZUbtc6v8Yzfmn7wyvm1743++nx3UKKfwOQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_city_defense_indian.png"
+    },
+    {
+      "hash": "sha256-K+VvfJtJe+XuSPWs0VZWOKnjmbU5CdD3+90thvCh0bk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_critical_upgrade.png"
+    },
+    {
+      "hash": "sha256-u2mM45LLj28E5rdPXB74xsIl3850nrRlR9OzoKhUfq8=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_dike_controlled_canals.png"
+    },
+    {
+      "hash": "sha256-WNlA4yjqfu0aZFiOe6bWp9K8WPrwVya6JBWtCmssccQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_disciple_aura.png"
+    },
+    {
+      "hash": "sha256-rs\/iRIUtX8z6ueeFvPu7ydUhrB1eAL0LJ2mv12GhPLI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_dojo_upgrade2.png"
+    },
+    {
+      "hash": "sha256-VLOwLpukLp+kyXMaD8bYBsx02AK5ejb9WjOrU\/8sPsY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_empress_dowager_icon_64.png"
+    },
+    {
+      "hash": "sha256-FZcuiyLP3Vtoie+LetdenUS4FgkD9ly+WK\/uSCmVEAM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_fortified_castle.png"
+    },
+    {
+      "hash": "sha256-FJYXxHxQCNx3bLShUdHy0DBaDxghnRv8aHKYEP31UKY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_free_samurai.png"
+    },
+    {
+      "hash": "sha256-14aE2HWKt34AhxFI1YSDka2epF8+fYABum\/lkiLrnSA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_frontier_castle.png"
+    },
+    {
+      "hash": "sha256-Hf0omUGi7QmnCPjhFrR2m48RbK+r6FTirXmuQ6R5Q3w=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_improved_healing.png"
+    },
+    {
+      "hash": "sha256-bs5yqEGaE0kTLFlqerBeC9iUQr9mvvs2mOlSUpXB7os=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_intonjutsu_stealth_icon_64.png"
+    },
+    {
+      "hash": "sha256-501sFZvqsQHLQJKT9RwbeM4yXE9o6thi2oF\/E9GFpLk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_japan_divine_strike_icon.png"
+    },
+    {
+      "hash": "sha256-wdfYtq1gF5F5ejedwwgrULvEI8pU8uTdNQskieO2n8w=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_japan_kayakujutin_icon.png"
+    },
+    {
+      "hash": "sha256-gH4\/z7eaTE4ftQxWWQZzl09Cfls0yKA7Dow4DtIaZT8=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_japan_kayakujutin_icon_64.png"
+    },
+    {
+      "hash": "sha256-BHw7tl33W+0ZN6BKe\/bkffS9UZx7MwA1tCFOVDtry3I=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_japan_stealth_icon.png"
+    },
+    {
+      "hash": "sha256-yeY7FgcbtTUhJjTn9N7TvoZPPOXxVc7VEikHln35XM4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_legendary_natives.png"
+    },
+    {
+      "hash": "sha256-08iSCZdEwaNoEA979pByHjzllWcPb+T01xfYEeOA8to=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_master_training.png"
+    },
+    {
+      "hash": "sha256-AbnXpo+49Jx6SrDJ3rop2g8t8tZ7HDEeXU4bUDHo1vg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_monk_healing_icon.png"
+    },
+    {
+      "hash": "sha256-9FSKr3l8IAeJdI55thwbVFVERoAFj0h6mSUCXIMmbU4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_convert_disciple_icon_64.png"
+    },
+    {
+      "hash": "sha256-odChvYb\/58ooBRS24rO6DPB+FN1Adtg2GUVDzMuqYgQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_critical_attack_icon_64.png"
+    },
+    {
+      "hash": "sha256-VYxAIm98Dnt8Djunb3DEaqTZjVIs5KzchCiAeyxdk7k=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_daimyo_aura.png"
+    },
+    {
+      "hash": "sha256-1pi8Wom\/l9KPN7gxLWrmBJa6NqNC45AE7wuj5J5rWFk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_disciple_aura.png"
+    },
+    {
+      "hash": "sha256-YxebjFnDss8ndlq9o8et5n2mzZl\/UDGZpSEZMseTZNc=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_dodge_icon_64.png"
+    },
+    {
+      "hash": "sha256-GC\/ab6j+542kXNDqgqaLckWM3UvdbhZH\/A9b1fIxChk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_econ_aura.png"
+    },
+    {
+      "hash": "sha256-6kGNfNgjPz2WnMoFP8DJXgK5IkhVh\/TkQyVF2It\/o54=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_frighten_aura.png"
+    },
+    {
+      "hash": "sha256-NaOozOLi1kuV5DOEIX6Bpk+cmWdiCMn3vAbRuTm2zko=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_kayakujutin_icon_64.png"
+    },
+    {
+      "hash": "sha256-TqOv71TpDY5Y0+Ie8NA758NSLhvjAzSTnBATqA0Canw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_mansabdar_aura_icon_64.png"
+    },
+    {
+      "hash": "sha256-vsmwDLWJV4Ei8I0FH\/tgOilkOuCE9gXgpHFNZGymcZs=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_military_training_aura.png"
+    },
+    {
+      "hash": "sha256-fZGBSZ0jtj2U6tZQ4ijWCgzQdW098Gsu+lAg4o2qnRI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_monk_aura.png"
+    },
+    {
+      "hash": "sha256-1oVIjMAV\/GK4u3+CqESs1Ecr+BpohNY+86b+aFP3N98=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_monk_healing_icon_64.png"
+    },
+    {
+      "hash": "sha256-kVC5KcOmZvcoo7kOqywm8O9VqXvamrTCUEUZzdChVGs=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_scare_aura.png"
+    },
+    {
+      "hash": "sha256-SqzWN9fUwJwWRfhhtNr4+qAe1HwhcBHKepjJlMbNU18=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_shogun_aura.png"
+    },
+    {
+      "hash": "sha256-wWir8C22AL4ImfT69R4XP3pxY8z7XYSAiB5vnnSpynQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_stomp_elephant_icon_64.png"
+    },
+    {
+      "hash": "sha256-varQ9LH15hechOw2OoQt+XoOxi5\/YShxMcX16uXpHdA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_terror_charge_icon_64.png"
+    },
+    {
+      "hash": "sha256-N77OPrzMjPjbSvPq99MpeyTYdhY+ysJ7oPIOa0SYRAI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_urumi_regenerate_health.png"
+    },
+    {
+      "hash": "sha256-pkDvnPx+sOBuYSWh3+i414XafeDVkTXVa9Q5p60C4JE=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_passive_xp_aura_icon_64.png"
+    },
+    {
+      "hash": "sha256-gSpBHetnESggG9ZiPPNjMfpE2VagsGaOnDCKYasxzHo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_peasant_revolt.png"
+    },
+    {
+      "hash": "sha256-Nah\/iGyQR\/YyZbcCW7WrFICCvmZbniKA9FO3K5A9Xqs=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_peasant_revolt_indian.png"
+    },
+    {
+      "hash": "sha256-5ILSEyaV8vKlLQlRQTIu43u03tJQDdCL9FnRcdADMmQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_peasant_uprising.png"
+    },
+    {
+      "hash": "sha256-UvExgzFaWP66mLjO2L3cG+eEX+MIgVA98yPbiMBzrbI=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_peasant_uprising_indian.png"
+    },
+    {
+      "hash": "sha256-Pb5PXoLDNiBVMIKJWQadn9avMzJYNJSV0RrZ+HtfyUw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_pet_training.png"
+    },
+    {
+      "hash": "sha256-VtIzZINukRH7jGqw8\/QvMCt1yEf\/RYFtg6qdUiFDScg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_regeneration_icon_64.png"
+    },
+    {
+      "hash": "sha256-TbN4vk42qnQPdKcjgbxtRzTq7iimtBzTRBaovKJ3hps=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_rural_defense.png"
+    },
+    {
+      "hash": "sha256-XT27Db+tRmuVgmp7RTYAoqo1veTeDy60EY3rRG8fUbQ=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_rural_defense_indian.png"
+    },
+    {
+      "hash": "sha256-LRYl3iUtmiv06dYaRF5f5mQWpFtG73oBiNCk7RHoyP4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_rural_peasant_uprising.png"
+    },
+    {
+      "hash": "sha256-GcLXNInfoSDKNf7NkM57jSsh0MUcA2reWWEnEoPJT08=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_rural_peasant_uprising_indian.png"
+    },
+    {
+      "hash": "sha256-awAlzmazbeovuiQ2UPwAulNbnmt+EoHZbvzTGMhqWzw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_sentry_uprising.png"
+    },
+    {
+      "hash": "sha256-95Ov5LUJ4iULYR16KM\/BfznRBplyz1Tedroa+pBGUiM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_shaolin_warrior.png"
+    },
+    {
+      "hash": "sha256-sRIEnIV08aNsjJbU9Q7WQrWcyruL\/aSI86bSyTSDnI4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_shrine_resource_upgrade.png"
+    },
+    {
+      "hash": "sha256-\/laSYJ2qixUZbANk+YNgNbX8ln\/5nsljkwS5lHMq7IM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_spirit_medicine_icon_64.png"
+    },
+    {
+      "hash": "sha256-eEMxZLR6PYiYKKZC7\/0eynytiPkHaV8VvgrhpORprqY=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_stomp_icon.png"
+    },
+    {
+      "hash": "sha256-N1OhFZ3yDaDDTv5sXlc4s0RUPVH2NCtc\/vkv\/z2IJZg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_tax_0_off.png"
+    },
+    {
+      "hash": "sha256-HcbBzpejJ886Np54c1HXJxkOmcNlnhCN1yy1FGtdun4=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_tax_0_on.png"
+    },
+    {
+      "hash": "sha256-hdYXZCxfET0PYaioZ\/iBaA+aigWUXSp4yXTeA0LOAGc=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_tax_10_off.png"
+    },
+    {
+      "hash": "sha256-dfyilThpZygaQpU2i5tTfOQNjJiLv4CxPCMA\/SEURBg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_tax_10_on.png"
+    },
+    {
+      "hash": "sha256-0zlFTwehVsD5A9ne34SUr4OJBjGcu3dFTrkBEHdL8tU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_tax_5_off.png"
+    },
+    {
+      "hash": "sha256-ZZJdhvBizalx492YzFFzTnjBl4Zy02c02IvNLeIPW0I=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_tax_5_on.png"
+    },
+    {
+      "hash": "sha256-6GXB0LDu9Fc27dLiLDfef4X6wNKjs3TZMf5FQibvYaM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_terror_charge_icon_64.png"
+    },
+    {
+      "hash": "sha256-Ph9lgjT7Rt3yRwyd6OYVxHPq1idBE6CqhcDRsaJUL0I=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_toshogu_passive_ability.png"
+    },
+    {
+      "hash": "sha256-anhXsT0UtB7\/L\/gxP07gtJMxC+PE4+WDU3hBwvRxIyw=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_town_defense.png"
+    },
+    {
+      "hash": "sha256-Io18Go2+RNC63sxVPpId3eIchIQe13ipeZ5eab6j81U=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_town_defense_indian.png"
+    },
+    {
+      "hash": "sha256-nr5tRp7A\/1BM9rOXPPJJLjGNLPDyuGESHbKkQMIzhLg=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_train_disciple_icon_64.png"
+    },
+    {
+      "hash": "sha256-AeaUlHHa3OvApKpUoa1yvjYdoKdP5c9X2iVqQwVXSuk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_tropical_timber_trade.png"
+    },
+    {
+      "hash": "sha256-nk6fSDgWA3pnjbSw3uis9qwJ353kCvZsYVCjUcnlSqA=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_western_reform_icon_64.png"
+    },
+    {
+      "hash": "sha256-68xIzZlYXO1SuKQ\/Ev4134rVzYo8J6Hd31FtqbgBY0o=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tech_yozakura_lanterns.png"
+    },
+    {
+      "hash": "sha256-mgPUQIOh6sAJAZrdELvsQBFNWhYtvbcVV56psuIXa6A=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/tribute_system.png"
+    },
+    {
+      "hash": "sha256-tzFYEZeSSIj4nnIbjY14c1I4bEepLXT4WCdnGR60wkU=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/vegetarianism.png"
+    },
+    {
+      "hash": "sha256-1cIhwVkj02Pm54ce5ttMJzFQXrsPj0ONRLdCzHrmTTM=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/waterwheel.png"
+    },
+    {
+      "hash": "sha256-DZqCLJBUQdyqbsafgqDDhO8+WzhYjz69ICpNbUTCAkk=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/wood_clearing.png"
+    },
+    {
+      "hash": "sha256-kKmwWAFt4etGTKIdfZVPb+pz7bo8iUtfqQAVq5Wi6eo=",
+      "url": "img\/resources\/images\/icons\/techs\/asians\/yoga.png"
+    },
+    {
+      "hash": "sha256-fNNSHz1FCG6AbjU4hUOlmg0bSPAySQk6nvfKDQs8XnU=",
+      "url": "img\/resources\/images\/icons\/techs\/bashkir_ponies\/bashkir_ponies_64x64.png"
+    },
+    {
+      "hash": "sha256-jN+1o7gcAjBTQIeKv8oX7O7hMO47qlCwW+XD+ks7rlI=",
+      "url": "img\/resources\/images\/icons\/techs\/basket_weaving\/basket_weaving.png"
+    },
+    {
+      "hash": "sha256-vpSJKw7G+uLooprLoMdWN69TfCRnuhj1LeZmS5xZGEk=",
+      "url": "img\/resources\/images\/icons\/techs\/bastion\/bastion.png"
+    },
+    {
+      "hash": "sha256-\/38S\/i+p\/CC4HK0gQ1RekfwAg\/tw6NFvKWGpQy0H7H0=",
+      "url": "img\/resources\/images\/icons\/techs\/bayonet\/bayonet.png"
+    },
+    {
+      "hash": "sha256-CR\/\/VaS0EPV0sBwH9VyK34pSKVVsOH8JhB9YqZLGzqY=",
+      "url": "img\/resources\/images\/icons\/techs\/bestieros\/bestieros_64x64.png"
+    },
+    {
+      "hash": "sha256-robstTA55daw3pkFiDuRZCEalLL9+9PwwN9yemHddgg=",
+      "url": "img\/resources\/images\/icons\/techs\/birchbark.png"
+    },
+    {
+      "hash": "sha256-k25\/7qKwUcXKtKZD++8G3ovpath36YfNg2Qx6acsJMU=",
+      "url": "img\/resources\/images\/icons\/techs\/black_watch\/black_watch.png"
+    },
+    {
+      "hash": "sha256-lAPDtJdC2n6XYZDytMafTX5a+tRko4MgQ9Ep8fFSTfc=",
+      "url": "img\/resources\/images\/icons\/techs\/blockhouse_icon.png"
+    },
+    {
+      "hash": "sha256-Ra0w+u7KGODkurM6YJ0o2uEIljzz0QVGRqKBu41cS\/c=",
+      "url": "img\/resources\/images\/icons\/techs\/blunderbuss\/blunderbuss128.png"
+    },
+    {
+      "hash": "sha256-p\/zn7Bfw\/MgUt0VMOms0RnpMNCVstZejJqccXoZdOeA=",
+      "url": "img\/resources\/images\/icons\/techs\/blunderbuss\/blunderbuss_64x64.png"
+    },
+    {
+      "hash": "sha256-hCXxcB+Mhwpbb49VVvoM3BwVrb1v4C\/0G594ApIVZcU=",
+      "url": "img\/resources\/images\/icons\/techs\/bookkeeping\/bookkeeping.png"
+    },
+    {
+      "hash": "sha256-1tMahmQIaKAgLX3pPkJtF1W\/IMRfzJATN99lua\/J\/U8=",
+      "url": "img\/resources\/images\/icons\/techs\/cannery\/cannery.png"
+    },
+    {
+      "hash": "sha256-R\/9nG\/mxCJNRenaKvP2GbpE8KPRfwF+1LN4rc25u94s=",
+      "url": "img\/resources\/images\/icons\/techs\/caracole\/caracole.png"
+    },
+    {
+      "hash": "sha256-CZ1PT1FWZJ1JDqaM6Q\/30GUPxh5Loh6B6TcInqV+VKk=",
+      "url": "img\/resources\/images\/icons\/techs\/carib_kasiri_beer\/carib_kasiri_beer.png"
+    },
+    {
+      "hash": "sha256-OnqYfYc0yheJwaA7I1wmo2tiZboD\/SM87vBNS26AJT0=",
+      "url": "img\/resources\/images\/icons\/techs\/carronade\/carronade.png"
+    },
+    {
+      "hash": "sha256-X7A96kbF7Obl\/M\/Icw1iDCTF01rnVX7ATrNYVq2btkE=",
+      "url": "img\/resources\/images\/icons\/techs\/cavalry_cuirass\/cavalry_cuirass.png"
+    },
+    {
+      "hash": "sha256-vqEA9WDKGm7H\/T0Il4mJ4zoLWFrmW6PAwENv54OHJ2A=",
+      "url": "img\/resources\/images\/icons\/techs\/champion_natives\/champion_natives.png"
+    },
+    {
+      "hash": "sha256-a2DaEAZY5EOYh3M2Q5pCL6hnmngxkqxgw0DPMjY7Gok=",
+      "url": "img\/resources\/images\/icons\/techs\/champion_nootka\/champion_nootka.png"
+    },
+    {
+      "hash": "sha256-r\/aDa\/yqQmcLPDkZCBdPoF8rCZx1joKCbVTLZSRB5ik=",
+      "url": "img\/resources\/images\/icons\/techs\/cherokee_basket_weaving\/cherokee_basket_weaving.png"
+    },
+    {
+      "hash": "sha256-7g22NaQ8YO0gscIpmAX6qWZ0luvfaqpgxlRVKbjatas=",
+      "url": "img\/resources\/images\/icons\/techs\/cherokee_syllabary\/cherokee_syllabary.png"
+    },
+    {
+      "hash": "sha256-9RYTQpdDbbzOar+NSPcB7udi78Tw\/96baAa2NKEFOkI=",
+      "url": "img\/resources\/images\/icons\/techs\/cherokee_war_dance\/cherokee_war_dance.png"
+    },
+    {
+      "hash": "sha256-9zcXKmi4dzNnQm2VCPPQPi7Z\/NVUDFJeMuuTBHXn+Ww=",
+      "url": "img\/resources\/images\/icons\/techs\/circular_saw\/circular_saw.png"
+    },
+    {
+      "hash": "sha256-d1vx2F5EbZFotWv7AmLnHPOZv6cDBQx2glhcVTVvjss=",
+      "url": "img\/resources\/images\/icons\/techs\/code_napoleon\/code_napoleon_64x64.png"
+    },
+    {
+      "hash": "sha256-E04XNUYGSDEwrHv7LpvPEJeTSeBERbQseV5gzjeWxB0=",
+      "url": "img\/resources\/images\/icons\/techs\/coehorn_mortars\/coehorn_mortars.png"
+    },
+    {
+      "hash": "sha256-yYi+Dd5UUY5UhPRH4vbb5o9r33f3WFlQt2ZZOiZi7qY=",
+      "url": "img\/resources\/images\/icons\/techs\/coffee_trade\/coffee_trade.png"
+    },
+    {
+      "hash": "sha256-aKteOU9y6REJ\/vufgCnSZAHy16m\/AkdOhIW1yKN7x44=",
+      "url": "img\/resources\/images\/icons\/techs\/colonialize\/colonialize.png"
+    },
+    {
+      "hash": "sha256-iLTDehxZLdI2V2LWLYQjIWWobPK+wmgLqdiedNya4W0=",
+      "url": "img\/resources\/images\/icons\/techs\/comanche_trade_language\/comanche_trade_language.png"
+    },
+    {
+      "hash": "sha256-3AD\/hrCmI+1hMO34gnQOzmGE2uV3OXlV6wEOeQo\/xgI=",
+      "url": "img\/resources\/images\/icons\/techs\/conscription\/conscription.png"
+    },
+    {
+      "hash": "sha256-2b86LPcNj\/KCmXG0QeYRUWTQQKZubxY64\/02KhVKA4E=",
+      "url": "img\/resources\/images\/icons\/techs\/corsolet\/corsolet.png"
+    },
+    {
+      "hash": "sha256-2b86LPcNj\/KCmXG0QeYRUWTQQKZubxY64\/02KhVKA4E=",
+      "url": "img\/resources\/images\/icons\/techs\/corsolet\/corsolet_64x64.png"
+    },
+    {
+      "hash": "sha256-Nyekr17cIASeoBPEuovX3dTkrdgmrjCuoo+XMlX7prs=",
+      "url": "img\/resources\/images\/icons\/techs\/coureur_milice\/coureur_milice.png"
+    },
+    {
+      "hash": "sha256-FSFoOSPV7UjoK1R23qGEwxjSwQ8wFrYVVrM5z1fES9U=",
+      "url": "img\/resources\/images\/icons\/techs\/cree_kinship\/cree_kinship.png"
+    },
+    {
+      "hash": "sha256-mdCfFicSRQKLNn3XCLAttHqoaNx6d8gDzKWa4CYENcs=",
+      "url": "img\/resources\/images\/icons\/techs\/cree_tanning\/cree_tanning.png"
+    },
+    {
+      "hash": "sha256-aUJuunU7TFqQi7HYjeHibzKpcjQy7MFORbpBDzj1E9g=",
+      "url": "img\/resources\/images\/icons\/techs\/customized_merc_weapons.png"
+    },
+    {
+      "hash": "sha256-QZA08Xpm5sCY1HAKSxtcLHmxwmzO1FwLWAwFxLFDMJo=",
+      "url": "img\/resources\/images\/icons\/techs\/deforestation\/deforestation.png"
+    },
+    {
+      "hash": "sha256-q3E2DuvEMv3+udle8idmmTI5nb+hWPaAhVZRV7wy3Bg=",
+      "url": "img\/resources\/images\/icons\/techs\/econmedia_manor\/econmedia_manor.png"
+    },
+    {
+      "hash": "sha256-loSx1KwIhaaW3\/CmSThNxEMqUqsJi9\/MygLVgf9PaG4=",
+      "url": "img\/resources\/images\/icons\/techs\/elite_cavalry\/elite_cavalry.png"
+    },
+    {
+      "hash": "sha256-GfhsYoI0B4hfVoEcZhmQM6QtHwY\/1sIPqrUY2Eu1Rdc=",
+      "url": "img\/resources\/images\/icons\/techs\/elite_infantry\/elite_infantry.png"
+    },
+    {
+      "hash": "sha256-Bx3nLZ11I5OuhQ5AfUM8lxTBrHw\/F053O8HEQ+dIwdE=",
+      "url": "img\/resources\/images\/icons\/techs\/field_gun\/field_gun_64x64.png"
+    },
+    {
+      "hash": "sha256-m3g\/i01l+4O4mLgDcAi2qxTe2gp6HwNsRifJjrMOtWk=",
+      "url": "img\/resources\/images\/icons\/techs\/field_gun\/shot_tower.png"
+    },
+    {
+      "hash": "sha256-VSyYDeEuVsTHIkBec38t1eZUN0ix5ZApUtIXhOdphcQ=",
+      "url": "img\/resources\/images\/icons\/techs\/fixed_guns\/fixed_guns.png"
+    },
+    {
+      "hash": "sha256-lf+zz8JX9ycUcjTPhA8JPkuaHpwkA6eBUmwJQPDu+qk=",
+      "url": "img\/resources\/images\/icons\/techs\/flint_lock\/flint_lock.png"
+    },
+    {
+      "hash": "sha256-oeRNlxmWpQ\/\/nNeVG4P0k44lJ\/cqPVbVL75bL\/zUrxY=",
+      "url": "img\/resources\/images\/icons\/techs\/fortified_outpost\/fortified_outpost.png"
+    },
+    {
+      "hash": "sha256-d1hGTw7PsQ43wdT9vmOcEGPu0w7tFEPJOWGg1sZHMME=",
+      "url": "img\/resources\/images\/icons\/techs\/frontier_outpost\/frontier_outpost.png"
+    },
+    {
+      "hash": "sha256-m5boZ+wo4s3d0rNFaSeGHm41Kju0V0MCtahRUsWGTHo=",
+      "url": "img\/resources\/images\/icons\/techs\/galata_tower_district\/galata_tower_district_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-fu+PkINSA13+uiNSSVDgJ7FjDfqwTdaTRkj3RrItZWE=",
+      "url": "img\/resources\/images\/icons\/techs\/gang_saw\/gang_saw_32x32.png"
+    },
+    {
+      "hash": "sha256-dBfmtb8o+UAM5RTZtv6BAW4GQsHZxKR\/5lKUUOjNBOo=",
+      "url": "img\/resources\/images\/icons\/techs\/gang_saw\/gang_saw_64x64.png"
+    },
+    {
+      "hash": "sha256-xicQAknM3EBMdDV5jxbMZ0jpxloDkb62pq7iPhXMGcE=",
+      "url": "img\/resources\/images\/icons\/techs\/garde_imperial\/garde_imperial_1_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-ACYP0T0iAiCdRPtT3OltEgFCBXsVHFPBtlsIWygdzj4=",
+      "url": "img\/resources\/images\/icons\/techs\/garde_imperial\/garde_imperial_2_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-UXYGQlnO8FFVWzfSXRSCJ+n4sP9F3WdgjUHjBJVFjpo=",
+      "url": "img\/resources\/images\/icons\/techs\/garde_imperial\/garde_imperial_3_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-vkbAy8RuB6f\/WjPH8eAvFxmYyW9pJ82ipCe\/R1m3UPY=",
+      "url": "img\/resources\/images\/icons\/techs\/gas_lighting\/gas_lighting.png"
+    },
+    {
+      "hash": "sha256-vkbAy8RuB6f\/WjPH8eAvFxmYyW9pJ82ipCe\/R1m3UPY=",
+      "url": "img\/resources\/images\/icons\/techs\/gas_lighting\/gas_lightning_64x64.png"
+    },
+    {
+      "hash": "sha256-FmNAKep4iUl9zAjAX5yM1SY3ZxJxIv8PtUKccoQxhzA=",
+      "url": "img\/resources\/images\/icons\/techs\/generate_wood_icon.png"
+    },
+    {
+      "hash": "sha256-WAa1cubdUj41+EHLFPT6cQZIopUG6HtecKskmkhf96c=",
+      "url": "img\/resources\/images\/icons\/techs\/gill_nets\/gill_nets.png"
+    },
+    {
+      "hash": "sha256-WAa1cubdUj41+EHLFPT6cQZIopUG6HtecKskmkhf96c=",
+      "url": "img\/resources\/images\/icons\/techs\/gill_nets\/gill_nets_64x64.png"
+    },
+    {
+      "hash": "sha256-eVd9bvfDsb6\/Gp8Qiyoa7J84cBpLCMCOIXsiy+ordk0=",
+      "url": "img\/resources\/images\/icons\/techs\/grand_encampment\/grand_encampment_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-+FEMBL7ipbA4XR40sxwIbFWNdjzxRP3DuXoRrhwh15c=",
+      "url": "img\/resources\/images\/icons\/techs\/grape_shot\/grape_shot.png"
+    },
+    {
+      "hash": "sha256-f\/EvotfwnmgYUYYU9Jm3dmQe3Uhpp0M0j+Clt6XKzmI=",
+      "url": "img\/resources\/images\/icons\/techs\/grape_shot\/grape_shot_64x64.png"
+    },
+    {
+      "hash": "sha256-nJtSQihP6sJRpau4plzjR5JuBsRvf2u95a9A\/Xsg3T4=",
+      "url": "img\/resources\/images\/icons\/techs\/great_coat\/great_coat_32x32.png"
+    },
+    {
+      "hash": "sha256-i\/2\/gB1lKNiqJWuyV4NXonHK6aB8PgxRCfFGIHTIrcM=",
+      "url": "img\/resources\/images\/icons\/techs\/great_coat\/great_coat_64x64.png"
+    },
+    {
+      "hash": "sha256-pkk9eJ\/iqg\/A6OQ36NKN3elMwVkPyTpNnREiOd4lgQM=",
+      "url": "img\/resources\/images\/icons\/techs\/great_northern_forests.png"
+    },
+    {
+      "hash": "sha256-c2CdUlEaKQtoZuDRTqTxprkeO5rC7IdTHqiCw7aRIrY=",
+      "url": "img\/resources\/images\/icons\/techs\/grenade_launcher.png"
+    },
+    {
+      "hash": "sha256-EQOjt85DRGL3jEOJJnDkia50tl3WRaNKbRM2ciZ5gnA=",
+      "url": "img\/resources\/images\/icons\/techs\/guard_archer_infantry\/guard_archer_infantry.png"
+    },
+    {
+      "hash": "sha256-Yjk4sPBOpvz5UDGmMqKvHTPrvqZts9a8aY6Brb8omGc=",
+      "url": "img\/resources\/images\/icons\/techs\/guard_artillery\/guard_artillery.png"
+    },
+    {
+      "hash": "sha256-mdhI2JYKozYRbMvn4MGN+GaPp3FmyEqYl83+DbvL8SE=",
+      "url": "img\/resources\/images\/icons\/techs\/guard_cavalry\/guard_cavalry.png"
+    },
+    {
+      "hash": "sha256-dbHxf6yZymiHV8ZsrVEQPVdZKHyEPjZAJrGtRFH2MSs=",
+      "url": "img\/resources\/images\/icons\/techs\/guard_grenadier_artillery\/guard_grenadier_artillery.png"
+    },
+    {
+      "hash": "sha256-AzWb8ei+6oGYgVr2TEGt8\/7kCXrdyXFNJR4oInXOUs4=",
+      "url": "img\/resources\/images\/icons\/techs\/guard_infantry\/guard_infantry.png"
+    },
+    {
+      "hash": "sha256-B4Rq1trvd8jxbTPrWP4a8aVmhVVvUwARf1Hm+tafE2A=",
+      "url": "img\/resources\/images\/icons\/techs\/guard_navy\/guard_navy.png"
+    },
+    {
+      "hash": "sha256-vZv29RwRY7i2xvmGYif2HGp2ZC\/SgQk6vuNh7WvJUI4=",
+      "url": "img\/resources\/images\/icons\/techs\/guard_spear_infantry\/guard_spear_infantry.png"
+    },
+    {
+      "hash": "sha256-Vvbrzne\/9hsp\/9LXvc7NcHNJY325t8u4z2Xp16y3Pxg=",
+      "url": "img\/resources\/images\/icons\/techs\/guard_sword_infantry\/guard_sword_infantry.png"
+    },
+    {
+      "hash": "sha256-mXkonPYsU88PqB3iuJH3hfr9j\/Vu9w2sem\/yq5VWBXo=",
+      "url": "img\/resources\/images\/icons\/techs\/gunners_quadrant.png"
+    },
+    {
+      "hash": "sha256-mXkonPYsU88PqB3iuJH3hfr9j\/Vu9w2sem\/yq5VWBXo=",
+      "url": "img\/resources\/images\/icons\/techs\/gunners_quadrant\/gunners_quadrant.png"
+    },
+    {
+      "hash": "sha256-xsSdkaC6IvRD\/KxKzoKd8cSctML3Bhh15fjQQo1DgWA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_ability_field_promotion\/hc_ability_field_promotion.png"
+    },
+    {
+      "hash": "sha256-eiIllEibhZccO9zetgNDaeuhjz2VX4dmVYNVZnBHYVM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_ability_forced_march\/hc_ability_forced_march.png"
+    },
+    {
+      "hash": "sha256-wRa2XFMYsmHSHwMIGgMqhtF\/BeLudilkfAua4snBKWI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_ability_wildfire\/hc_ability_wildfire.png"
+    },
+    {
+      "hash": "sha256-jEeaNQvxWZFEh2mnrmaRz2YTNRnEeSGJtH0xfCEaDXM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_academy\/hc_open_academy.png"
+    },
+    {
+      "hash": "sha256-ViiTmNgS\/FZtveONBRW0SE1T6azYiNe0wqzHT7j1U3s=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_acemi_olglan_school\/hc_acemi_olglan_school.png"
+    },
+    {
+      "hash": "sha256-FQ9tasDMph9j98s6POY+XfTE3IwYJKEEjK3\/OilXUuU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_admirality\/hc_admirality.png"
+    },
+    {
+      "hash": "sha256-9s7tg33i8r9Wl7jYgU75UUMGJS399cT9cWmDojSNYxc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_advanced\/advanced_saloon.png"
+    },
+    {
+      "hash": "sha256-68glPfn1fPb7F1LuiWUyodu1PxxL7FLfJtlj+9blQfI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_advanced_arsenal\/hc_advanced_arsenal.png"
+    },
+    {
+      "hash": "sha256-EHKLb31H8dka407wO1ztMQgXiZzrVrdE5Eq2wOUOJlk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_advanced_dock\/hc_advanced_dock.png"
+    },
+    {
+      "hash": "sha256-tGR3uiu7i7yGtoggOXVU5wdwMs72c91MZZOCjeEdbkM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_advanced_market\/hc_advanced_market.png"
+    },
+    {
+      "hash": "sha256-kRDVz40v7lHfNhl8DSOVo+x8MrFSEx6IcHtjoitu6mc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_advanced_mill\/hc_advanced_mill.png"
+    },
+    {
+      "hash": "sha256-Kk5\/OXO2aTk3+KLvFx+pwoLPABRXYhvvfjvO+gDB+Q8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_advanced_plantation\/hc_advanced_plantation.png"
+    },
+    {
+      "hash": "sha256-mrctZf7FfNjqU09NL7R\/kvGZQ2+zQAYO9vGT32l3Yg4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_advanced_spyglass\/hc_advanced_spyglass.png"
+    },
+    {
+      "hash": "sha256-Lp91CvHpjDuxhHFu36iDmC240+KaWAeDakCNxF6cDuk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_advanced_trading_post\/hc_advanced_trading_post.png"
+    },
+    {
+      "hash": "sha256-YQiBRnUE+xL\/6B0ukoZK1guA1w5rG429Nz9sVi9cvWI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_archaic_soldier_training\/hc_archaic_soldier_training.png"
+    },
+    {
+      "hash": "sha256-f616UIZNCVk1YJjuIyUySfrB668H\/kkPPPy7B6\/S958=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_armada\/hc_armada.png"
+    },
+    {
+      "hash": "sha256-kDtVn9utO9FMAdVWqknVVi8ECizxrQ3RjqvTn9cBMQg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_artillary_better_buckets\/hc_artillary_better_buckets.png"
+    },
+    {
+      "hash": "sha256-h88WcZycWoNtNgIvfatM01AayMQs0yIRxqoj1iu\/pAk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_artillary_combat\/hc_artillary_combat.png"
+    },
+    {
+      "hash": "sha256-nYasiWAxmOMwpjGlzYVf6y9aIbfAAtHYvnuIzEHb6Jo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_artillary_damage\/hc_artillary_damage.png"
+    },
+    {
+      "hash": "sha256-5T3BaCZ9aFRKRtRHBt2xngqN07v718zK\/Xi+96RruVU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_artillary_hitpoints\/hc_artillary_hitpoints.png"
+    },
+    {
+      "hash": "sha256-1rnucU6MpX5BNopvZUpDXfpnAOtU6Ve\/UsvyIjotsws=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_balloons\/hc_balloons.png"
+    },
+    {
+      "hash": "sha256-FgfkfDVj07wf8fmT4iKwBdR2GT64Dmp2+dNGjrySZ9A=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_bank_of_amsterdam\/hc_bank_of_amsterdam.png"
+    },
+    {
+      "hash": "sha256-TxOgBhu8A2gPQ4uf75EDZrNeY30uPQipiLvLAMQ1vBI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_bank_of_rotterdam\/hc_bank_of_rotterdam.png"
+    },
+    {
+      "hash": "sha256-1H7b2YUgB9J\/8w3ZN6qKBy1oD0HAww\/OVx3CmOjKHQk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_barracks_hitpoints\/hc_barracks_hitpoints.png"
+    },
+    {
+      "hash": "sha256-oDrjMi7TvL7afeMmqqVKCQioKNwI4XvMGQM3DB420rU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_battlefield_construction\/hc_battlefield_construction.png"
+    },
+    {
+      "hash": "sha256-pXoMWtC6nGbIPQFDpcPjZ2XL35vYCKkl0OHzUx5YTCg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_better_buckets\/hc_better_buckets.png"
+    },
+    {
+      "hash": "sha256-vCzMxcUIbrZpqJsD4kAqmm4mYffQSkhx6OfI8wgl7rg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_better_combat\/hc_better_combat.png"
+    },
+    {
+      "hash": "sha256-09YNqnlrZTRgFQfblhpZj1xfAjKdmrN3NI5zty0g+9g=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_blockade\/hc_blockade.png"
+    },
+    {
+      "hash": "sha256-QmlM2gm9DOY8UJjXOPHn65LgIh\/KtfBc4aABnQhEFig=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_block_house_cannon\/hc_block_house_cannon.png"
+    },
+    {
+      "hash": "sha256-n1iQM2Rbbm5l+\/mgR2hWNzD1U0nCpczeAjuniDH72h4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_boyars\/hc_boyars.png"
+    },
+    {
+      "hash": "sha256-kOyueQ9QgTaAitErtF8cIO2Qfcd7cYVXaiQXVF+OQ3s=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_caballeros\/hc_caballeros.png"
+    },
+    {
+      "hash": "sha256-wwzP4+qu+DwNMOT0\/XleNqLVdf7YSqZl2U3KV+m+\/o8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cannon_works\/hc_open_cannon_works.png"
+    },
+    {
+      "hash": "sha256-DZUdvPOBq3rWdSl7MINRy2Fq6YugPfLsLvK8BiOuy7o=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cargo_ship1\/hc_cargo_ship1.png"
+    },
+    {
+      "hash": "sha256-yZ5tzzuqyXgPdZBvpdesJT4BaymHrg229CE2lVmimws=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cargo_ship2\/hc_cargo_ship2.png"
+    },
+    {
+      "hash": "sha256-Elnb909D\/lyr8gfRbKddMDFvDoP1+Z1ct67Y6ByEDlM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cargo_ship3\/hc_cargo_ship3.png"
+    },
+    {
+      "hash": "sha256-aOsz5itfwHXopevhH5sfz15pwabrWPROp3Uh9IKwW6o=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cargo_ship4\/hc_cargo_ship4.png"
+    },
+    {
+      "hash": "sha256-T3XU2fMwAACiSlu2deNTJbmDYJho4G6\/2F9nJDJKx3k=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cargo_ship5\/hc_cargoship_5.png"
+    },
+    {
+      "hash": "sha256-wApXgmAW37YVT7WgZCxckuDf7A3+Xl4oLJyR4a\/Ou0A=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cathedral\/hc_open_cathedral.png"
+    },
+    {
+      "hash": "sha256-BMtZ1RiLejdMkuyBV4SdkJE8M6INjeURm1and56tW8M=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cavalry_combat\/hc_cavalry_combat.png"
+    },
+    {
+      "hash": "sha256-oWhpo3+e5qJFOgu5Rlbhglo9uAaxTrED3FgapDy5kbI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cavalry_combat_team.png"
+    },
+    {
+      "hash": "sha256-XO6ahiXTKFotdQ1sbYxiOov\/2Ocpif3KfMa0U25yZf4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cavalry_damage\/hc_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-yNjVdlLqbLHr4Lr9928F5mgjTMyibmE3LqETdpigpBA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cavalry_hitpoints\/hc_cavalry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-SbrmksWHxyj1wZJsjGmeFDoTiNR1jUa2cerK50Gv0d4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cavalry_line_of_sight\/hc_cavalry_line_of_sight.png"
+    },
+    {
+      "hash": "sha256-+oXzFr657PY5fqo8mhIo\/4ZFc0py1zi4fhg6nPbdAzI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_champion_natives\/hc_champion_natives.png"
+    },
+    {
+      "hash": "sha256-StbO+Ncgs8RU6Yqd+d4erSWa5G6bx1AJ9SuQiaCzwlo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cheap_barracks\/hc_cheap_barracks.png"
+    },
+    {
+      "hash": "sha256-rZTMVusG66LraGqHFVmjUGL\/DieIiV+zKf\/drInim\/4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cheap_church\/hc_cheap_church.png"
+    },
+    {
+      "hash": "sha256-n4skhn6APHPWIgNOE8WORThcMVImom0\/cu\/Vzh+Fne4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cheap_dock\/hc_cheap_dock.png"
+    },
+    {
+      "hash": "sha256-+NB4wkKdXyAj0q9JXDY2tYuqj2pmTiRD45mkOnhULoE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cheap_market\/hc_cheap_market.png"
+    },
+    {
+      "hash": "sha256-Nx64r9G0rHAl1Ef306s5rvi1wNB0Z07b6cCExC4oGq8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cheap_outpost\/hc_cheap_outpost.png"
+    },
+    {
+      "hash": "sha256-RtMt+k8PBd9zDS+sgIYd7421pHcvjg6\/KnXvKDO2wRM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cheap_priests\/hc_cheap_priests.png"
+    },
+    {
+      "hash": "sha256-rSnotWImMwXuHhHvqAMMGMYGnN2MTL1Cpnkz9KyJVUg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cheap_stables\/hc_cheap_stables.png"
+    },
+    {
+      "hash": "sha256-6i582iuCEtFFsfbWpYR4hX8ip1hd4PMH69uq0CDkrrs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cheap_trading_post\/hc_cheap_trading_post.png"
+    },
+    {
+      "hash": "sha256-n9yrpab1SCzqoGm111iJ2JjCJaUkYjb3As2GhSk1tW8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_church1\/hc_church1.png"
+    },
+    {
+      "hash": "sha256-ZdVEDfDo5X35DqnkFfMBZJ9ARgXYgNzK8Kssjb9WOyI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_church2\/hc_church2.png"
+    },
+    {
+      "hash": "sha256-eUrDcgZUtMiTG10Ojn0wMwvw5TdRpQOJk5L6UfCT\/ug=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cigar_roller\/hc_cigar_roller.png"
+    },
+    {
+      "hash": "sha256-E04XNUYGSDEwrHv7LpvPEJeTSeBERbQseV5gzjeWxB0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coehorn_mortars\/hc_coehorn_mortars.png"
+    },
+    {
+      "hash": "sha256-cxaJmDNUXkdwp0iAJt3z4NVk8l4lRHEOopWwNx1WhEw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin1\/hc_coin1.png"
+    },
+    {
+      "hash": "sha256-b65RYE2AgirwqZpPOPwpmzgF7mPS74ItwIVMugMhoWw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin2\/hc_coin2.png"
+    },
+    {
+      "hash": "sha256-h08owfDui8ZkhCV0vzvyxz0wflJ2NFQt0jYmzdcNIUg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_coffers\/hc_coin_coffers.png"
+    },
+    {
+      "hash": "sha256-wgCa19f3tVl79vMFZNfHV1QXN9ACYBXDqHIW0bwjays=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate\/hc_coin_crate.png"
+    },
+    {
+      "hash": "sha256-\/k1MBPnlTZbzTrHyd2BI38mbi3Mvjn6pgtbQv+lk42s=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate\/hc_coin_crate_128.png"
+    },
+    {
+      "hash": "sha256-Hlm6ipr40OPhUvJYWwKbAzRH7e9+w+RYBiZEt9TB1R8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate\/hc_coin_crate_32.png"
+    },
+    {
+      "hash": "sha256-1Pe0+YufyVtcvg16ZM8zp1daZ857o9BRriN5+9IiXYs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate\/hc_coin_crate_64.png"
+    },
+    {
+      "hash": "sha256-oXPFXKCxdRImhLbMiS23yIzt5WVfnNSr9d3lc5DAgRw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate0\/hc_coin_crate0.png"
+    },
+    {
+      "hash": "sha256-mJGeZCiHl7i6YewanPlchNZ45tW2\/NDIkzaAukFTAxk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate1\/hc_coin_crate1.png"
+    },
+    {
+      "hash": "sha256-892C4e7aC4Dv507WQNCR7WRSPpeJjcY99tyuo8RkcgA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate1\/hc_coin_crate1_128.png"
+    },
+    {
+      "hash": "sha256-O4suZWqqVbXme8S3XXBux8aN4ahARp8qXvhlbTK\/XYY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate1\/hc_coin_crate1_32.png"
+    },
+    {
+      "hash": "sha256-e\/gIfjEuKNnsav8eW58YGcNcUu+8TVbnaO5DNnroeJQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate1\/hc_coin_crate1_64.png"
+    },
+    {
+      "hash": "sha256-BOiixHbX4JcmkAyHceqBue8GZ99AkGFEFVwxbJGmWZk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate1\/hc_coin_crate_128.png"
+    },
+    {
+      "hash": "sha256-LMWOoOMIVWumlWP4k4GDV\/KRM8mXB\/M3Qqb3aLtNZE0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate1\/hc_coin_crate_32.png"
+    },
+    {
+      "hash": "sha256-9B1B23lrg2yOVT4uumFej\/H9Ttohvsnln8cqH71sd1w=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate1\/hc_coin_crate_64.png"
+    },
+    {
+      "hash": "sha256-5VnGGHTYLyLlRQ\/mi17TIOmtPzPfVP4ahT5x4YXXbeo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate2\/hc_coin_crate2.png"
+    },
+    {
+      "hash": "sha256-u6gyZCIk1\/B1umRG+Y089wQKGMEmT1EsBHWe7QFtB0s=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate3\/hc_coin_crate3.png"
+    },
+    {
+      "hash": "sha256-loXQymWnHSgsubYK5RHyZaNNazkc33f0mwETcI\/GcN4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_crate4\/hc_coin_crate4.png"
+    },
+    {
+      "hash": "sha256-qljhjsvEEPhGuL5g+k2QxQT6s5sMnsn1auILRs0nArA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coin_trickle\/hc_coin_trickle.png"
+    },
+    {
+      "hash": "sha256-ofuSW4PAsJ54KMfyP5qLVaxVd1LlhX3sJPGn55HpnJU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cold_water_port\/hc_cold_water_port.png"
+    },
+    {
+      "hash": "sha256-ODFJNgX0aknAg0\/W17j\/MwD3NMlPgLHGRacImE4Rjxc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_colonial_estancias\/hc_colonial_estancias.png"
+    },
+    {
+      "hash": "sha256-wmP85rzNgNW+\/gZpXZaQKjPKGlGZXVn5zBAUKZuqMxY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_conestoga_wagons\/hc_conestoga_wagons.png"
+    },
+    {
+      "hash": "sha256-ESvk63CMgsyy6glahgqr8fdfjl\/HdYjH5Qf+OamIg3g=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_coureur_training\/hc_coureur_training.png"
+    },
+    {
+      "hash": "sha256-5+X+qGewDrmjwJeDfw2JTiFmUkXsvANFuAHG9TVv+x4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_cows\/hc_cows.png"
+    },
+    {
+      "hash": "sha256-HNjprcG\/iXClsIXNtXLXDpffGWcxcq1kwLPCKKnvlF4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_donatarios\/hc_donatarios.png"
+    },
+    {
+      "hash": "sha256-bG098PcOUZDFxZt+QdDQ6dUKMnTy6bG6db16sicg8Pk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_dragoon_combat\/hc_dragoon_combat.png"
+    },
+    {
+      "hash": "sha256-7XcsF09CFBef841G9OjPoawcGhM41cYgF9Zb\/r5FVhc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_dueling_school.png"
+    },
+    {
+      "hash": "sha256-0kjecHitzSLWJkcB\/kfZtqcr27QXks2YDBFYGePmCcM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_dueling_school\/hc_dueling_school.png"
+    },
+    {
+      "hash": "sha256-VcgVXctqw5h6iiNflHykgerX1keYxIi6Jg1zt5znFis=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_dutch_counter_cav_force\/hc_dutch_counter_cav_force.png"
+    },
+    {
+      "hash": "sha256-PThhVedFg\/AkpVrIvk0bdZHan6\/fBr8uFQFCKby0h3Y=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_dutch_east_india_company\/hc_dutch_east_india_company.png"
+    },
+    {
+      "hash": "sha256-B0t0R6rITI47docRw3HBqk2njjcv6iX2t6cQ45EMut8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_engineering_school\/hc_engineering_school.png"
+    },
+    {
+      "hash": "sha256-4kaiki+PUCCBEXQg0uTn4+IAFJL+2WJyIO4Gfbpgx0s=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_establish_field_hospital\/establish_field_hospital.png"
+    },
+    {
+      "hash": "sha256-d83rbYv1XQqTV5lcOg+aDwqf9T2rmnT0gYCOMFPkGUQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_establish_field_hospital\/hc_establish_field_hospital.png"
+    },
+    {
+      "hash": "sha256-4oEwY7rvU6xHu150YpboJ8jB+9a03aJ+JvfPV\/zf8rI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_establish_lumberyard\/hc_establish_lumberyard.png"
+    },
+    {
+      "hash": "sha256-sPVdVLNDrc\/ENrZl+rpNIdWKJBYPjTwx3Yx2Yn0x2+g=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_establish_royal_mint\/hc_establish_royal_mint.png"
+    },
+    {
+      "hash": "sha256-pHD3\/OUNDRC5jacAZlAgwZULKsC2nSf8KQP3hr+\/JNc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_estates\/hc_estates.png"
+    },
+    {
+      "hash": "sha256-tL4GST\/22eJWaLOdcZpFKuHEesxj1hO9eNDVc0rXJyU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_exotic_hardwoods\/hc_exotic_hardwoods.png"
+    },
+    {
+      "hash": "sha256-rgLQUpsHDfaaE1JOHRiOPOG0Qx9gVYFcQratrvZbPDA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_explorer_british_captain\/hc_explorer_british.png"
+    },
+    {
+      "hash": "sha256-6BByOFASvYaEfimP8dqaUc6CM6H1P6epSC7I8ITKVr8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_explorer_dutch_stadhouder\/hc_explorer_dutch.png"
+    },
+    {
+      "hash": "sha256-L3B7IT\/vE3H6XOBLP\/afluvKXStTUE9h1gaJUzri94w=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_explorer_french\/hc_explorer_french.png"
+    },
+    {
+      "hash": "sha256-w2hl\/RTFp++XdlrqPIicdHf9Y41JucaDsVqJiBIlCeY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_explorer_french_voyageur\/hc_explorer_french.png"
+    },
+    {
+      "hash": "sha256-V6i48sum+TTNIFKjjwRjZaiLnrW\/mTRfe0KbrnOvq5Y=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_explorer_german_burghermeister\/hc_explorer_german.png"
+    },
+    {
+      "hash": "sha256-hq+4uz2v2M2iRqI45Y2uXH6k6D2QTOFO0qj1hx3zkJs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_explorer_ottoman_agha\/hc_ottoman_explorer.png"
+    },
+    {
+      "hash": "sha256-NoMyy3ybbiiOGNAgLkcPt7jobMbdES4XLCu4Nielt0o=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_explorer_portuguese\/hc_explorer_portuguese.png"
+    },
+    {
+      "hash": "sha256-e8UrpqxUPgy4zix9Np+Ip6yI9Z1L2ea1fvg0l2+f870=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_explorer_portuguese_navigator\/hc_explorer_portuguese.png"
+    },
+    {
+      "hash": "sha256-F7\/CZCzpdzwx+CPAbjP\/mHxmkiNQ1oB4AvbvR5QMA4U=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_explorer_russian_polar_explorer\/hc_explorer_russian.png"
+    },
+    {
+      "hash": "sha256-vmzQIwcFeJt\/jy6xiXWR4A8kbDQAMw42T2sH3qE9Sm0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_explorer_spanish_conquistador\/hc_explorer_spanish.png"
+    },
+    {
+      "hash": "sha256-PRR73Wrms+NOaLuYOz2mPHe7IeqOP3TNZRiSGpqpV90=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_extensive_fortifications\/hc_extensive_fortifications.png"
+    },
+    {
+      "hash": "sha256-cqGiT+JkpwRt4JfJDl5YRWocFDl9V0K3xfgSIFReCgw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_falconet_culverin\/hc_falconet_culverin.png"
+    },
+    {
+      "hash": "sha256-IeiVZJnR0nXfechgTqKwg\/yWPjIYLWDfQuSF2bDCfac=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_fast_houses\/hc_fast_houses.png"
+    },
+    {
+      "hash": "sha256-4o1sz0pACJmuFbayDRrFohNMPDR27wIXzO\/zucMe6ZQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_fatter_sheep\/hc_fatter_sheep.png"
+    },
+    {
+      "hash": "sha256-PKvbQZ7h6zpalYHLSkldLMNfR0s334GjxwsSpd0IHY8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_fencing_school\/hc_fencing_school.png"
+    },
+    {
+      "hash": "sha256-orBRLIKsArdR9JhXE+aerQ2tm+QJSk+3UVBjMY6Wt+A=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_fish_market\/hc_fish_market.png"
+    },
+    {
+      "hash": "sha256-zZucu8AnGo\/ovZTOPDiWMEDIl1Evfiz+ULuB6Z44Rvs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food1\/hc_food1.png"
+    },
+    {
+      "hash": "sha256-NIcx6ni0YnJ51tVJ9weVMh924YVx7vjbIDDgO98CLKo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food2\/hc_food2.png"
+    },
+    {
+      "hash": "sha256-8N3kuTwLRzKaJiKU0tI0VAQwBgzCV7C1GDWyhrHYBN4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_crate\/hc_food_crate_128.png"
+    },
+    {
+      "hash": "sha256-on\/ejNQVv7tJKe3qoesoJKW0IiUs0LwJhqmellI9TkY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_crate\/hc_food_crate_32.png"
+    },
+    {
+      "hash": "sha256-g37pdYZBNFfmxMFA8PQUupkIE44puZ7IaJLgCqcEPVc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_crate\/hc_food_crate_64.png"
+    },
+    {
+      "hash": "sha256-ldXZsX62Pvb4tXvcPIK\/KwucOOl09R4nTUwo04glVeE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_crate1\/hc_food_crate1.png"
+    },
+    {
+      "hash": "sha256-DGEHmMDK3hTnn6eS7BKRyFI0UWiDALQkvsLU8BAgpU4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_crate1\/hc_food_crate_128.png"
+    },
+    {
+      "hash": "sha256-2IeKPQwqUG8jUJNgJwdJwVkid85kInw4KfrA8JflkiM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_crate1\/hc_food_crate_32.png"
+    },
+    {
+      "hash": "sha256-m49EP1F8ULZxQMGpP+sSvYMOz0PzeJIJ7SfZKIDY4Wg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_crate1\/hc_food_crate_64.png"
+    },
+    {
+      "hash": "sha256-QJX7Z2OR29wjc\/IBoBLGoMsrYnqX\/mSKIczK3ml78zo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_crate2\/hc_food_crate2.png"
+    },
+    {
+      "hash": "sha256-dcM79z\/4qfW2+eYNho0I8VcmbsBdK23aka3wlpvwFoQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_crate3\/hc_food_crate3.png"
+    },
+    {
+      "hash": "sha256-U0CQXXebVTuVBCEL7wCZOPDeF4WP16zVKrpApgmDKDM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_crate4\/hc_food_crate4.png"
+    },
+    {
+      "hash": "sha256-pW9NQMBcyPxWy5i0af1OkAiiAcoJfR1+pdh3+lSrCT8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_food_trickle\/hc_food_trickle.png"
+    },
+    {
+      "hash": "sha256-kf9tIoTQND\/1JJqm6UbAXuYE2K\/bi8u5Fh892MoYUdk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_fulling_mills\/hc_fulling_mills.png"
+    },
+    {
+      "hash": "sha256-Vs2Okirg2rDGuF\/YU19q5U6JZrfYC4miWq\/H1lz4xtI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_furrier\/hc_furrier.png"
+    },
+    {
+      "hash": "sha256-PmuXYXf1XLnFkIALemA9xK\/+odmi4ZqZhsnrzlLKhgg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_game_market\/hc_game_market.png"
+    },
+    {
+      "hash": "sha256-0lmXYJ4\/EoiPJU2CDMpU5pcPKquLbs6NhFfzYGTQK\/c=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_grain_market\/hc_grain_market.png"
+    },
+    {
+      "hash": "sha256-ayrBQsZ7mbkxs80Q6wfr2Ja+WcknrEwIP2tT\/VBPpsw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_guild_artisans\/hc_guild_artisans.png"
+    },
+    {
+      "hash": "sha256-1REnyqIbXLdj4+tuLy5ly+NWWH5RNRrfWL3vScj1+eE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_gunpowder_infantry_combat\/hc_gunpowder_infantry_combat.png"
+    },
+    {
+      "hash": "sha256-dyX0T4ICbO0NkclmP9D2rl\/5xciFEjhWo+Rtp+LUio0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_gunpowder_infantry_damage\/hc_gunpowder_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-qd1kGOhbZc+d9BWZwKjlT2tBvhpU3mYlVkaPdysapUI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_gunpowder_infantry_hitpoints\/hc_gunpowder_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-wYNFByBtRIxDMcU\/pzCcC5Y8vQTu09yYct8FENJLsrU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hand_cavalry_combat\/hc_hand_cavalry_combat.png"
+    },
+    {
+      "hash": "sha256-G5t\/7KBX1DX8wUvyrh3td7QqODhAgl+kBG3CJXW2NpU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hand_cavalry_damage\/hc_hand_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-oiIqv8msxJygsdRExHtubxIYQqOj94oiEZdd1nijgJE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hand_cavalry_hitpoints\/hc_hand_cavalry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-nuHyhhXd+\/6qHRDAPEi+C84OEKerPAKvAmHCFc\/93rg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hand_infantry_combat\/hc_hand_infantry_combat.png"
+    },
+    {
+      "hash": "sha256-2nYz5YSaeVWGeN+wzg\/3AkiEil\/i3Yp6\/3o4prlbaQs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hand_infantry_damage\/hc_hand_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-VDly95yqRrTt7uZ+wLQ3dqocXXy7e8thUjo93BisU3I=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hand_infantry_hitpoints\/hc_hand_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-Viz917nLwmpOa3rnS8W8ztpcwuc\/sLKxZYXVCXoUdxM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_harbor\/hc_open_harbor.png"
+    },
+    {
+      "hash": "sha256-1obNJKIE4x91Jh0nk\/uaWObrWoi060tvuY65MEgQtL0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_heavy_fortifications\/hc_heavy_fortifications.png"
+    },
+    {
+      "hash": "sha256-ETvUFWXk23DOW13vvDmDnTyzrbqAMOKHxpfD2doyIww=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_heavy_infantry_german\/hc_heavy_infantry_german.png"
+    },
+    {
+      "hash": "sha256-aRk9Cg4h01gKUIcna3T9AGFU2UaBGRlGdq0BKnHagIA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_admiral\/hc_hero_admiral.png"
+    },
+    {
+      "hash": "sha256-J77dvuy26AcnKdr+e\/QBIISgdt39g9kehmq8bJEz2o0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_admiral\/hc_hero_admiral_64x64.png"
+    },
+    {
+      "hash": "sha256-3WEb3XxkmeNtyLAopQMMAh1Upuxl\/VBQAiRKgVrf+n4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_archeologist\/hc_hero_archeologist.png"
+    },
+    {
+      "hash": "sha256-EnOOkTjH38pV8MjeUJX5lWLmiADtLtnhc4cfLUOukUg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_archeologist\/hc_hero_archeologist_64x64..png"
+    },
+    {
+      "hash": "sha256-ZUXaW\/dE7fBqkuuqVdNdxSVTPtCe3qw+qeeaWsLBrxI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_architect\/hc_hero_architect.png"
+    },
+    {
+      "hash": "sha256-J4GM+UgUqdT\/y5gGzUW\/Yx\/dcfTaoiCPhAOoUVN79H0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_architect\/hc_hero_architect__64x64.png"
+    },
+    {
+      "hash": "sha256-ocN93Nal\/OojyBo2CC8pLYME10CiduDU+fzgdA6QDjo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_aristocrat\/hc_hero_aristocrat.png"
+    },
+    {
+      "hash": "sha256-LXcSqdzoFznHAlNcR8IzHe8M2ya96iwfahbiHnPe26Y=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_aristocrat\/hc_hero_aristocrat_64x64..png"
+    },
+    {
+      "hash": "sha256-lSpmiq8sq2vk5GEQKCiUTgRQyqDEjuL\/xvhWbvPDb9g=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_banker\/hc_hero_banker.png"
+    },
+    {
+      "hash": "sha256-GeHr5c9ftX4sks5liJYY1euhoLR\/8E9\/imN1Y7Bz+ko=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_banker\/hc_hero_banker_64x64..png"
+    },
+    {
+      "hash": "sha256-rUCog5Zk6\/evJvcktHNbxa80FK48dwT0BpQOkYzmJ1s=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_carpenter\/hc_hero_carpenter.png"
+    },
+    {
+      "hash": "sha256-nKor4MqMPyDWNpZEi6A3\/pukBZxb6uA0PJ7mM\/T14WA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_carpenter\/hc_hero_carpenter_64x64..png"
+    },
+    {
+      "hash": "sha256-YxcrfS4FkWoDoR4JOG7B73vofLQinOQFQ42HO1YHwmM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_engineer\/hc_hero_engineer.png"
+    },
+    {
+      "hash": "sha256-Gs7N\/EZc47UNmBzC5K+YPXRKXEHmPRPUHcEjE4VFNdk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_engineer\/hc_hero_engineer_64x64..png"
+    },
+    {
+      "hash": "sha256-GtWePU0eRx7ZfeK18YsHIlwQYJDOaiaFSavWQ14Tfvo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_explorerdog\/hc_hero_explorerdog.png"
+    },
+    {
+      "hash": "sha256-xIJ3ucyyz0rmN+XX+bH4qLyNelpfT8Mipm8WS1T9Abo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_explorerdog\/hc_hero_explorerdog_64x64..png"
+    },
+    {
+      "hash": "sha256-XbvSg0TR7S4iVAc\/+36PRaTiuyeWfz2xCatXTbyJugQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_fencer\/hc_hero_fencer.png"
+    },
+    {
+      "hash": "sha256-zpSA4jLCBIzq56aRnfJXu3Fk+uPKvZbQKh0R76Vmmd0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_fencer\/hc_hero_fencer_64x64..png"
+    },
+    {
+      "hash": "sha256-GesmElft69FWMU3j6ZKtaP7pM1I08rPGZTZwg9p34RE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_general\/hc_hero_general.png"
+    },
+    {
+      "hash": "sha256-Z9wxYxDpUU5tacWBCuux+mYBDqoWYNF\/GXaEN4t1ZHQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_general\/hc_hero_general_64x64..png"
+    },
+    {
+      "hash": "sha256-I6Qc+lEA9yz6isBEFya7JMXwYkxTSNk4M+w7TmgBgbk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_grower\/hc_hero_grower.png"
+    },
+    {
+      "hash": "sha256-JZ3u9zH3MXVVhAfy5NENnOhoZjsrMbE86iLN9JrW1+M=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_grower\/hc_hero_grower_64x64..png"
+    },
+    {
+      "hash": "sha256-\/FDLuwPnB6YgAkeKn+lqm9PTB+E4BGKyoe4N3xy2hao=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_grower\/hc_hero_industrialist_64x64..png"
+    },
+    {
+      "hash": "sha256-FFNXtCImby\/VU8stmN758SFc+kkM5QQ0hnfgVQglz9I=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_hunter\/hc_hero_hunter.png"
+    },
+    {
+      "hash": "sha256-M7cpR2Cb\/+WZGOaYLlbMzaGbPtbwSdjFBpBx+bdZokM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_hunter\/hc_hero_hunter_64x64..png"
+    },
+    {
+      "hash": "sha256-bmpWqAbtNUOagihzz2Z6PEIZPAu\/cu7p5J78paQSCjQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_industrialist\/hc_hero_industrialist.png"
+    },
+    {
+      "hash": "sha256-v97aww4Tp37b1L68WETFdPYli6K7yXaDi8hUKT99aoc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_industrialist\/hc_hero_industrialist_64x64..png"
+    },
+    {
+      "hash": "sha256-\/AZuBfWa46+0iTBFw\/UFsp20xcCPV33hXc2dd\/crL5g=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_marksman\/hc_hero_marksman.png"
+    },
+    {
+      "hash": "sha256-DaJ5g3ufjnZ4gLjIF+1qKL2HiDuaaSicEOgT7BBlrB4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_marksman\/hc_hero_marksman_64x64..png"
+    },
+    {
+      "hash": "sha256-9Za5eO86W63q3AubzKh\/Gics6jVtR8hinEa\/qWrs2mk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_miner\/hc_hero_miner.png"
+    },
+    {
+      "hash": "sha256-34Q5rKMZJCNs48ealfGeFj+LbZwn55Z9q0p0c047i2M=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_miner\/hc_hero_miner_64x64..png"
+    },
+    {
+      "hash": "sha256-i8FApqoGnoUTFhHcm1teBuKRjkHabjjLjByAbI3a+E0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_nativediplomat\/hc_hero_nativediplomat.png"
+    },
+    {
+      "hash": "sha256-i2EpJa1rySAT\/22e9NgN9QMg1VATaKVpwC22cO2slKM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_nativediplomat\/hc_hero_nativediplomat_64x64..png"
+    },
+    {
+      "hash": "sha256-I2r0+Hk+opdxCzRoCrgCzAa\/5fL+V3+L1yw5M0SBk68=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_naturalist\/hc_hero_naturalist.png"
+    },
+    {
+      "hash": "sha256-s4dDgb1lQ1ScHbgNR4NH\/B9eSWScNfX3KbW247QrR44=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_naturalist\/hc_hero_naturalist_64x64..png"
+    },
+    {
+      "hash": "sha256-hxWa2+\/DAY+7UQT0MHUToA6Semi6QGif+XNIx8GGe98=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_navigator\/hc_hero_navigator.png"
+    },
+    {
+      "hash": "sha256-JsqCSCTldGGrg3\/HqMOn4w\/YqdKLMpAVaTQeNV6Khkc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_navigator\/hc_hero_navigator_64x64..png"
+    },
+    {
+      "hash": "sha256-vJaZ1RIc2gvAOebsCcRT7F\/Moc5vbTFPbNiagkpBnE8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_physician\/hc_hero_physician.png"
+    },
+    {
+      "hash": "sha256-3cvh2cbQmEYepmFtWx+SsUFmIf2gbGRPzkTbI6Kk6j8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_physician\/hc_hero_physician_64x64..png"
+    },
+    {
+      "hash": "sha256-xM4ARQ1rV3TSXUPFspEs1ltZDWvi8M5RO7Y5AlV1UIg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_prospector\/hc_hero_prospector.png"
+    },
+    {
+      "hash": "sha256-4B\/gFVrBaU1+uGYOADAD2jvZueJDtgQoJ8ChfvQ\/77o=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_prospector\/hc_hero_prospector_64x64..png"
+    },
+    {
+      "hash": "sha256-r0dwtoPJ4atMjG\/QynoDXQBErd75TJy5vAtx9617LXc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_roughrider\/hc_hero_roughrider.png"
+    },
+    {
+      "hash": "sha256-32Uw05icIdghcj0yBS6geqKIC\/DMG6lHrqQkvdtABBQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_roughrider\/hc_hero_roughrider_64x64..png"
+    },
+    {
+      "hash": "sha256-yEh0mGB60CNPxyzFC+4f\/zBoVzUmMVu7bBs1sULjt3g=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_second_explorerdog\/hc_hero_second_explorerdog.png"
+    },
+    {
+      "hash": "sha256-rAnyo\/zRfjdZluzJznjz6eyWYx6mhQGIC35LpNzVe1I=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_second_explorerdog\/hc_hero_second_explorerdog_64x64..png"
+    },
+    {
+      "hash": "sha256-wDFycFYr9JZ8ii4fMU0bNxx39awNd+6I1+qPiUlBKqI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_sharpshooter\/hc_hero_sharpshooter.png"
+    },
+    {
+      "hash": "sha256-CktIBrCZ6MSAp7sp2dO529L3WXpPWGdlXHMRs8nd6bc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_sharpshooter\/hc_hero_sharpshooter_64x64..png"
+    },
+    {
+      "hash": "sha256-ZmEpogdkvuyeFjDr6bweSQkSaG0iHURSWO9yb5Qfy5k=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_trapper\/hc_hero_trapper.png"
+    },
+    {
+      "hash": "sha256-vzk3lnojslJ5p0DlmPv4NwcMlXwkZIr1QmQ1wP+xHHk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_trapper\/hc_hero_trapper_64x64..png"
+    },
+    {
+      "hash": "sha256-Mpai1p9QvV08awEnx+vLx1pdeQ3aGyI1GRwpahcM4As=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hero_treasure_hunter\/hc_hero_treasurehunter.png"
+    },
+    {
+      "hash": "sha256-9QYhSQEgVoOX6kk+IJfj5f8mQyjgWNWZ6REZjzmWzzQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hire_asian_merc_army\/hc_hire_asian_merc_army.png"
+    },
+    {
+      "hash": "sha256-lxvZo\/aZxGZdTWTy8E\/nDGMD2Qwv\/SXGuMVHVEX4Gs0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hire_asian_merc_army\/hc_hire_asian_merc_army_infinite.png"
+    },
+    {
+      "hash": "sha256-HftfAnDl8qWFajdWg\/6qUyC+1CcthXYtcmCJKszLEVc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hire_hessian_jaeger_division\/hire_hessian_jaeger_divsion.png"
+    },
+    {
+      "hash": "sha256-G7gao\/EarNqe4cAfzk1xprldKJmtBIArQ+OgDcqGNjE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hire_highland_merc_army\/hire_highland_merc_army.png"
+    },
+    {
+      "hash": "sha256-K9dht2AkL+\/IRdVFSsHZHdhopOBtFf4Qmregh6DrYcY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hire_highland_merc_army\/hire_highland_merc_army_infinite.png"
+    },
+    {
+      "hash": "sha256-MwwB\/9qrvMESx3SWPT\/UDC10ogybfYQqEeZTIljwpvc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hire_holy_roman_merc_army\/hc_hire_holy_roman_merc_army.png"
+    },
+    {
+      "hash": "sha256-ztXRhmvR3Ea2woYGffVvLlv540yAQyTLLuxkAMOv4po=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hire_holy_roman_merc_army\/hc_hire_holy_roman_merc_army_infinite.png"
+    },
+    {
+      "hash": "sha256-H8Jb0Y3aZIZfe4gM+QEeQ8Qr5fASP43sBHJS3JBSOTY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hire_med_merc_army\/hc_hire_med_merc_army.png"
+    },
+    {
+      "hash": "sha256-ul4Kg+AmtE6WFIykKDaDTQtbVSl7WgQNT7oVOZlFV4g=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_hire_med_merc_army\/hc_hire_med_merc_army_infinite.png"
+    },
+    {
+      "hash": "sha256-XTuIZCQ6qKxrUsb\/jSS+4kVSQR3zeWJOG0M415uiTZo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_improved_buildings\/hc_improved_buildings.png"
+    },
+    {
+      "hash": "sha256-z04QYSIwzWGio8vYb8c1nLkwdpf5C1kNwZ3Xaaa6dIw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_indigo_trade\/hc_indigo_trade.png"
+    },
+    {
+      "hash": "sha256-lZ8YeNtPSvaGs9kCKGbFgEBD2pu70dtO2KKturL6FPE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_infantry_combat\/hc_infantry_combat.png"
+    },
+    {
+      "hash": "sha256-Fl5zjIbaTwJiimzrGAteGei9nrB70dknQbRUl2u7mME=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_infantry_damage\/hc_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-yMPWeqjOSKpxyUggDPWR93cI+NM8wtbaRH\/+JM9a2gk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_infantry_hitpoints\/hc_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-5RiFYaiCO\/YLNyWYaXB3Ma0EcZSyM40Y1IKzRZewyOQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_inquisition\/hc_inquisition.png"
+    },
+    {
+      "hash": "sha256-5RiFYaiCO\/YLNyWYaXB3Ma0EcZSyM40Y1IKzRZewyOQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_inquisition\/hc_inqusition.png"
+    },
+    {
+      "hash": "sha256-SFL1J2thj98XFtDd533woVeUukGjeem6cHFs9UveJGk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_iron_monger\/hc_iron_monger.png"
+    },
+    {
+      "hash": "sha256-aIUe4IsR+KC3WDmmoELdzl2XBxGDkS1jYXFKPtURwTI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_italy_milan\/milan_32x32.png"
+    },
+    {
+      "hash": "sha256-hWcjQP965dBUgq2FnrMKsyhjrRPkh6Oj8l24VMc+u\/I=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_italy_milan\/milan_64x64.png"
+    },
+    {
+      "hash": "sha256-FogZHVeAyiC\/P5B0qPz1HzchrC\/\/+F4d4PUiFpEgDXs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_italy_naples\/naples_32x32.png"
+    },
+    {
+      "hash": "sha256-SISucRFW74s4EBJVuez9QiSmNTNcAHmVXoTjfL691TQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_italy_naples\/naples_64x64.png"
+    },
+    {
+      "hash": "sha256-aT6KUJaTC+ikYhCBG6K5y56t\/+qNfYsxIhHOx1Q+An0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_lumber_market\/hc_lumber_market.png"
+    },
+    {
+      "hash": "sha256-hD0pZ27kBn8PMkA53xsRqpw75RRUqQ7ARnnzFMZxSCo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mansion\/hc_open_mansion.png"
+    },
+    {
+      "hash": "sha256-XRD8F25IsZjsxHQOpj2M0gdRN6yfXzUEDsQS+nAoAQs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_manufacturing_plant\/hc_manufacturing_plant.png"
+    },
+    {
+      "hash": "sha256-CpuS92X0+rO9dP5B2KjMulHeIU9cs2IiaZVNo9SLolo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_medicine\/hc_medicine.png"
+    },
+    {
+      "hash": "sha256-R6tikTrthbv\/hrJZJK\/KzZABvnacj0PzyUTOyuxG79U=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercenary_contracts\/contract_black_rider.png"
+    },
+    {
+      "hash": "sha256-4k5Gpwp3IUpHhVddb0XCk1xqdzwZLdKPyDduMtf13qo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercenary_contracts\/contract_fusiliers.png"
+    },
+    {
+      "hash": "sha256-cr0STMtKdoN5A\/FM+dxzbDxo8yvTGnIWDs9MiWFU2BQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercenary_contracts\/contract_hessian_jaeger.png"
+    },
+    {
+      "hash": "sha256-HLc3BBxyy8PQdgivlVKkd8hxIubT\/7R2mXaESos4lhA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercenary_contracts\/contract_highlanders.png"
+    },
+    {
+      "hash": "sha256-AxIXVja8T0cAAipExLEQTjZ7qA4sIzEispxmYT1Y5oE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercenary_contracts\/contract_landsknecht.png"
+    },
+    {
+      "hash": "sha256-yOkJJ\/AWRvF95NLpQCg9Jzjs+xpvBUY8urY\/E\/c5oLk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercenary_contracts\/contract_swiss_pikeman.png"
+    },
+    {
+      "hash": "sha256-wU03rZPPRayZQji\/vcQHwzhPvZsGyjP0JIBkWmtNMAI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercenary_contracts\/german_mercenary_contracts.png"
+    },
+    {
+      "hash": "sha256-RiEOg4jQ1uVrzJCkjdftUFtN6\/mF1rLs7slMt72gKSU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercenary_loyalty.png"
+    },
+    {
+      "hash": "sha256-RiEOg4jQ1uVrzJCkjdftUFtN6\/mF1rLs7slMt72gKSU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercenary_loyalty\/hc_mercenary_loyalty.png"
+    },
+    {
+      "hash": "sha256-EaERVETfXWrJENX7EeRgmmy5AYIHy4gtT2jzf55bE0Y=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercs1\/hc_mercenaries1.png"
+    },
+    {
+      "hash": "sha256-LzbczQ+gjRzlNEcA6Pq6Wdob+XA6N6IyWLwLSTdELbI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercs2\/hc_mercenaries2.png"
+    },
+    {
+      "hash": "sha256-1ZcCF0+lfe769GRC\/4SMYQe\/gmQcYsF4B+ik7ima74I=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mercs3\/hc_mercenaries3.png"
+    },
+    {
+      "hash": "sha256-GoKL8xAmCePEhzQwct6NwU1F1WI0eo3xRJF2U\/rDPjY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_mosque_construction\/hc_mosque_construction.png"
+    },
+    {
+      "hash": "sha256-bNQkc3Elp1sKtdbTl56aUTkyYkSOZVoJpRAKI23Jzbs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_musketeer_grenadier_combat\/hc_musketeer_grenadier_combat.png"
+    },
+    {
+      "hash": "sha256-KADc2QJ6Lt9mTT3hAJgbjYmz4q5unTFrMRJXBu29NSw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_musketeer_grenadier_damage\/hc_musketeer_grenadier_damage.png"
+    },
+    {
+      "hash": "sha256-PchMRymhMi\/FRkrr0pGuNQBSqpw6saYNidPtHL0PWqY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_musketeer_grenadier_hitpoints\/hc_musketeer_grenadier_hitpoints.png"
+    },
+    {
+      "hash": "sha256-G7GltkIop7LleWiZ451KvZU+sbHK5i\/ccrbDwum69r8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_native_diplomacy1\/hc_native_diplomacy1.png"
+    },
+    {
+      "hash": "sha256-9R4ObE\/L20cglbV9zT8bBq1RdpA\/JftIPjrbS9qRxn0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_native_diplomacy2.png"
+    },
+    {
+      "hash": "sha256-2CYRgZn4FGcWvwRm+8twY25mqsT41U8\/IBa5Eq9kpbY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_native_diplomacy2\/hc_native_diplomacy2.png"
+    },
+    {
+      "hash": "sha256-OWL6Z5ke+a2W8hurwNTM3BzUACW3f7HK3s1FFvEBffY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_native_diplomacy3\/hc_native_diplomacy3.png"
+    },
+    {
+      "hash": "sha256-aBvSZKuR0Ukjh5td2cJn8+wNZDwuh+fhdW8Z8rr3y14=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_native_warriors\/hc_native_warriors.png"
+    },
+    {
+      "hash": "sha256-Dk40\/f0h1mPdJjZ5hT0RinWUakhywzJLkYIIptmsfnQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_native_warrior_combat\/hc_native_warrior_combat.png"
+    },
+    {
+      "hash": "sha256-utqjegUNY+xTGINB1koeJgAI30MK3U0vVDw4mtbDHn0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_naval_combat\/hc_naval_combat.png"
+    },
+    {
+      "hash": "sha256-TmhS8h\/to6d5xFc8a1q6aqyyRc73\/JvjYhWGjQYcCbM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_naval_gunners\/hc_naval_gunners.png"
+    },
+    {
+      "hash": "sha256-\/DfSC39Ihqck1llIbiMkJkfnc4BJZYZPjHYgHsFg6Kc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_navigation_school\/hc_navigation_school.png"
+    },
+    {
+      "hash": "sha256-xz\/D+GNk3gSTK1rB3UJ8tOlM\/vZyCBVnOAUmgVDXee4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_northwest_passage\/hc_northwest_passage.png"
+    },
+    {
+      "hash": "sha256-Sz+GTD4DElH36jSoL+kG5BCIIUaIW9hDAXVKMfasBac=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_nwtc\/hc_open_nwtc.png"
+    },
+    {
+      "hash": "sha256-RAJ4G6bf2wdo8xI7ZcK991n71OTY+VjFxgPtaCw2MYo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_ottoman_artillery_division\/hc_ottoman_artillery_division.png"
+    },
+    {
+      "hash": "sha256-1RLZR7mnUcD6SmFgLsZPwd3A4rstqjAXWSTuwDv8L10=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_passage_to_nippon\/hc_passage_to_nippon.png"
+    },
+    {
+      "hash": "sha256-xbKKeuL8YiB55Kp4WCzoErxxAZ5OwiwglMwinitpnAw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_pioneers\/hc_pioneers.png"
+    },
+    {
+      "hash": "sha256-9v7v+RVZ3uf+MS+aVES7uQ+CL46iINgGFGrLqi2jSXM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_polish_winged_hussars\/hc_polish_winged_hussars.png"
+    },
+    {
+      "hash": "sha256-ZU02pmSyzVqZO4nFiplB3dr\/NEkAC90Z3XksGYQWsf8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/adventurer.png"
+    },
+    {
+      "hash": "sha256-oYguzZm9dDSFQveO0EEonr3WIbObeygCHMT1p+nC9pA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/bishop.png"
+    },
+    {
+      "hash": "sha256-LNG7MqP5AZHGzn3axMqFnMx+PKsg2L\/9qb4R5kHmhIU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/carpenter.png"
+    },
+    {
+      "hash": "sha256-jEOV4XV\/IvycdQI+gaHeD\/VGj5z3omxNm\/nEFBSFy44=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/cavalier.png"
+    },
+    {
+      "hash": "sha256-\/XIeApYdgd9ysvHbsTRheFOSdepyUgMSx7smId9uhpg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/engineer.png"
+    },
+    {
+      "hash": "sha256-RMzgU7sSewlz6lBVZqHzJ+9h9GwRvsImhrRknTXtFfc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/farmer.png"
+    },
+    {
+      "hash": "sha256-akGPs8htGjTgabDI9UAUzWhszaa0Abva3k120RRbiSs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/kingsmusketeer.png"
+    },
+    {
+      "hash": "sha256-y1SbCpWPMn4zXc4BSltK8Nb4PfJvG7AGCRhbVA+WFMI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/miner.png"
+    },
+    {
+      "hash": "sha256-jrvRhmOTHXWPRcnSrXb\/kRo+U0hCEK3PVk3EoOKQPBg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/mohawkstatesman.png"
+    },
+    {
+      "hash": "sha256-0RWXfCR6G7iqOwxH71D2QxgzeD\/Mey8p827fBcXmV74=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/philosopher.png"
+    },
+    {
+      "hash": "sha256-02naJr4hjfYuSoqUMSK+i8SKq+Hf+Gr6eRR\/gRm3CtQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/pirate.png"
+    },
+    {
+      "hash": "sha256-fWguyBWmVpnj3SCCpf92ON2+xmBnqhip4g20S0Ikx80=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/prince.png"
+    },
+    {
+      "hash": "sha256-qvaQ+yoopEIvazkR1k3YTY3zahPFfNYkkYNTihU+hqY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/shepard.png"
+    },
+    {
+      "hash": "sha256-7e60cjN3w44iv4mlZQhTpkFuReQfCGYXRKBCaHaF5ok=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/tycoon.png"
+    },
+    {
+      "hash": "sha256-0DIKXIswwUbLDzcYQBsu+6K5d6tOKLcZPExofSNUefk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/viceroy.png"
+    },
+    {
+      "hash": "sha256-+WtrHfsZpOU4i02CvYu5aQOcAJxYWgMw48mr5H+Vemc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/vizier.png"
+    },
+    {
+      "hash": "sha256-oRvcCyki2uuQymAAguxXTN11vnVH2G1D+ZP2jT2x+N4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_politicians\/warminister.png"
+    },
+    {
+      "hash": "sha256-WzaFlIRTQ+hKKKLnyQDRf1Q2B59+7Uf1rKeHfZLSviA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_portuguese_expeditionary_force\/hc_portuguese_expeditionary_force.png"
+    },
+    {
+      "hash": "sha256-zJAUfaQT4gunnTl6wpVNWfRpf4H93UVT+mYXY1qMMXI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_portuguese_white_fleet\/hc_portuguese_white_fleet.png"
+    },
+    {
+      "hash": "sha256-mLpqJp5CAG8MjqlV2KuQVEo9XJO799to07pxya44bzU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_privateers2\/hc_privateers2.png"
+    },
+    {
+      "hash": "sha256-g9yVTkeNBleXuvqAbrQvQK9L1Lnk1e4lNIwunjc94Zs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_ranged_infantry_combat\/hc_ranged_infantry_combat.png"
+    },
+    {
+      "hash": "sha256-+Yv2oescyyfKJ0lU7qNSPPopPSODP0ycA1wZpt9mSZ0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_ranged_infantry_damage\/hc_ranged_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-ad3gOcfz4PTObmwTBvcOBNkuRcQHTj7XymqrVvnPaVg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_ranged_infantry_hitpoints\/hc_ranged_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-qHzHZBF9naBjDiVQN7wdZchNdBSXtoj2XuJiPgUHwg8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_ransack\/hc_ransack.png"
+    },
+    {
+      "hash": "sha256-RiEOg4jQ1uVrzJCkjdftUFtN6\/mF1rLs7slMt72gKSU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_recruit_mercenaries\/hc_recruit_mercenaries1.png"
+    },
+    {
+      "hash": "sha256-qMgaOeXNkjhRfgmjnddQLMk02optzZUjOJQlno8Y73o=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_refrigeration\/hc_refrigeration.png"
+    },
+    {
+      "hash": "sha256-0mRLBMSNFKvNliZNKJYUvP\/cdMy84uHw7QGDuCBq8jw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_rendering_plant\/hc_redering_plant.png"
+    },
+    {
+      "hash": "sha256-RBRuWP5R6x4framU4XKXsM8y1zl2L18wV12Xgct2x18=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_rendering_plant\/hc_rendering_plant.png"
+    },
+    {
+      "hash": "sha256-mIv14MRV\/xBWmiDMcRk5iViHYbVnMDreHVy6TX+mI0o=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_richelieus_regiment\/hc_richelius_regiment.png"
+    },
+    {
+      "hash": "sha256-AEkDFP9li77TCosYEha\/CgM\/SJVRtBtURpRQ7bdMBHk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_riding_school\/hc_open_riding_school.png"
+    },
+    {
+      "hash": "sha256-pEdyrIgUqpXjgx2wHJGAiHkXmZYxa7S92HPSmdK4Dro=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_riding_school\/hc_riding_school.png"
+    },
+    {
+      "hash": "sha256-Y4Y+DTbxIerEEyrTesrMJBcNlmHA\/uXbhv\/7szYzmZA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_robber_barons\/hc_robber_barons.png"
+    },
+    {
+      "hash": "sha256-GBzrlqpBeMP85FxlxfR3UWu3kOVZW2GVdscEAdb2RtA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_royal_decree\/hc_royal_decree.png"
+    },
+    {
+      "hash": "sha256-1RjfdYG3jSjMQN4zizXLpN9dJTpwTp9d7\/hAgxpWi0U=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_rum_distillery\/hc_rum_distillery.png"
+    },
+    {
+      "hash": "sha256-xYLpx9IJ9gIU9U+Hq2Ym8gSUw3p34qH1XfF\/n8I62z8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_sawmills\/hc_sawmills.png"
+    },
+    {
+      "hash": "sha256-0vkssP6+3\/6nT7PYBtIG3EcMTSQLZ\/2IkBugknln3\/A=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_schooners\/hc_schooners.png"
+    },
+    {
+      "hash": "sha256-r3uBr+ahWDcoCIkFrfAOk6wLRZRwtymL4AWWEiPSX14=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_siena\/icon_hc_siena_32x32.png"
+    },
+    {
+      "hash": "sha256-O2wTUFa6MNTIIUO+q4I+nl+2bslo2IfoljbKpk57jIo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_siena\/icon_hc_siena_64x64.png"
+    },
+    {
+      "hash": "sha256-8kAqwEIWuxY81\/qo7uQDf9DIulwxmF6SHvgPqyTzB4k=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_silk_road\/hc_silk_road.png"
+    },
+    {
+      "hash": "sha256-1rY+Bi5No7kqHAH2DtYz+omoPPR4QF0WLHns+rCwi1M=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_silos\/hc_silos.png"
+    },
+    {
+      "hash": "sha256-ccfNN+tlFmAOsLGsTajCg286LlAZnTB0G9jJCwH1YKk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_silver_smith\/hc_silversmith.png"
+    },
+    {
+      "hash": "sha256-NpQafgVFpllzaAY1vYCa6bk6gZGoS+1U4cDBq8v5yJE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_silver_smith\/hc_silver_smith.png"
+    },
+    {
+      "hash": "sha256-jxu3HZc7UqcmPcHA5HWT5ypbg83fI69gJh79LztwCGw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_spanish_galleons\/hc_spanish_galleons.png"
+    },
+    {
+      "hash": "sha256-k4VCfWfZDp74FcuKxGlK5HcmrmiCQqvsXkjVBaojhvs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_spanish_riding_school\/hc_spanish_riding_school.png"
+    },
+    {
+      "hash": "sha256-T3K6XC85R5TaXHXN8O\/QAtC048u0aZ0sEL2Nd3I1Y90=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_spice_refinery\/hc_spice_refinery.png"
+    },
+    {
+      "hash": "sha256-8uEI\/jmGWgnUPgnbiKTZwi7um6SWPo0M9BGEbyhe3aM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_spice_trade\/hc_spice_trade.png"
+    },
+    {
+      "hash": "sha256-L8OMWs9UVJBIkoGe1IghRI50G2hgVQw554qwaRkmJ5k=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_stockyards\/hc_stockyards.png"
+    },
+    {
+      "hash": "sha256-66Bix4DDphPPxdZeyD99L+M6reOYK0Kvyyau37FTd4s=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_stone_masons\/hc_stone_masons.png"
+    },
+    {
+      "hash": "sha256-lMD8q1idK7UDsaDH4h46KacISgphTvFIr9g\/sJ5g79E=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_strelet_combat\/hc_strelet_combat.png"
+    },
+    {
+      "hash": "sha256-1RBA+dmTQNPzO9h5sOW+yIRY+yrvH\/JbevQpdqpSsys=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_surgeon\/hc_surgeon.png"
+    },
+    {
+      "hash": "sha256-47nzCT\/twWxEjDRRiSkCiV2u84ih+PQkqYFfLBiiTuU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_sustainable_agriculture\/hc_sustainable_agriculture.png"
+    },
+    {
+      "hash": "sha256-sxNcD\/DWMi3WLuNUitvJt0KVHLmAyN8jfIgRfTtj0zo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_2_surgeons\/hc_team_2_surgeons.png"
+    },
+    {
+      "hash": "sha256-5rZiuSFvR8ZYNmVUUc5zllbo8X+i5RwmgKp1RmwhMto=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_4_sheep\/hc_team_4_sheep.png"
+    },
+    {
+      "hash": "sha256-eO1ot2mcz7N1Dj9sboh0qUAOSpcWVVUgFh2tmlNvGfQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_archaic_soldier_training\/hc_team_archaic_soldier_training.png"
+    },
+    {
+      "hash": "sha256-jx5RmHWNafxPGVBQmxjJ9UepncwCJMacOVnAaZVaIn8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_barracks_hitpoints\/hc_team_barracks_hitpoints.png"
+    },
+    {
+      "hash": "sha256-l11T0rziAA0YOYFpsieNFX7D3F2jj1lBR93lovoknU4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cavalry_damage\/hc_team_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-CfbOxhpfBABaQu7f3fqHyUmpK5m+IoFn1TaMxHtqN7Y=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cavalry_hitpoints\/hc_team_cavalry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-Htk88abj7K9RnYqO+O+RQcfruqd1U93CtWMXfyCLbfM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cavalry_line_of_sight\/hc_team_cavalry_line_of_sight.png"
+    },
+    {
+      "hash": "sha256-dEZwyUDCC1TEGWCE++vj8mu9L1UnqyXpYr7BEgR4OoM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cheap_barracks\/hc_team_cheap_barracks.png"
+    },
+    {
+      "hash": "sha256-QUTPEt2aftJkpoYqmt7S1PKtFsjba2\/oBzOKn0Kseqg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cheap_church\/hc_team_cheap_church.png"
+    },
+    {
+      "hash": "sha256-fCfQG\/23OaYf5180fWDuQlwxf04T1QHV\/PcESjxWPRY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cheap_docks\/hc_team_cheap_docks.png"
+    },
+    {
+      "hash": "sha256-XmjYP9xCaV5r5c4YzmghfA94c5UkruyrrnVUjZJm8Dg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cheap_markets\/hc_team_cheap_market.png"
+    },
+    {
+      "hash": "sha256-o3H9dmEr2xaeC1O8cdhxIIIzaUnXXZLUmGZ2YSgE\/vA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cheap_outposts\/hc_team_cheap_outpost.png"
+    },
+    {
+      "hash": "sha256-tbPCCbSocKf3FwhC\/JMXi\/CnTNLuN5pOZoLJJAhWQ30=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cheap_priests\/hc_team_cheap_priests.png"
+    },
+    {
+      "hash": "sha256-R6amVX1\/zeqMwvKeTo4JcZWRU6FzO8nzcfgR4m5aT00=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cheap_stables\/hc_team_cheap_stables.png"
+    },
+    {
+      "hash": "sha256-0qWKc\/\/b87TSQCBMpgSg3iggRJ\/hq9Asu6o5cILsjyI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cheap_trading_posts\/hc_team_cheap_trading_post.png"
+    },
+    {
+      "hash": "sha256-2gBCZ3QcqbWHOzgUNWz80l4\/u74JSXJI19CWmgJf6WI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_chests_of_1000_coin\/hc_team_chests_of_1000_coin.png"
+    },
+    {
+      "hash": "sha256-ha3Wkv2qSZ+8LFREJUGkZ0PphjQKKqixGAYsLziVnX0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_chests_of_600_coin\/hc_team_chests_of_600_coin.png"
+    },
+    {
+      "hash": "sha256-YdwgIbKuFBhk7v2HxCHNCKXQtiGUDyDz6fJXSFLogJs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_coastal_defenses\/hc_team_coastal_defenses.png"
+    },
+    {
+      "hash": "sha256-jPALdlkuzjeiXzvk8cksXuwy8niXSrrcvoIoslsVDB8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_coehorn_mortars\/hc_team_coehorn_mortars.png"
+    },
+    {
+      "hash": "sha256-xxyzPrHOfhsdrYbkTfJVMao2WI8Onp1vOLaGEnEVbv4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cold_water_port\/hc_team_cold_water_port.png"
+    },
+    {
+      "hash": "sha256-rGJq36v69R5j8VxEms3AcbBboFYrWeYDG2om1MTCJRQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_conestoga_wagons\/hc_team_conestoga_wagons.png"
+    },
+    {
+      "hash": "sha256-7GaigYjITglGmmaXy4S\/iWKjqQgqvhmuXkrrq68RyR0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_cords_of_1000_brazil_wood\/hc_team_cords_of_1000_wood.png"
+    },
+    {
+      "hash": "sha256-TnUM9GplZ8SzBoJ8Necgzx9Ey2kajb14F6e8axWVPYY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_defenses_bastion\/hc_team_defenses.png"
+    },
+    {
+      "hash": "sha256-VrQjj57Cl2mWrw4GxtXtvyK9ZHMBtMn39y\/T46fKp08=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_dueling_school\/hc_team_dueling_school.png"
+    },
+    {
+      "hash": "sha256-WGMlkGkbfCeEpMDswEfi8Yhj2fnfxxuLWZdlgWJN\/eE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_early_dragoons\/hc_team_early_dragoons.png"
+    },
+    {
+      "hash": "sha256-fuLhV016GfV9QF2hTF5gSl\/SBngEEaLuXuDULlDTuD4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_early_skirmishers\/hc_team_early_skirmishers.png"
+    },
+    {
+      "hash": "sha256-BdxA+uaticSFIveaBLFHZ+q6+XoLjQrK5qfyTFee2es=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_envoy\/hc_team_envoy.png"
+    },
+    {
+      "hash": "sha256-2PnX3m2N05tOB7U1YVpmPVRE\/VTaNbiZPaQfMB6ZaGQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_explorer_combat\/hc_team_explorer_combat.png"
+    },
+    {
+      "hash": "sha256-8pIu70MunCuZAACHLYdnuebPhuuXEUuxEoXomVhEMNo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_fast_houses\/hc_team_fast_houses.png"
+    },
+    {
+      "hash": "sha256-g8Arzi3N4ThpUNgHcx5Bl\/jSBQwwdaj3Ea0mQbY0nu0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_fish_market\/hc_team_fish_market.png"
+    },
+    {
+      "hash": "sha256-gBZCwDmYK0PsBeqlzmOhNydp2LzrJhOo5BdDc5g8vfA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_food_silos\/hc_team_food_silos.png"
+    },
+    {
+      "hash": "sha256-kbY8M+r3nDNn4+nGJyWbgS\/LAwIL9DP5vzTMwzBpMtA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_furrier\/hc_team_furrier.png"
+    },
+    {
+      "hash": "sha256-FiJ3kvrQCzud9UdzFIvp+SGDL1W10veuTbDxcKSBIQM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_gunpowder_infantry_hitpoints\/hc_team_gunpowder_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-ra+xA+q7tULvF2I7Cygrwt2w63qRlnZUgRfy6XH9gLc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_hand_cavalry_attack\/hc_team_hand_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-Smm+G6uTBaKvO1PAqHUKFoOE+Mpat7OcCYQfyAbXUSo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_hand_infantry_attack\/hc_team_hand_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-PAIT3P2M5IzLWg3yp4DJk5h+DowGFo3+vBJzMHYPZ9w=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_improved_walls\/hc_team_improved_walls.png"
+    },
+    {
+      "hash": "sha256-UAGr8fbBC9hoy4ThYRyQDMSSmbN2joZXdoK9FlK\/l3k=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_infantry_hitpoints\/hc_team_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-uNsB0WqOgnKv4Ln\/HpUTxxJ3gAvepAuUZzcyWZIQqJ4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_inquisition\/hc_team_inquisition.png"
+    },
+    {
+      "hash": "sha256-PC8aE1nf278A0JGsCSa9jqnotGl8AEJ0FRowkyF\/0JM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_ironmonger\/hc_team_iron_monger.png"
+    },
+    {
+      "hash": "sha256-EVms4MKiCgs7uSEB58hsqfSLY\/H8uT45MfoPkKgfzBA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_monitor_combat\/hc_team_monitor_combat.png"
+    },
+    {
+      "hash": "sha256-igT387bUFaWPWKdKivQrO312Wi+WKl5XKWzs2vS9nfA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_musketeer_grenadier_hitpoints\/hc_team_musketeer_grenadier_hitpoints.png"
+    },
+    {
+      "hash": "sha256-wMT8aRBs8Zq+Qu+0tq7J\/nxreDnUlyVnSeu4Dhd1yTE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_native_warrior_combat\/hc_team_native_warrior_combat.png"
+    },
+    {
+      "hash": "sha256-XbVjagWta\/ijS+eUd95Q+NNtdP\/IpXqV1\/eO8gCtCd0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_native_warrior_societies\/hc_team_warrior_societies.png"
+    },
+    {
+      "hash": "sha256-x9pR5vHxKbVEMwMP+JbFTLTotId3kdlPI53B3f8sshU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_ranged_infantry_attack\/hc_team_ranged_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-p0eyKkMPMe28uGZ60rstrYe0XSHtqgCudyonL5XYiXU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_ranged_infantry_hitpoints\/hc_team_ranged_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-WD4BQnGJjSdVI3pUWALb6EAbrmlEeI5Uoq1ejSAfX6o=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_recruit_privateers\/hc_team_recruit_privateers.png"
+    },
+    {
+      "hash": "sha256-Oh5oYZVsF62O3ICNhlt80cTqlPGmRh4mhbYvkl49KCE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_rum_distillery\/hc_team_rum_distillery.png"
+    },
+    {
+      "hash": "sha256-O+8E50Qwk+7NP9m1e1w9ltRqGgAl8q43xqxWS4piFBM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_sawmills\/hc_team_sawmills.png"
+    },
+    {
+      "hash": "sha256-p+ZdkR3uR8\/Az40mk7EndNN464Tbaw7FJIRJxHTAqBE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_settler_wagons\/hc_team_settler_wagons.png"
+    },
+    {
+      "hash": "sha256-rA2Ogrmqjvzq6\/jkeipsKgKupIySAywyBMYqdGxjw+E=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_silk_road\/hc_team_silk_road.png"
+    },
+    {
+      "hash": "sha256-Br2henS8BgAaLpe93B6pgY12AeuvaQUaY\/6FwzfAOV0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_spice_trade\/hc_team_spice_trade.png"
+    },
+    {
+      "hash": "sha256-BdxmTz7HNvjTeFjckZPG3uO3Se8KIdUYbJLGPxHfFrw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/ch_teutonic_town_center.png"
+    },
+    {
+      "hash": "sha256-VC9pnfT\/okxKsdlT3Q2CZGR660Qf4mSAqfNGyX9ZAuE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_archaic_soldier_training.png"
+    },
+    {
+      "hash": "sha256-YXdqU\/tC5z5bfzE0GkoyTp39KaslO0\/BI35fwAVIhy4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_artillery_hitpoints.png"
+    },
+    {
+      "hash": "sha256-oANsMnhfzmyehb4hSx2MYkV78gRIc\/h0j7PexmaOM9M=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_barracks_hitpoints.png"
+    },
+    {
+      "hash": "sha256-zT7ECDullJbNWsVLE\/nK3znURU3ieU49FEyZfTd\/10M=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-Htk88abj7K9RnYqO+O+RQcfruqd1U93CtWMXfyCLbfM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_cavalry_line_of_sight.png"
+    },
+    {
+      "hash": "sha256-dEZwyUDCC1TEGWCE++vj8mu9L1UnqyXpYr7BEgR4OoM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_cheap_barracks.png"
+    },
+    {
+      "hash": "sha256-QUTPEt2aftJkpoYqmt7S1PKtFsjba2\/oBzOKn0Kseqg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_cheap_church.png"
+    },
+    {
+      "hash": "sha256-fCfQG\/23OaYf5180fWDuQlwxf04T1QHV\/PcESjxWPRY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_cheap_docks.png"
+    },
+    {
+      "hash": "sha256-o3H9dmEr2xaeC1O8cdhxIIIzaUnXXZLUmGZ2YSgE\/vA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_cheap_outposts.png"
+    },
+    {
+      "hash": "sha256-tbPCCbSocKf3FwhC\/JMXi\/CnTNLuN5pOZoLJJAhWQ30=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_cheap_priests.png"
+    },
+    {
+      "hash": "sha256-R6amVX1\/zeqMwvKeTo4JcZWRU6FzO8nzcfgR4m5aT00=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_cheap_stables.png"
+    },
+    {
+      "hash": "sha256-2gBCZ3QcqbWHOzgUNWz80l4\/u74JSXJI19CWmgJf6WI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_chest_of_1000_coin.png"
+    },
+    {
+      "hash": "sha256-ha3Wkv2qSZ+8LFREJUGkZ0PphjQKKqixGAYsLziVnX0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_chest_of_600_coin.png"
+    },
+    {
+      "hash": "sha256-jPALdlkuzjeiXzvk8cksXuwy8niXSrrcvoIoslsVDB8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_coehorn_mortars.png"
+    },
+    {
+      "hash": "sha256-xxyzPrHOfhsdrYbkTfJVMao2WI8Onp1vOLaGEnEVbv4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_cold_water_port.png"
+    },
+    {
+      "hash": "sha256-rGJq36v69R5j8VxEms3AcbBboFYrWeYDG2om1MTCJRQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_conestoga_wagons.png"
+    },
+    {
+      "hash": "sha256-JSr8rCXVJC82UQoIKgbp10e1X+pS6NgMagnLR6HeIRw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_dueling_school.png"
+    },
+    {
+      "hash": "sha256-2PnX3m2N05tOB7U1YVpmPVRE\/VTaNbiZPaQfMB6ZaGQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_explorer_combat.png"
+    },
+    {
+      "hash": "sha256-JvK7KMN7api9ZzsEguyMJxpDpKYJ2N9nB+6a9lDqEU8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_fast-building_houses.png"
+    },
+    {
+      "hash": "sha256-g8Arzi3N4ThpUNgHcx5Bl\/jSBQwwdaj3Ea0mQbY0nu0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_fish_market.png"
+    },
+    {
+      "hash": "sha256-gBZCwDmYK0PsBeqlzmOhNydp2LzrJhOo5BdDc5g8vfA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_food_silos.png"
+    },
+    {
+      "hash": "sha256-kbY8M+r3nDNn4+nGJyWbgS\/LAwIL9DP5vzTMwzBpMtA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_furrier.png"
+    },
+    {
+      "hash": "sha256-KgPhZs7qmF2hulrER\/EFZXgyAOlcbm9tauwbgir8\/Nw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_gunpowder_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-ngZNgvJI37NcLC3OsKRWwX29hK3Fc+dbo9mvVLzRpiA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_hand_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-ZYsb3Np6Dq5DR7iURqD9BQUPgO+aHCKqiZeQldj8S2k=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_hand_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-Shg9iQK5SVEYoF3zq7\/Bh0zM8Sg0jCdod66olQd5JRw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_improved_native_warriors.png"
+    },
+    {
+      "hash": "sha256-EPCgz2F2kghJCDSk7mqc6mr7VvRGZBF44X8h3R4ttGk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_improved_walls.png"
+    },
+    {
+      "hash": "sha256-6tkU7tACXPUo1PRascLMhw1hGghpuh7yUJOarlO5hZU=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-uNsB0WqOgnKv4Ln\/HpUTxxJ3gAvepAuUZzcyWZIQqJ4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_inquisition.png"
+    },
+    {
+      "hash": "sha256-PC8aE1nf278A0JGsCSa9jqnotGl8AEJ0FRowkyF\/0JM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_iron_monger.png"
+    },
+    {
+      "hash": "sha256-+ePqqrJeTtN2Apv7qzLmZpm3agBlTireACrXA2+55Ek=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_monitor_combat.png"
+    },
+    {
+      "hash": "sha256-k5OdJymUeAnFbMfNWM8RQCcE+lavT6Q7MYqIrqMBeF8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_musketeer_grenadier_hitpoints.png"
+    },
+    {
+      "hash": "sha256-H5i4l6tvlaY+cYxuig7zgzoBD4\/6XEPaVW0fHEfC\/yE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_ranged_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-Oh5oYZVsF62O3ICNhlt80cTqlPGmRh4mhbYvkl49KCE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_rum_distillery.png"
+    },
+    {
+      "hash": "sha256-O+8E50Qwk+7NP9m1e1w9ltRqGgAl8q43xqxWS4piFBM=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_sawmills.png"
+    },
+    {
+      "hash": "sha256-P4RJFQhSdIWue5FTRk+KsgIceEgLt\/Rksp0WR7WWxY4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_sheep.png"
+    },
+    {
+      "hash": "sha256-rA2Ogrmqjvzq6\/jkeipsKgKupIySAywyBMYqdGxjw+E=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_silk_road.png"
+    },
+    {
+      "hash": "sha256-Br2henS8BgAaLpe93B6pgY12AeuvaQUaY\/6FwzfAOV0=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_spice_market.png"
+    },
+    {
+      "hash": "sha256-p8vJXY\/q2C2iGCbejyTaP1BXm0gjcA08i5M7B9AY3nE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_techs\/hc_surgeon.png"
+    },
+    {
+      "hash": "sha256-yHXi0Lp860rihZplJD7O11mwwQK9pQaH5Fof23JRVz8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_teutonic_town_center\/hc_team_teutonic_town_center.png"
+    },
+    {
+      "hash": "sha256-hTkdjLPw1Bsk26ARAnB9z6SZffTmSOzkaMVlt8QBfRI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_team_wool_staple_ports\/hc_team_wool_staple_ports.png"
+    },
+    {
+      "hash": "sha256-O7Bt4ORgZNAnVQOWC+2sXmCg8QwjQnEi2r1szxouxFo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_teutonic_town_center\/hc_teutonic_town_center.png"
+    },
+    {
+      "hash": "sha256-osTogYYGFvH6WMc0ovGjpwWyWlAFxETo8tqx7q4Z+0M=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_textile_mill\/hc_textile_mill.png"
+    },
+    {
+      "hash": "sha256-NC9Jj7wq7yaIKxUEamVQKtX2MTN5ByzN3ejwTTb+fdo=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_trade_route_coin\/hc_trade_route_coin.png"
+    },
+    {
+      "hash": "sha256-5100paztLtHWDvqH3DILjpwjPsOOhceJPwQKnyGdeWA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_trade_route_food\/hc_trade_route_food.png"
+    },
+    {
+      "hash": "sha256-xOoQabAXXXnr0w7rmkwrXkLJxXSGkEfxmwyN\/PIgfqg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_trade_secrets\/hc_trade_secrets.png"
+    },
+    {
+      "hash": "sha256-UB8x95Z+Kse81nmyWbyaVjepWNF3exQey591vXSOevA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_tulip_speculation\/hc_tulip_speculation.png"
+    },
+    {
+      "hash": "sha256-SEhjLyZ9UQ1PwQnnUUyhVs+fWNxP6Wh50+lqUiK1D44=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_unlock_coin_crate\/hc_unlock_coin_crate.png"
+    },
+    {
+      "hash": "sha256-UvfANgNX+4obPGaFLA8YxyW+wIAZG+bLOU1d2j3Jotk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_virginia_company\/hc_virginia_company.png"
+    },
+    {
+      "hash": "sha256-UvfANgNX+4obPGaFLA8YxyW+wIAZG+bLOU1d2j3Jotk=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_virginia_company\/virginia_company_icon.png"
+    },
+    {
+      "hash": "sha256-2DEPwjvUOO8dOzSgooqeGo2L55LpmmtbKZ0u\/GffkJs=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wagons\/hc_wagons.png"
+    },
+    {
+      "hash": "sha256-Fv+WDJv8PY083L8f3YjJztyqzTe+DxC9DrdPrmdeHdY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wardog\/hc_war_dog.png"
+    },
+    {
+      "hash": "sha256-4YhomMbwsYfkv5g5RUJBheH0EK7Az5DneCNgFG40RYI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wilderness_warfare\/hc_wilderness_warfare.png"
+    },
+    {
+      "hash": "sha256-Bir6r4FYSpo4Qea0tZlrbLy0qELhPaGUFoDs0D4WsYE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood1\/hc_wood1.png"
+    },
+    {
+      "hash": "sha256-APXwCROyrT9xmjjQA852vJP9RmxMQN1NiAWPPTPnL98=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood2\/hc_wood2.png"
+    },
+    {
+      "hash": "sha256-nk0M8PDeTpEaCdTgB1h8cJdAk70gf6fqMTy3Tfc8uwY=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate\/hc_wood_crate1.png"
+    },
+    {
+      "hash": "sha256-tXe6DuEZ+YQ0frSRPTVp2Teym0SCYmv+TBHhFguR4xQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate\/hc_wood_crate_128.png"
+    },
+    {
+      "hash": "sha256-GHFe6ipggCXEUWrvrLNvHSKgG24Z8nV26soOzMK0Ris=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate\/hc_wood_crate_32.png"
+    },
+    {
+      "hash": "sha256-4NgN\/GTBLvnlPUj0AsDm1JgupsOOk\/O3trDmY8XQYtc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate\/hc_wood_crate_64.png"
+    },
+    {
+      "hash": "sha256-XclAGn7dP4NtL4DU0SyTTy9JO9m42Gfgdrl7mQVjl1Y=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate0\/hc_wood_crate0.png"
+    },
+    {
+      "hash": "sha256-NQVToii3ITinDo5BpR6dRdjpid5ovqzgM9hDiZxogIw=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate1\/hc_wood_crate1.png"
+    },
+    {
+      "hash": "sha256-SJXO4wNpjrxDss8z6\/xrUglAobsJGQiY7n3rfoRYuoA=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate1\/hc_wood_crate_128.png"
+    },
+    {
+      "hash": "sha256-nH9pQiN++o\/RfmfxXvKkZn1Y\/+GNKHB5V5kHa858Zxg=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate1\/hc_wood_crate_32.png"
+    },
+    {
+      "hash": "sha256-VFH2RKVk\/fwJ0Pmeb0\/z8kNKUXAm7EJba88hto15Hvc=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate1\/hc_wood_crate_64.png"
+    },
+    {
+      "hash": "sha256-h7gtdk7KkaD+Df16CxxmQutnlwvx2PkQ6qPOykjoII8=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate2\/hc_wood_crate2.png"
+    },
+    {
+      "hash": "sha256-Qy2Av3yiiIgO+uIt9PPE1bMxVIxHjJX97gNkvYlZfOQ=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate3\/hc_wood_crate3.png"
+    },
+    {
+      "hash": "sha256-u2exM9sqillISJj9MO\/77XYSJEZYNaqx33MMqhY\/fbE=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_crate4\/hc_wood_crate4.png"
+    },
+    {
+      "hash": "sha256-n5nYzEq+QzKB8obKT+nt+ACviAd9e84m3La1liXYi6c=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_great_coffers\/hc_wood_great_coffers.png"
+    },
+    {
+      "hash": "sha256-AsP3Fe+YhwhaudV\/V44VdIjbvbC\/R3K7IoFHvFG7\/UI=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_wood_trickle\/hc_wood_trickle.png"
+    },
+    {
+      "hash": "sha256-s0TgrqsyeyR96edesYpxRNa\/sdJHTINs5qApf0oZUT4=",
+      "url": "img\/resources\/images\/icons\/techs\/hc_yeoman\/hc_yeoman.png"
+    },
+    {
+      "hash": "sha256-GevcuGOznoLEPX2hi6QGRI1xs1GLSh5ZZuhOoY\/nKOE=",
+      "url": "img\/resources\/images\/icons\/techs\/heated_shot\/heated_shot.png"
+    },
+    {
+      "hash": "sha256-4+ySXz4dIDpsnT+gA7lDOO0cGyDBeVWuDeaBF4L8dTg=",
+      "url": "img\/resources\/images\/icons\/techs\/heavy_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-+VBKRI3c\/zCb8oliKU2RN46ZTRXnJDB123qL9EaPPYY=",
+      "url": "img\/resources\/images\/icons\/techs\/heavy_infantry_damage\/heavy_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-ok27Y81XfEKo1qkZ4S046mqWswW2b32nn5kUY+GPOXs=",
+      "url": "img\/resources\/images\/icons\/techs\/heavy_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-CvA5kQkIM7msSAuAqvUae8Th2Fds15mYai2nAQGcFn4=",
+      "url": "img\/resources\/images\/icons\/techs\/heavy_infantry_hitpoints\/heavy_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-bF+BfkfTmLtnZZIjKja6t3H1niGDh7DlgX91ViWWZok=",
+      "url": "img\/resources\/images\/icons\/techs\/high_crusade.png"
+    },
+    {
+      "hash": "sha256-ypho\/VF1xBysQz4Ba8cz5dAnkvlOhV73vMHIQ3PoNDg=",
+      "url": "img\/resources\/images\/icons\/techs\/hitpoints\/artillery_hitpoints.png"
+    },
+    {
+      "hash": "sha256-VwH0D89sGI3hPe\/aHom6b1\/X6H3sbn0gWrwi59UAHXY=",
+      "url": "img\/resources\/images\/icons\/techs\/holy_mother_russian\/holy_mother_russian.png"
+    },
+    {
+      "hash": "sha256-yBjDhHrtHd97BbAOayfQ41rpCfOSb+UyrAKbMzYeYec=",
+      "url": "img\/resources\/images\/icons\/techs\/homestead\/homestead.png"
+    },
+    {
+      "hash": "sha256-yBjDhHrtHd97BbAOayfQ41rpCfOSb+UyrAKbMzYeYec=",
+      "url": "img\/resources\/images\/icons\/techs\/homesteading\/homesteading.png"
+    },
+    {
+      "hash": "sha256-KY2Zif432O6NAWSFfPcCXShglGEsIOGdY1+y0YTJWpQ=",
+      "url": "img\/resources\/images\/icons\/techs\/howitzer\/howitzer.png"
+    },
+    {
+      "hash": "sha256-sgK1bl66myS6HMhNFQjKwhE0YzT0n50olf2SZoWLqDg=",
+      "url": "img\/resources\/images\/icons\/techs\/hunting_dogs\/hunting_dogs_32x32.png"
+    },
+    {
+      "hash": "sha256-w\/agHX2Hqfa8MUl8F2YV7g+kA05weZkjS+awMrmt2uE=",
+      "url": "img\/resources\/images\/icons\/techs\/hunting_dogs\/hunting_dogs_64x64.png"
+    },
+    {
+      "hash": "sha256-8ZH\/gtDOiQfdm2xpvRPE6MYK1SKuyBnTZMnt3TxR+h0=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_archer_infantry\/imperial_archer_infantry.png"
+    },
+    {
+      "hash": "sha256-kKfYdHEmAknYqSgNLqmHICZIDyLXisVphkJ7l\/QPldA=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_artillery\/imperial_artillery.png"
+    },
+    {
+      "hash": "sha256-kYTPRr3b9kuFUIQ9kicoQ7BSZ6htRBPjG9O6YiQVv2U=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_cavalry\/imperial_cavalry.png"
+    },
+    {
+      "hash": "sha256-dV6RxCt36T1GNOy4MUKmvwdsQEIRFdjZmZKFou38OX0=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_culverin\/imperial_culverins.png"
+    },
+    {
+      "hash": "sha256-3hvkuhv8RiYyR\/Dcq89uo\/aGuUgBa3Ce5Sr6QIQzY5s=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_excessive_taxation\/imp_excessive_taxation.png"
+    },
+    {
+      "hash": "sha256-WdKcXoXvDTJDmiAWcW0iynPHDChNMXszRLkupj6fcL8=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_grenadier_artillery\/imperial_grenadier_artillery.png"
+    },
+    {
+      "hash": "sha256-t79JaOookIV9Mht1VfIsA\/Wu9M2Hza1vdN\/2fiRAN7w=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_howitzer\/imperial_howitzer.png"
+    },
+    {
+      "hash": "sha256-H4st8wl3BFotODkAtlMsJkQJXCeY9rujNr\/QQ6qXBpM=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_immigrants\/imp_immigrants.png"
+    },
+    {
+      "hash": "sha256-Vmhclqq3Wt5\/t+6LbevEbyOTlUoqR1120GEGzaB6W2s=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_infantry\/imperial_infantry.png"
+    },
+    {
+      "hash": "sha256-1BqwQjWF85Qqurr2wcaZKioUNgMjHns+yZdwoUj69Tg=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_knighthood\/imp_knighthood.png"
+    },
+    {
+      "hash": "sha256-Q1o6YI5y48xY\/0KqlA7D+LqC2JI6x8Wq7k1EYFSXtbo=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_large_scale_agriculture\/imp_large_scale_agriculture.png"
+    },
+    {
+      "hash": "sha256-wdhvhI4s07wiRaNeBUyx5sgAzI20EGSzRNjtIN4KotQ=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_legendary_natives\/imp_legendary_natives.png"
+    },
+    {
+      "hash": "sha256-kAtZGiDNJ\/ZB1O2\/lQp8cOuz+2vbgOJjFWjhndCtCJY=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_navy\/imperial_navy.png"
+    },
+    {
+      "hash": "sha256-X1vanyw6XDlaTlfR\/P2+FHpvDtMmae1xPp5xiC+be64=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_peerage\/imp_peerage.png"
+    },
+    {
+      "hash": "sha256-esXIeUt0KGec0xVUcUYJFtjB1FTf4iLp4v71YQybzIs=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_rabaulds\/imperial_rabaulds.png"
+    },
+    {
+      "hash": "sha256-bK4q9qPnHuqLP1W7jlY\/\/QgQM8uAhXVlfubYiUw+CuQ=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_spear_infantry\/imperial_spear_infantry.png"
+    },
+    {
+      "hash": "sha256-CWNZktf5azCm0qMa0vF8HkZVKsRI+hhpc8\/pxVc9Pkg=",
+      "url": "img\/resources\/images\/icons\/techs\/imperial_sword_infantry\/imperial_sword_infantry.png"
+    },
+    {
+      "hash": "sha256-wYAY7BQ2Q2ACxcwWbh\/W2JLDUNiT\/QdbP9V+okQ7uJg=",
+      "url": "img\/resources\/images\/icons\/techs\/improved_grenades.png"
+    },
+    {
+      "hash": "sha256-FRS9kV6smKMv6f0Pq3iYm\/j6LZstxrTsdSTSUyQ4w20=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/advanced_tambos.png"
+    },
+    {
+      "hash": "sha256-8QzUlcUJqMWBEUQjpQtdlIqIxdzUnjBxCoN6t8ybYB8=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/alpaca_wool.png"
+    },
+    {
+      "hash": "sha256-p7gVTP8i8CVvJC0hMhGaeVMHbANA9jYpBs4BDUUh83c=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/american_allies_inca.png"
+    },
+    {
+      "hash": "sha256-PDPd63mOp4AKhcxiSkeCjA5\/uugBBMWnh+TmhbuyQ+A=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/bridges_team.png"
+    },
+    {
+      "hash": "sha256-czE99McL5XUApU1K7gqTXsU14EnfmdAMo4maBoJelRw=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/camayos.png"
+    },
+    {
+      "hash": "sha256-8Bbiohc2pK3A2HkcR2AqchBWt\/VLgbXl5JP5nVyQBqU=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/census.png"
+    },
+    {
+      "hash": "sha256-VhbtJCbRbpBCbbZNPO\/Zd+rlkFuS7fRofj21WKpx7vY=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/ceque_system.png"
+    },
+    {
+      "hash": "sha256-n0YiLT01nHCEUSPDin5muYXPgwn9OsMGmyz8F0BWbMA=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/chicha_brewing.png"
+    },
+    {
+      "hash": "sha256-tmthcqKCg62WmntRNTElGOvNROnSsvGB8Q+OUGK9Xmc=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/chinchillas.png"
+    },
+    {
+      "hash": "sha256-g7vWukZaELdjE2CiVdj62V8Otj5J07bwIV+8vFjIMNM=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/chiribaya_dogs.png"
+    },
+    {
+      "hash": "sha256-K+5aPxrnNAFYDmx7nxbeV5X1vJ1BwBxRmGX1jFUbUH8=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/cloud_fortresses.png"
+    },
+    {
+      "hash": "sha256-ur4bWcdIybNsst\/TVRK+mrSGbb\/vkVypr6idx4RS7cs=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/cloud_warriors.png"
+    },
+    {
+      "hash": "sha256-QmT\/ZrBZzT64qrGyqwTZ6r2cMHW4Zw8RjoPI8t+zrhM=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/curare.png"
+    },
+    {
+      "hash": "sha256-Na6WSQNkfy91WegtmfDt2I7Y6\/O2IRSrqQK5fYE4gmI=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/floating_islands.png"
+    },
+    {
+      "hash": "sha256-q6+CaX\/IUQMuDPscxjkqEw\/XNrHUKSU4QtrDkgtvQ\/k=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/high_ground.png"
+    },
+    {
+      "hash": "sha256-odxsP7u3y4cU2K81ErgumKnin7ruxAE3wWhhiyIdmgU=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/imperial_unity.png"
+    },
+    {
+      "hash": "sha256-lNi+8p73mZbGz9PP43V4+e9ZJzNu8ATGbOqQRuhAQoE=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/infinite_bolas_warrior.png"
+    },
+    {
+      "hash": "sha256-+nMNZNj7jhxJxhxh7WZr8SOgg1M4JrhS7hwMWbCKKOM=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/infinite_bowman.png"
+    },
+    {
+      "hash": "sha256-f7BaHCeN3RzmdzLuYGWIbr4cRjoLoF6W6qxI6HWB+9Q=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/infinite_chincha_raft.png"
+    },
+    {
+      "hash": "sha256-3STcSqMcyrsv8P35CF4+jTZw0WGl46dJsTWm1sgSGGA=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/infinite_llama.png"
+    },
+    {
+      "hash": "sha256-K0PVfXgNmMfBwa1O0GqpLVTgWwXseOrlXRXsvkdRm+0=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/infinite_priestess.png"
+    },
+    {
+      "hash": "sha256-OJGCfJs6J1lx10IuJsJAH2UxUuY2lrAEd\/sSM70Qtfw=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/infinite_runner.png"
+    },
+    {
+      "hash": "sha256-PA3XTTECF9kHG6f7dQmR5IWCMsRzegpfF216XdZoe2Q=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/infinite_slinger.png"
+    },
+    {
+      "hash": "sha256-e5JV5VJnKLKBFWbm2MXOZn6noIiqH\/Pxax+jTGLPc5Y=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/infinite_spearman.png"
+    },
+    {
+      "hash": "sha256-srioMZQ077jj+Zv0YwsdzG5oPPRqEmBok5v2w7J6Egk=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/infinite_travois.png"
+    },
+    {
+      "hash": "sha256-Hi90qmg8dr318vDi1jubDASWyKrBh7em9n0hzEM8JLQ=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/llama_lifestyle.png"
+    },
+    {
+      "hash": "sha256-1\/LTs3SCaaqYiVAuUBY85ZNfTr9jzWlAgDF6GG5ma9A=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/llama_tech.png"
+    },
+    {
+      "hash": "sha256-JGhWNUt3qN9D3TxOStUuHBnXu1BleHMWctEjcQmrDo0=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/monumental_architecture.png"
+    },
+    {
+      "hash": "sha256-stC0wRBwFQr46aLs1ZrO+icfS1xidxY+MSlgul9opcI=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/priestess_tech.png"
+    },
+    {
+      "hash": "sha256-kbpahp8Tzj9NK8p06vDboI9JDMXbfnIU1DDN3gUHies=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/pukaras.png"
+    },
+    {
+      "hash": "sha256-NM+Ry5pzi7CS8Bu3spQSGM5uYGuUjGSOd936q5izNZo=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/quipu_kamayuks.png"
+    },
+    {
+      "hash": "sha256-pYF5FkjRcDnY32GaxGRIq19+vIMVoqtBM4FgR8y1z20=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/sacsayhuaman.png"
+    },
+    {
+      "hash": "sha256-7p1ZXDdDRYwwGYdyQf6L2fjF1bhzsm6HkfwElTn2h40=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/salt_ponds.png"
+    },
+    {
+      "hash": "sha256-AgsjT4UGKHyYGbaA\/BBpXeK9MURQo0+Q2hsLJQjs6Yc=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/sapa_inca.png"
+    },
+    {
+      "hash": "sha256-cn33WEpn+kBKL56nc1SqOW89T6tYfEO7CT49VNAq+18=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/son_of_inti.png"
+    },
+    {
+      "hash": "sha256-mVJ4psiBcx0MKkeBI+VkA4LceWi2a2t6lHqeY35wHM8=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/team_inca_walls.png"
+    },
+    {
+      "hash": "sha256-C2wyHC3sn6C60SWjWFheUCkUwrR6Iyg4SuylZZfFlbc=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/team_llama.png"
+    },
+    {
+      "hash": "sha256-vtL9kJ10mXM\/DozTo30FjuIJM2eokkhdWdpMd5TbZvM=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/team_peruvian_dogs.png"
+    },
+    {
+      "hash": "sha256-N2TgMU2lcXWl\/LznJl4g\/kRZpOtsySN6nxUmrqwWbxo=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/team_priestesses.png"
+    },
+    {
+      "hash": "sha256-JB0SUsPVYYrbO55ZRJVfFvjB9JgXWnP+NVf3Wb57qgA=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/team_scout.png"
+    },
+    {
+      "hash": "sha256-JN0rsueAWBZG32IOOXLHzCd9OMSDqxyfHE7SUBR\/f98=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/team_seasonal_labor.png"
+    },
+    {
+      "hash": "sha256-WRqdbISd02eh5tH4ELQKjpD37cslQOjD9TVZZ4IIt3s=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/temple_mama_killa.png"
+    },
+    {
+      "hash": "sha256-M6HzAkT9xAYGHUjNa8cm77I\/biBvGlKjiOe\/VeiRRds=",
+      "url": "img\/resources\/images\/icons\/techs\/inca\/terrace_farming.png"
+    },
+    {
+      "hash": "sha256-TrsebkjfGIm7Wz2uPNUF+Ewaa7QGGKx6uSEbDl9mCuI=",
+      "url": "img\/resources\/images\/icons\/techs\/incan_chasquis_messengers\/incan_chasquis_messengers.png"
+    },
+    {
+      "hash": "sha256-h4JpxmBCIYD4zMKdACwwYkxMnH8M88Os5TdkdFf6sTc=",
+      "url": "img\/resources\/images\/icons\/techs\/incan_metalworking\/incan_metalworking.png"
+    },
+    {
+      "hash": "sha256-DzWN2s17CoR3bIEA1v6vdhgfndrTMUqzgO0ic+nFUjw=",
+      "url": "img\/resources\/images\/icons\/techs\/incan_roadbuilding\/incan_roadbuilding.png"
+    },
+    {
+      "hash": "sha256-Ncq3zoojzv3DJGfRDDvZFxpI8mIfphqs3mvPZJyQX5o=",
+      "url": "img\/resources\/images\/icons\/techs\/indentured_labor\/indentured_labor.png"
+    },
+    {
+      "hash": "sha256-spMgz8tvlEc6BX7ivI9\/iMERhBLQt1otIllsEYg8JVc=",
+      "url": "img\/resources\/images\/icons\/techs\/industrialize\/industrialize.png"
+    },
+    {
+      "hash": "sha256-ZwriqxujmLVEaHlaRRkzIFcm5WRWt+tuZJjkJy4Mp+Y=",
+      "url": "img\/resources\/images\/icons\/techs\/industrial_rev.png"
+    },
+    {
+      "hash": "sha256-Hny0XQwv0veZzEaXOBcRKR4davj2JEjyjpZiKeRWnTU=",
+      "url": "img\/resources\/images\/icons\/techs\/infantry_breastplate\/infantry_breastplate.png"
+    },
+    {
+      "hash": "sha256-thfDJs96ZNN0Fx0g+6Jss1lK6+e2KReEHjqrxuJ2uFc=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_arrow_knight.png"
+    },
+    {
+      "hash": "sha256-k32C5HWM4AVYwMVVmQT8PBmiJAloNijQCqUXkFjjH6I=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_axe_rider.png"
+    },
+    {
+      "hash": "sha256-dReD5kWZNpRRPa\/gIflZ2WGdbZGcza+oIMlVnNckArg=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_barbary_marksman.png"
+    },
+    {
+      "hash": "sha256-NW16T74EsO0+urGT0HQ5PZu5DM5NXR6AyCwnk\/3Pi3Y=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_bison.png"
+    },
+    {
+      "hash": "sha256-wdgo5N3vld1sDe8hnVWhIfeCjsGH5s\/5j+0fE8ke6mY=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_blockhouse.png"
+    },
+    {
+      "hash": "sha256-pW2CxG0EWOl0AU6Nq0VwFmUHyBw4GQyl8zNPhsotFD8=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_captured_mortar.png"
+    },
+    {
+      "hash": "sha256-7Eqx234dZqjJjTpUG+rHrmw\/1eOXjLr0clxxzn+Kj9o=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_caravel.png"
+    },
+    {
+      "hash": "sha256-EUlvT9HY0mFSX2TXDyH74aMuvX78eXeb4kOZhsxu66U=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_carib.png"
+    },
+    {
+      "hash": "sha256-6XtIvJJrRD76JnyzIw64XnYFdGilvONg5dsiK99TCkQ=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_carolean.png"
+    },
+    {
+      "hash": "sha256-zG1iAj3l1dUKEeRoO1uoGfovkcHhGoz4l6I3AxaDCsI=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_cav_archer.png"
+    },
+    {
+      "hash": "sha256-RwEFl8SqXdUH5DcgMe33mpdiBsbwqgB3GMPm9mt2JKw=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_cetbang.png"
+    },
+    {
+      "hash": "sha256-FId3O9ELfIrHvKXlHIiYjoE8tGd7S9hUcTYCX51vRGc=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_clubmen.png"
+    },
+    {
+      "hash": "sha256-FoeLm6QzGDAgRvobdq1M4P8wDcxh57FbgcznB98FNBs=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_coal_mine.png"
+    },
+    {
+      "hash": "sha256-adbAgS0MqkBFyTSsVCNixzfm\/RpeU43+DCRwoEKmhx4=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_colonial_militia.png"
+    },
+    {
+      "hash": "sha256-wZ+UiWPrUFWJM2frFuym\/SfnoocDAtZHKZtBQK2CIoA=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_comanche.png"
+    },
+    {
+      "hash": "sha256-j8K6caJDXncCNtyYNfMRKahZ5V4RpZro4N6rBtdR1EM=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_conquistador.png"
+    },
+    {
+      "hash": "sha256-rMb66W4Ur9LKO0R+ohgkV943nxUyifYkGXES0Oy01Nw=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_copper_mine.png"
+    },
+    {
+      "hash": "sha256-et9QsQ1aMChXJTdmS2YkX0rnBf\/J0yrBlY5qJT+LJZw=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_corsairs.png"
+    },
+    {
+      "hash": "sha256-2aR+pmgdk4WJUoZ1aUjM0qU2vEoZrzjJQImVITe6tis=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_coureur.png"
+    },
+    {
+      "hash": "sha256-iqThHnJ7MofxIJiS3yomvk4toDDVovPKucHTXxAN9Zg=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_cow.png"
+    },
+    {
+      "hash": "sha256-isjXX8gUkTupdYDHhfuF2RDXqN++ji0k9HqoCxcY9lc=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_cree.png"
+    },
+    {
+      "hash": "sha256-b5tklw8pQA7IkIrvuvF8r9TIbZFv3QT06hq+QQ9EFYM=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_crossbowman.png"
+    },
+    {
+      "hash": "sha256-GWcMrH5\/nmmR6SohPx5JkVZM5XabFgZWfs7FFcyNIQM=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_cuirassier.png"
+    },
+    {
+      "hash": "sha256-LGFXDcs970W40L9UMbd46tAE8r9H+ovb5YqBYxWeWSA=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_culverin.png"
+    },
+    {
+      "hash": "sha256-K1hVaqpfsaL1O+1Oq7DRIH7j\/hnRYzuYSR9i3r0uwZE=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_double_town_center.png"
+    },
+    {
+      "hash": "sha256-AI0Wxs04Ys7XDW4GRwSfwg+uLnTbDhT+iBYlnRzCYRA=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_dragoon.png"
+    },
+    {
+      "hash": "sha256-xkp6Wx1kyWj\/Qxqet++P\/yxbU7pcYxD8RSZRDCDV5DY=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_elk.png"
+    },
+    {
+      "hash": "sha256-MqXUJ7mdd9pb\/W81uhExdedsiQSn+bMLqJpyoKMNk3o=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_falconet.png"
+    },
+    {
+      "hash": "sha256-a453d7n+7+9ghx5Kukj3sKms+JtEOnYTY7SHiuEGEKc=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_falconet_culverin.png"
+    },
+    {
+      "hash": "sha256-QvRxTwLVmUPp9MPets4ia3BMg2n2RC2mu+PBJQ7DNvU=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_food.png"
+    },
+    {
+      "hash": "sha256-inbcy6XFNe5T6re+y\/b+dBpr+KnP+jW\/rsvdAXLstzI=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_fort.png"
+    },
+    {
+      "hash": "sha256-BjbW2OhnQAvTJpYzxBQas7eSZDW9WYeBYDgkQhhVI\/8=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_fusileer.png"
+    },
+    {
+      "hash": "sha256-RZ7YKgQv+J9sPd\/SSvVZ1HPEm2ZuQkfiaPJF9eiXHCY=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_galley.png"
+    },
+    {
+      "hash": "sha256-9KP\/iOcrV1fMMWI1fOq3elJrqxpLl0SPvqtttUnaots=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_gatling_gun.png"
+    },
+    {
+      "hash": "sha256-uv15FpWPzG9ZTM1j5bEHsoBoq8ZNdiyeinZGZvcRDxA=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_gold.png"
+    },
+    {
+      "hash": "sha256-vV8Y1pCTYGwIe\/CacMQ7aUfzETkhNvM5DMBRPvA5rMI=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_grenadier.png"
+    },
+    {
+      "hash": "sha256-BOxPVGI12sm9wpLN7t4aS\/9B+z2+8GAdI21NuI57FNI=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_grizzly.png"
+    },
+    {
+      "hash": "sha256-P6JfVhznrmI3tTi8SHXyvMxkjKFF5IGTfk2kcpySUA8=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_hakkapelit.png"
+    },
+    {
+      "hash": "sha256-cPOC8o9PK8m3Cxl5UmEqFeJwaJT38pyy8DRfBQZ6tEA=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_halberdier.png"
+    },
+    {
+      "hash": "sha256-m452oLB7aNyG08PCdjmAFoGTEKu5zL64eiBHfuvQhdE=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_heavy_cannon.png"
+    },
+    {
+      "hash": "sha256-YoXuXIOH9UMJtdSwxu7W8cjjMMq79PkUPhAqMDTHAps=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_highlander.png"
+    },
+    {
+      "hash": "sha256-gJL6jWIt5a8FVKFrAEvvJb\/qz4tkpEZU2NKSqDzmfys=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_holcan.png"
+    },
+    {
+      "hash": "sha256-omKlNLk90SAl7Pmqu5lM6W4ok2YEcBg5E2F6YMcPrYc=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_horse_artillery.png"
+    },
+    {
+      "hash": "sha256-L7S91ASeL9E\/Suo4xudP7cupFwvS\/yhipkXMreTb2ts=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_huron.png"
+    },
+    {
+      "hash": "sha256-+QqpgsLvxv8jlMRx2IdE1JRp5nJ+l6+LrF784RNGHms=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_ironclad.png"
+    },
+    {
+      "hash": "sha256-TDpag2E39h\/kyTEx6t3546Feu\/MRFtHvKTKpprPgKXo=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_jaeger.png"
+    },
+    {
+      "hash": "sha256-oE+OcKqKvlqs9QpreQAabda68cClg50U+mTSLVnh7Rs=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_jaguar_warrior.png"
+    },
+    {
+      "hash": "sha256-qShem+FHktlCwciBCSP+lVwu6sZXkLQ0TIu2x\/EN4Ow=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_janissary.png"
+    },
+    {
+      "hash": "sha256-vXFnM4RfIiJYdUxCJUcOQp6ZHnTEVa\/P5HgzmVVMaHU=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_java_spearman.png"
+    },
+    {
+      "hash": "sha256-BOAMo63uBQy1VVPgYObV0eVqekuRyE6mFCcLqPptHj8=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_leather_cannon.png"
+    },
+    {
+      "hash": "sha256-ln16t4M5DxIuXCy3SL1bRkYKa+LvMwtmuahrNhYnFIg=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_macehuatlin.png"
+    },
+    {
+      "hash": "sha256-b+8N29Gb3o0xmXmxULlYef+jdyRLHjM55HichaR09L0=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_mameluke.png"
+    },
+    {
+      "hash": "sha256-eEHH8DbUuW\/fCyK+Q+o+F6oQ+F1YUvGJK2BndYNlr5A=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_mantlets.png"
+    },
+    {
+      "hash": "sha256-ZViAoo+raGhQ44VxEqRHeGCK+dZofwfDIUQBbUyEhYU=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_mapuche_bolas_rider.png"
+    },
+    {
+      "hash": "sha256-gyPe+HIMOu9\/drS+XKmIgdDlbcEqg\/g1bSv0ylGU4uo=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_mapuche_clubman.png"
+    },
+    {
+      "hash": "sha256-CBM5uCOt1icU5lk1mqg52DB6iQ0s7bVHOSkF6eb1QIo=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_mixed.png"
+    },
+    {
+      "hash": "sha256-a81RDbi1+el2BLosIDf\/Q26miCx7tb5FUUMPw2ITMCo=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_monitor.png"
+    },
+    {
+      "hash": "sha256-9\/j3gle81O1vKowyrD\/\/sOUOlfV7BHXiEGJ0RNlgHyA=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_mortar.png"
+    },
+    {
+      "hash": "sha256-cUPo5nokUeItrndCYUmC6eO7T4ZXn+dX2gqSOD1xA88=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_musketeer.png"
+    },
+    {
+      "hash": "sha256-wUvQvvyaozQlxSPW2xrPPJZeFXffwKYzAv7RH5ZG3As=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_native_villager.png"
+    },
+    {
+      "hash": "sha256-FLk+mS5frGhYPzZb5OdwzElnf4m9Q6xIXIct5iOTdMw=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_native_villager_aztec.png"
+    },
+    {
+      "hash": "sha256-KU5lByXTD88Ct+kWm1s6v+fgM9ry6JKXij55G2as7WA=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_nizam.png"
+    },
+    {
+      "hash": "sha256-MK0sXa7lf1hnREliCgew+Z6EJtZ9PLczbNHqJnphVNM=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_outlaw_gangs.png"
+    },
+    {
+      "hash": "sha256-mXUEyR\/J52TycRgOyQNQFb21qasY9kSu9JYyiwWb75k=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_outpost.png"
+    },
+    {
+      "hash": "sha256-g42CvA9BfYcczecK39t20TlL0AOMknS2COFxy32i4cA=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_pikeman.png"
+    },
+    {
+      "hash": "sha256-Cyv4\/vyEqnvbGJARwhSpem29Ohsx2luuo0XEYoXOcI4=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_priestess.png"
+    },
+    {
+      "hash": "sha256-jJmA987Jp0dZxp2etaswaH3CTvtZoqJfRuFVEfJ9H24=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_privateers.png"
+    },
+    {
+      "hash": "sha256-HTy0dqEIXttmUMu2nHbeJTJGFuttmfoUGoK+bhmcP5o=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_redolero.png"
+    },
+    {
+      "hash": "sha256-vcKqiw7N3e5qXxO7xEUfsCkISrBKjsLeJNU+EfAJ8cE=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_regular.png"
+    },
+    {
+      "hash": "sha256-o+7X+RmhjG7BjcQFEUwVqY\/D8c+l5SNvVI0k3a1NuvM=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_renegado.png"
+    },
+    {
+      "hash": "sha256-CCqvsmbg0PK0t9rucR+S\/5hw+7k7CJBL2cC6f114wXA=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_riflemen.png"
+    },
+    {
+      "hash": "sha256-0Pz6hbzKw7ZmOJk3AdgK3eu0Hof1\/PFFXeHr36uM1gA=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_rocket.png"
+    },
+    {
+      "hash": "sha256-dgrQ5574yt1lOfPvkJOlxYigzSz9IVRBvjns8r9fAH0=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_settler.png"
+    },
+    {
+      "hash": "sha256-evHrgtM3KUY2ML0Fw6aTOsQvLC6wp3qaI2QV+b8p1Ok=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_settler_wagon.png"
+    },
+    {
+      "hash": "sha256-4n6Dl9c2EtyXcA+JsqHFEqpfc36PqxAOVfTc\/YJNSb0=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_sheep.png"
+    },
+    {
+      "hash": "sha256-q1JPrCXcUIdT+2LNJWRgyfZZ81iib9qXe4upS+WWAcY=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_skirmisher.png"
+    },
+    {
+      "hash": "sha256-mbDQ+Gy4RXShyUdh6bIU2rCLTXiWdO03FhAm5DR5Po8=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_sloop.png"
+    },
+    {
+      "hash": "sha256-ZAF32GohV\/ejKSeKZomxQtqEVzPwBOt4NiDOY1x2AVY=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_spahi.png"
+    },
+    {
+      "hash": "sha256-zWCpSnEYzK3n\/PWp1EkGil9U2X73AJuqwSf+tIw3iS4=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_steamer.png"
+    },
+    {
+      "hash": "sha256-nmqCrxpO28W1P7+vVuYAfl3ZWkWB3ByFYPPz18Vhu5M=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_stradiot.png"
+    },
+    {
+      "hash": "sha256-wt\/+BnfJRHZ0sIpizMGoLQIwvr\/id1jhfb7XOv\/tQlk=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_tree.png"
+    },
+    {
+      "hash": "sha256-LnKo6gfk4hF\/gqMXtfYATda2rBTA1GayFgfO8cMD2l0=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_tupi.png"
+    },
+    {
+      "hash": "sha256-RepNF7nmxofIK\/eSJ1Ego+9Y\/4A7SXHQqvhydteGtSo=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_volunteer.png"
+    },
+    {
+      "hash": "sha256-aHpluDBwRzq5m\/ntnFL9\/LFzw7y\/jRnEoiPfCss9Tmo=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_wood.png"
+    },
+    {
+      "hash": "sha256-RzU\/G4+VVZBXIJu+rJeYpu6mQzCgfcmWtVXnCwopyms=",
+      "url": "img\/resources\/images\/icons\/techs\/infinite_zapotec.png"
+    },
+    {
+      "hash": "sha256-wCERgdL+9Oq3JgEwAYd6dFD9n9BSwXcwsMBHFdvtVkE=",
+      "url": "img\/resources\/images\/icons\/techs\/iron_mongery\/iron_mongery.png"
+    },
+    {
+      "hash": "sha256-yEgI9fpMrsfm1mHSqa5iamK8UXpcjMMUGA9YfUhJ1v8=",
+      "url": "img\/resources\/images\/icons\/techs\/kalmucks\/kalmucks_icon.png"
+    },
+    {
+      "hash": "sha256-aXW6RLh6o1rjeocd+e2ux3CbA5v3Xq1p408SYI9IByA=",
+      "url": "img\/resources\/images\/icons\/techs\/koprulu_viziers\/koprulu_viziers_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-7qPy+S7EylRg+My\/9nbUb050gbgNhDY5RWol2YOGUcQ=",
+      "url": "img\/resources\/images\/icons\/techs\/levy\/levy.png"
+    },
+    {
+      "hash": "sha256-4QA60XOQWbjEBs8vZcf+jS+FAcgRyGaDvkhxL1HZJj8=",
+      "url": "img\/resources\/images\/icons\/techs\/log_flume\/log_flume_32x32.png"
+    },
+    {
+      "hash": "sha256-ZBDj6rlJYb0brgN1rCCXefeXg6MmytoYvp5hK9asX2c=",
+      "url": "img\/resources\/images\/icons\/techs\/log_flume\/log_flume_64x64.png"
+    },
+    {
+      "hash": "sha256-jyHZBP48EX0Spg4UNZIGFdBNJim7V+wtluNLDXFUnYo=",
+      "url": "img\/resources\/images\/icons\/techs\/long_lines\/long_lines.png"
+    },
+    {
+      "hash": "sha256-reVUONaNw0PPifcjRygY5MnZWgklnP1M6c1J5VlJQJQ=",
+      "url": "img\/resources\/images\/icons\/techs\/mass_cavalry\/mass_cavalry.png"
+    },
+    {
+      "hash": "sha256-vYAPvh7rQEYV9vfg\/+WwrDPGd9MNMbusHV8QZczRfew=",
+      "url": "img\/resources\/images\/icons\/techs\/mass_production\/mass_production.png"
+    },
+    {
+      "hash": "sha256-5DttcCybwLyHIHdRtc0CvS10yIphuR5iVMEIP15uOo0=",
+      "url": "img\/resources\/images\/icons\/techs\/maya_calendar\/maya_calendar.png"
+    },
+    {
+      "hash": "sha256-i3OGFTNJ3y3sWbfvTddYh7YOGrRTZ6nJHGm7cr4mVGg=",
+      "url": "img\/resources\/images\/icons\/techs\/maya_cotton_armor\/maya_cotton_armor.png"
+    },
+    {
+      "hash": "sha256-M+D0AtQ7uiZPgVPr2Mvv65rD6IjdN7CTAGCze2SweBw=",
+      "url": "img\/resources\/images\/icons\/techs\/mercantilism\/mercantilism.png"
+    },
+    {
+      "hash": "sha256-cJV7XyDMGDVzY\/Okw1i7oOkfw3cBQ0qV94xXF7IvgMU=",
+      "url": "img\/resources\/images\/icons\/techs\/military_drummers\/military_drummers.png"
+    },
+    {
+      "hash": "sha256-y2SKaI3n23wwV4Fd2q2e1WTAfwPgdd7fccQv+9L876w=",
+      "url": "img\/resources\/images\/icons\/techs\/millet_system\/millet_system_64x64.png"
+    },
+    {
+      "hash": "sha256-Y8muhsbH3sVWUu7knqSGcisELyNu36bbE\/FlvtFs9sw=",
+      "url": "img\/resources\/images\/icons\/techs\/miri_levandat\/miri_levandat.png"
+    },
+    {
+      "hash": "sha256-wy6mCszQT5jrU5tBWRbMLYnqA3eIF5\/19yoT9+YFUhw=",
+      "url": "img\/resources\/images\/icons\/techs\/national_mint\/national_mint.png"
+    },
+    {
+      "hash": "sha256-Zb0kOlx1BW8tdZVEQIz2vfiUiop\/NTAzjf7Nf989xcw=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/ad-mapu.png"
+    },
+    {
+      "hash": "sha256-hTBunoawazrMdGtLspKsQyfz9R0stH6+k5pLeS+IDvc=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/admiral_tromp.png"
+    },
+    {
+      "hash": "sha256-FIJcngtChefu3rCilBBqWmJWwLAGeKvMvf\/f9Wyg\/LU=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/adoption.png"
+    },
+    {
+      "hash": "sha256-d\/JQNLONsuM3ExoKm3Ssn0t86Nw\/GbuATIPpLoMBCEc=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/advancedwhaling.png"
+    },
+    {
+      "hash": "sha256-\/z2KA\/N54IayZsE3rDKfspLJH+o2xv3EzuddDJSilag=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/advanced_farm.png"
+    },
+    {
+      "hash": "sha256-E4ALbbgyoiGxby7WP6P7Lr2V8yuanjb7vx7zMeshOtU=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/advanced_scouts.png"
+    },
+    {
+      "hash": "sha256-NyaPljz3RjFN1tya4r4Bz6AG\/8BiezAkeuHNbI4yCzc=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/aggressive_policy.png"
+    },
+    {
+      "hash": "sha256-RKD6oGyBxWHvPvtRQtJet30DC2HLEd0xtrpD8fENwWM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/agrarian ways.png"
+    },
+    {
+      "hash": "sha256-\/gu58u8gzWYdk4Yz2Zi6dxCQRtgH3jVlliTKhFSSK+g=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/animal_friendship.png"
+    },
+    {
+      "hash": "sha256-SkIYgBmo8Z+fusyRQrAknu0KTNI5Zv3cIbo6gAiO6CA=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/artificial_islands.png"
+    },
+    {
+      "hash": "sha256-NbaZbrfHyG0gQXaz9d0NFi5W9Pp5m9fy5W5dHDyQdnM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/assassins.png"
+    },
+    {
+      "hash": "sha256-PbFJ4t+cOfza4GcINhypxCpLzYsBsgg\/l2Kjiq2B9r4=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/aztec_fortification.png"
+    },
+    {
+      "hash": "sha256-WFsO0C2GPoRJ7c7II3ne8uKHBCUEmzSBfdvFss2g4UQ=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/aztec_heavy_fortification.png"
+    },
+    {
+      "hash": "sha256-fMzqcOCCGxFNW+Mou8MZD\/oCnmndzHwzJKkS3EL3CTM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/aztec_mining.png"
+    },
+    {
+      "hash": "sha256-bFKroSwyQsMiyJO1z0RYaCEKR+qhNWdnmR8Dn5ebZjo=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/black_arrow.png"
+    },
+    {
+      "hash": "sha256-uaxI9hrMD1qgpyz4e1O2wCJ9Qqid8oUw09zj3yGqHhc=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/blood brothers.png"
+    },
+    {
+      "hash": "sha256-tXRbivJKUhiijpgen5ERF02pGjUD+9kTfaj1MiKeiM0=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/cactususe.png"
+    },
+    {
+      "hash": "sha256-3GTyeZj3WjKj+0gMdc2fbuMBEzLo7e2gf4OQ5LW4CE0=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/capitalism.png"
+    },
+    {
+      "hash": "sha256-YjgWWUdDAgfQbcZ+LPJVQcowJsPe6FSEQDED6aw4nYI=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/castramentation.png"
+    },
+    {
+      "hash": "sha256-Qhms\/9upZfFhJNnWEa6CpjZT3O+LChM21YhA9XobxPE=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/center_of_power.png"
+    },
+    {
+      "hash": "sha256-F650mBYDzhJU+r+Kclzt4SU5O+C7IPfElKtpfY7QldU=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/champion_cavalry.png"
+    },
+    {
+      "hash": "sha256-BuIPGWXXn4VUgAkKh7yMrMkSgu\/tbrQSLXVTXCFVN0A=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/champion_infantry.png"
+    },
+    {
+      "hash": "sha256-rlUH97s1Ob8EEReubPt9HwWFs7RHiFEQMK3yUXnN6K0=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/champion_ranged_infantry.png"
+    },
+    {
+      "hash": "sha256-BuIPGWXXn4VUgAkKh7yMrMkSgu\/tbrQSLXVTXCFVN0A=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/champion_range_infantry.png"
+    },
+    {
+      "hash": "sha256-w6TAABjcbpVPffEJ7vFt2IJts5h86R5kbFNipA0eUDE=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/champion_siege.png"
+    },
+    {
+      "hash": "sha256-C3o7S+sV6J7daJVJf2PXfWKgdfvE18o8gwXMtIwv0uA=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/cheap_war_hut.png"
+    },
+    {
+      "hash": "sha256-C7U4iFnYAyjac\/lWw7sa3IOmALUuhpMejG1eHMVSoCs=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/cloud_people.png"
+    },
+    {
+      "hash": "sha256-9E1msLyLLAIZkmf5QBqrkkGAHqpDqzt6DaKu+4jkAJI=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/colbertism.png"
+    },
+    {
+      "hash": "sha256-AjUuCJ9VisRZ2JpxROfhS73xqNs3G02REzKw2WxBBX0=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/command_skill.png"
+    },
+    {
+      "hash": "sha256-vMjn9FYY6H3AG6uNQU\/fEIGlCwasl8uo4Tow+He8qF4=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/conservative_tactics.png"
+    },
+    {
+      "hash": "sha256-jd7FwbnJ81PYM1\/vYnN4U8275f8gebihG\/ryvhcxmbM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/counting_coup.png"
+    },
+    {
+      "hash": "sha256-SH2HjzXYJPWsqzHV8N+B5oiPBlrGDUplVT8VYDGB978=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/coyote_combat.png"
+    },
+    {
+      "hash": "sha256-SMSRalOEs4Z3ukCs2IJ67mqMZliep4gmb9zaCyCF4Kk=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/craftmanship.png"
+    },
+    {
+      "hash": "sha256-Ci7Iu\/UlA20OWmAN5ksb965RdCEd7TB3w3crrO0kwE4=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/cult_of_the_dead.png"
+    },
+    {
+      "hash": "sha256-Fldlx8eBycJ+IWSQN\/hI6VXo6cTPUoKGMbltkKM+ML8=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/dance1.png"
+    },
+    {
+      "hash": "sha256-PrB3GW\/JytkRRO9\/a6DbO97nB44jsIfsWSBPI48TsFY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/dance2.png"
+    },
+    {
+      "hash": "sha256-Cx328+zw0XvyHnadBI6iVyYGNntbZ1OH6xy1Mhi4VtE=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/dance3.png"
+    },
+    {
+      "hash": "sha256-SJsfbJOHca9VqTzHuLnyKY4syn0AeAegO4M0xr0IH7E=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/dance4.png"
+    },
+    {
+      "hash": "sha256-6b\/3st5PVt\/5pd+Pg\/DnjwrKosalIOq59Ea73Qs9v44=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/dance_hall.png"
+    },
+    {
+      "hash": "sha256-ie35i82Qy\/05N3FIQ6qTGYT4zQQybXHO3N1wJEUxVFY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/distributivism.png"
+    },
+    {
+      "hash": "sha256-iGwiyNbJPtnsUmCm94cTXpAx3YxVc8FE4XUOBoK5\/As=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/eagle_eye.png"
+    },
+    {
+      "hash": "sha256-02lk\/n5zjnojNL0rVnDWZTLME6jbowdz4nhPIv1Rlto=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/earth_bounty.png"
+    },
+    {
+      "hash": "sha256-\/V2NdL62hd+jV6CWYVJs1P4ozPKKp8vHYgk6rWS3dto=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/earth_ceremony.png"
+    },
+    {
+      "hash": "sha256-JQQPHPY74ERf4w9J3wt5j8x7K37+f\/vvTXaaPvwG5sM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/earth_gift.png"
+    },
+    {
+      "hash": "sha256-62BHuXgwSK5c7EqQwzOMBHTKqFCPZSzwi9oND5BB0B4=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/economic_theory.png"
+    },
+    {
+      "hash": "sha256-nsvsDfehPbyfpyUcI0J\/mV8bHi4Hcm8EnDxgJ+mLJKY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/elite_cavalry.png"
+    },
+    {
+      "hash": "sha256-yoUinWE3MFBYRRKMrWK5I8gf4\/wnbqiFiSZnUZ6Ex6Y=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/elite_infantry.png"
+    },
+    {
+      "hash": "sha256-AduB\/blr6VKiCKM2YX+nBOktuGodP\/gDuGNTvZiWdTY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/elite_ranged_infantry.png"
+    },
+    {
+      "hash": "sha256-yoUinWE3MFBYRRKMrWK5I8gf4\/wnbqiFiSZnUZ6Ex6Y=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/elite_range_infantry.png"
+    },
+    {
+      "hash": "sha256-0eYycUovV4nQ2ByJidPyhFGE0xow0Lex0QvpQFcSVyM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/elite_siege.png"
+    },
+    {
+      "hash": "sha256-CXYk7BCREGM6vBUyOA\/pQD1q5bV1B\/SyvFfWs8LAACE=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/endurance.png"
+    },
+    {
+      "hash": "sha256-rJC7ThzQLJUL\/qDIhNz8ueMBtZoN5Ha0yFCLKwzyih0=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/evening_star.png"
+    },
+    {
+      "hash": "sha256-ERKEZQiOj4cn27M3Ntj8ImoBua5zuTENCnETYQZxElw=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/excessive_tribute.png"
+    },
+    {
+      "hash": "sha256-GtUay\/HUGPCIafHQ8wCZBgK1faRyGOAjEHBUmgC3Ttg=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/factory_blueprints.png"
+    },
+    {
+      "hash": "sha256-mQcKB6U\/90HwxVQULraHmctIuEQ0yziXyag2T17DyFA=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/finepowder.png"
+    },
+    {
+      "hash": "sha256-0HL\/dyIvWlD0l3KCP2FHQWilyCAzSZKrcDRM6hm0+0w=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/fish_wedding.png"
+    },
+    {
+      "hash": "sha256-a3g4USmL0v+Kmbp6FiAMpljYfHkein4HdxYlk2tMlvM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/florence_nightingale.png"
+    },
+    {
+      "hash": "sha256-GkXsqnHOa0pFsOgSS9hs71kEdTyIeK5oukNRyjnpLsY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/food_of_the_gods.png"
+    },
+    {
+      "hash": "sha256-lh4t1nkURsP0\/GVOJfGhUJxzpV\/9csDR7\/9A1rFxsgY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/forced_march.png"
+    },
+    {
+      "hash": "sha256-gCsWTaBKxHory2DEEObVDwZzlWcJgjxbVY14AQ+tSwo=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/forest_people.png"
+    },
+    {
+      "hash": "sha256-w7WDcQ8ZL6moEbrphJM7uNiLsU6FObfHkM1K33WbcOQ=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/forest_spirit.png"
+    },
+    {
+      "hash": "sha256-yW59vUzb+HT5iZbNnotjOMZ7J7Qa\/jpozcbls3WhIWs=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/friendly_territory.png"
+    },
+    {
+      "hash": "sha256-jKUdUxjub7zA4QKdV5DFpuLzKfXbPC9L6dGjfrx3tsU=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/fury.png"
+    },
+    {
+      "hash": "sha256-dI4DRDpVDOikiQ6lROqXMtRvG8SLQay7OuHYmXqkOu8=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/fur_trade.png"
+    },
+    {
+      "hash": "sha256-StjLDQ6T\/nMX+M7gBiDzim5y9txCzBC5m8e0DNjYo6c=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/genitours.png"
+    },
+    {
+      "hash": "sha256-5Ny1R4635Y0baqYl1Sv5KbEb+tWWshzxgDJ19Lre8rk=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/great_chinampa.png"
+    },
+    {
+      "hash": "sha256-BJ4ywoNY5PdWTqCpKzJ6hSQuT057FMzIuaxdYUeSalM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/great_feast.png"
+    },
+    {
+      "hash": "sha256-E3sW73XXSSLCfwFm1qtyuiDz\/PbR1rFzh\/i\/jINUyaU=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/great_house.png"
+    },
+    {
+      "hash": "sha256-uDfXPF39kwuB\/6wQ4IpSx802MhKlaLwAHVJtUwC08cM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/great_hunt.png"
+    },
+    {
+      "hash": "sha256-7cq4Vfr+DZDGmmhsocuFmGBcr939Wn1BPO+Q8es8+qs=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/green_corn_ceremony.png"
+    },
+    {
+      "hash": "sha256-eo\/Ng9KeziHqGzMuCwhONrhx6lrgkm7eqCgr8\/3sly0=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/gribeauval_system.png"
+    },
+    {
+      "hash": "sha256-8Bc72ORORIssJ0z1I9k5Dd8TJ9fu\/Ap69gFYnBWWxfs=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/harvest_ceremony.png"
+    },
+    {
+      "hash": "sha256-LB8BM5CzP9muLLhPUfXCjnCBNU+jFDQMsQSU28LI22k=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/hawk_eye.png"
+    },
+    {
+      "hash": "sha256-mZGjAec2SHafREBbDC8k1Z51gcNwnaXESUH+TWg1hDs=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/hc_mix_crate.png"
+    },
+    {
+      "hash": "sha256-Nvjo5eA9qEcrxVtfrQdNXnpM0ZcP\/\/Rff6+E\/jjvaYM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/hc_town_dance.png"
+    },
+    {
+      "hash": "sha256-AmCSsgdMweCZvsgJBcgIryrktF3xGaTbwaQcEr0L\/2g=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/hc_water_dance.png"
+    },
+    {
+      "hash": "sha256-kt3T68Pqs3VpQus+L3pAi7XW6ovJAPHiCEWvipZltQE=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/high_chief.png"
+    },
+    {
+      "hash": "sha256-+uPxnAtex1n2sSuiKpNshxL1FDiSStCT3o0yeXS1wIg=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/high_priest_ixil.png"
+    },
+    {
+      "hash": "sha256-PBCiCvX\/sY740fqruAFeM8iG6jmLeGPhAWcxQ7\/TULs=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/house_braganca.png"
+    },
+    {
+      "hash": "sha256-SjMOHd0P09SVhDpqcAt91FHW901WAT6U9K1kFh6YPGU=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/huckleberry_festival.png"
+    },
+    {
+      "hash": "sha256-CsBlTnzbejnB3\/UUaDy8EylIPtEejKCn\/cvZSwRDAFI=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/incendiary_grenades.png"
+    },
+    {
+      "hash": "sha256-J3Nq5qx8C1n83UsTv4DPox35rseuhuQJlgqgECQdMxI=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/indian_friendship.png"
+    },
+    {
+      "hash": "sha256-ZwriqxujmLVEaHlaRRkzIFcm5WRWt+tuZJjkJy4Mp+Y=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/industrial_revolution.png"
+    },
+    {
+      "hash": "sha256-+cni5GQp0YE\/MqzRXV2s+A72EM0N5XcLo\/8Xa7j7cS4=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/informants.png"
+    },
+    {
+      "hash": "sha256-1f4aFk0EquJi9zer5iTtGijn2yJqK94MSNvoh5CTsvM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/iroquois_siege_party.png"
+    },
+    {
+      "hash": "sha256-0JPnufyRjTEdcz2rHxUuPfJVK2oxokLQ7d79cg6rx3s=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/irregulars.png"
+    },
+    {
+      "hash": "sha256-wG73AD80StaAW+iRl3fBMVPvqpsUbXuslMDNKDgrGLs=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/kinship_ties.png"
+    },
+    {
+      "hash": "sha256-h1ZI6pibIOa35CzfZ2T3L1MmJH6CjSAjqaKobnvdACU=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/land_grab.png"
+    },
+    {
+      "hash": "sha256-YchXtM+d60JlkolHQOAVHA2U1gGd71X1exv59WA1t6w=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/large_scale_gathering.png"
+    },
+    {
+      "hash": "sha256-WKOVAYXGI1Zrhc7LlK++my9zkNJC\/t8B7O3jAF1E9Js=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/legendary_cavalry.png"
+    },
+    {
+      "hash": "sha256-+zOn0DxpovmzvpTUEvvfTZelAPh0VghQgCOenZALZCI=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/legendary_infantry.png"
+    },
+    {
+      "hash": "sha256-0Sc6QT4RivwgzmxDbEg3\/fDgg3BuzoaUfkekKxsUNzw=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/legendary_ranged_infantry.png"
+    },
+    {
+      "hash": "sha256-+zOn0DxpovmzvpTUEvvfTZelAPh0VghQgCOenZALZCI=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/legendary_range_infantry.png"
+    },
+    {
+      "hash": "sha256-ZrnaAKP91itYCqR16bHHlqk4hbTS1MmdyNT8zfQxdJw=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/legendary_siege.png"
+    },
+    {
+      "hash": "sha256-rmqS07rb8NCyewM5uLhDypZP1Y3Tx0gQ7q2cql\/kJ90=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/llama_ranching.png"
+    },
+    {
+      "hash": "sha256-RfAFwkM\/wwpShp7+wxWrQXPxtOcwmRR9EO+alVVw3ac=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/lumber_ceremony.png"
+    },
+    {
+      "hash": "sha256-jWzHIjEO3Jc8LuoMLO2qjR9zRT2VObKEGipCJ1+gFHY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/marauders.png"
+    },
+    {
+      "hash": "sha256-K0CygnCRkhHe2FxlZSBEgwO99+fueA+i3Lj66a\/lReo=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/master_surgeons.png"
+    },
+    {
+      "hash": "sha256-1\/JuS28IniK7tQ0\/I57a\/cv1uSHfHo44JpHvb6Vf2IA=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/mighty_warhut.png"
+    },
+    {
+      "hash": "sha256-vZR5wKJC7q0mzXfEg4QHbr5pdgOQp3MnruB5psieEko=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/morning_star.png"
+    },
+    {
+      "hash": "sha256-qhTafHI1WZv6Yt+M6uUMGybTOAylx1\/nee2fThhnHAs=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/mustangs.png"
+    },
+    {
+      "hash": "sha256-iwSgjHYjXyCixY4amBObI0M1ZXFMk4Z3lG3UwI6zunQ=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/national_unity.png"
+    },
+    {
+      "hash": "sha256-AKe1xz+VoYpyr\/UUO4xMnIxhD2lP7MHYi93sZ62EH8o=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/new_ways.png"
+    },
+    {
+      "hash": "sha256-stpxp0scHS0+uXqn46f2UynqgFe21lDJVcinoogTcOo=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/nomadic_expansion.png"
+    },
+    {
+      "hash": "sha256-b9n6a6lmYhmOgr0TQHUbdk5lgzaW6\/mSHTgzji8epwM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/offshore_support.png"
+    },
+    {
+      "hash": "sha256-MFcazpAuJPxqM+RiVLvaiPEI\/rQLgiVMhvszsn+QdnA=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/old_ways.png"
+    },
+    {
+      "hash": "sha256-mxz1ANeEMQSTnFTZfMfCgIwwIfxJDBmUARLk+VFrKRU=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/onikare.png"
+    },
+    {
+      "hash": "sha256-P8tS0XAW0BYDl7Mc96dMErrXuQGD1l79lzUh+tlMqXE=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/outlawband.png"
+    },
+    {
+      "hash": "sha256-8KgFkyIdXYh+8YLSBjWzEaHAbJZw2T3EQbgIFqchak0=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/outlaw_gangs.png"
+    },
+    {
+      "hash": "sha256-e164W5anlUk3l\/46i3pOIG2Qhf+VLZqInV3KuSgnWlk=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/raiders.png"
+    },
+    {
+      "hash": "sha256-jDyzp5fyOAOInNnuUdLtiTSE\/veL7f7cxpKYIQTBwdw=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/ranching.png"
+    },
+    {
+      "hash": "sha256-y8aeGpMfaj8pmRr2BfLm12IzL7U3i2jheEilADvWwfI=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/range_finding.png"
+    },
+    {
+      "hash": "sha256-qkwl2NqADXeZxZY\/yUWUmwvjKRmhtsT31WMTEdt1dgg=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/religious_unity.png"
+    },
+    {
+      "hash": "sha256-jxBVz9D4s7nMsvSRSyBuv3DbnU\/ge6J0qOcL4QoJtn0=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/ruthlessness.png"
+    },
+    {
+      "hash": "sha256-pOfS+LWpWOiWSSMdlz5qFMa9uQ9e\/I+4WGIlSAE5TcY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/scorched_earth.png"
+    },
+    {
+      "hash": "sha256-VR8Qt4\/VX28P9QB3QBCecV2sVo1jKGvk05jOIzon5Hk=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/sevastapol.png"
+    },
+    {
+      "hash": "sha256-dAp\/sqJKV\/cVjTECaiOtkQ89aeyTElYihYepn7Gaw0Y=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/shepherds.png"
+    },
+    {
+      "hash": "sha256-T5Z9n6sGYwtwxOXPCEMpN29SyQJrNr+eR3Cw+mLibE0=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/siege_combat.png"
+    },
+    {
+      "hash": "sha256-WJeiQs38CRvmfDppwR0ApWD7wsdeW0MSvXofKq6z9iQ=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/siege_discipline.png"
+    },
+    {
+      "hash": "sha256-GawDA428o54K4PNRf+pYcnBlW0CJVxPj2HjG5ut\/REY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/silent_strike.png"
+    },
+    {
+      "hash": "sha256-ICaXc\/ooqkwTn+jDSxDt+MS6ZAkgN6T+rrhZVmQhiM4=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/smoke_signals.png"
+    },
+    {
+      "hash": "sha256-bhfy8jfvxrp8PPVwiLII+wWC1RkZBJZ2RCpqBAUIeMw=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/smoking_mirror.png"
+    },
+    {
+      "hash": "sha256-ZJMLuWf9ROeeJjkk7ENwS5rJoy2Ifg7cnqV3CF5tfig=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/solingen_steel.png"
+    },
+    {
+      "hash": "sha256-QympbaFpq2CmQ2fbq9UoTeTtBYe8PtE8\/ZuMuHYp8Sc=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/south_sea_bubble.png"
+    },
+    {
+      "hash": "sha256-56E+kNlcb+JlKlkz40VTvQF8Il7PRZQ7MLiY4eOnVws=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/spanish_gold.png"
+    },
+    {
+      "hash": "sha256-Q4GKMwUwXL4yfaSLD3ZVdtdvqoVlanihHUo+wJ7+0MY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/spirit_medicine.png"
+    },
+    {
+      "hash": "sha256-QPIt6eh57GX6p0KA7A40oRdY9UTuW1WGq2OVX1Ue+RQ=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/state_religion.png"
+    },
+    {
+      "hash": "sha256-56uj15McXYVIUm2ziopZHX1uA0bJD9BUabno60RtMok=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/stone_towers.png"
+    },
+    {
+      "hash": "sha256-16fapG3aoDQIhlsVepcXszR3kWb53Sxw7hxasxtEkAU=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/strategy.png"
+    },
+    {
+      "hash": "sha256-s9\/dehSPTr2OCF6yyDYhNnmNI63c8guyNtdgu3GLKLQ=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/strong_warhut.png"
+    },
+    {
+      "hash": "sha256-QsAHF8gXfd3ty4ZWkd6IYPtkcweNCu\/9Sm5pkbv4IzE=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/sublime_porte.png"
+    },
+    {
+      "hash": "sha256-xAj6eqMMvWiYD8IvD1i55YJHIUwCYko1i9flFu4+ESI=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/sun_ceremony.png"
+    },
+    {
+      "hash": "sha256-ZsA2USXkxQuPnz\/Z\/szBDv\/aj6sjjzQ9\/SaZHbwftFQ=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/suvorov_reforms.png"
+    },
+    {
+      "hash": "sha256-kv9ZLKJTKNYSBLEWn4R4smAPMmyr0a6rpsTOGoMDLSo=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/tactics.png"
+    },
+    {
+      "hash": "sha256-Y5bM4bIDHpSRFeLorFCESehlbIlfYD1dq9Yo4m1VzY4=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/temple_centeotl.png"
+    },
+    {
+      "hash": "sha256-8TrxDYM0qDPPh8\/M\/ngkW9LBCffd4t4UkpWE5oHcbaA=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/temple_coatlicue.png"
+    },
+    {
+      "hash": "sha256-s\/QyfKFPdAyEpM5W0Q+PzJKSYv9ptTKtLC6SP42Czqw=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/temple_huitzilopochtli.png"
+    },
+    {
+      "hash": "sha256-qQSdgmV7Je8SlYguxE5C0bLzrPZhf+heMroP49Iqzlw=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/temple_quetzalcoatl.png"
+    },
+    {
+      "hash": "sha256-R9M8q2yK5YHoaFTnGUyn7gdohG7RMcWd\/VnwJCRIkUc=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/temple_tezcatlipoca.png"
+    },
+    {
+      "hash": "sha256-TDTxpPq2cz4PTYU28zuws1KojY4vNdWqgFRzMsuKHn8=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/temple_tlaloc.png"
+    },
+    {
+      "hash": "sha256-DYIEs\/vUfspIo0hpaF48aOvPmCCE6DU02ooyB8nP\/tc=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/temple_xipe.png"
+    },
+    {
+      "hash": "sha256-b1zY1kVmI9nkppQa664qDDDu1aN76\/+rCW7tIvpS\/i4=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/temple_xochipilli.png"
+    },
+    {
+      "hash": "sha256-1PLOTvca9cBscZ3VYDWcq0RP3rgZmCoMYwTSMeDYuJ4=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/temple_xolotl.png"
+    },
+    {
+      "hash": "sha256-A1YB\/2ER6xOtd3wObfU190UxunmcVkSVEZMvnTJSc3k=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/tercio_tactics.png"
+    },
+    {
+      "hash": "sha256-vyOLcQgVy5Kjew\/NRrtZFfycktaQVgu7AJmRPnrdRbE=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/thoroughbreds.png"
+    },
+    {
+      "hash": "sha256-cPB6y0wppZkLavFB1Y2ri6jeINmnu9LWNtLw8XZuXiU=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/tirailleurs.png"
+    },
+    {
+      "hash": "sha256-0xEDjPwcwN7feZduSZeQcjNaT3YkI84+CliBHPMROJk=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/town_destroyer.png"
+    },
+    {
+      "hash": "sha256-WpZyH6DrU0vruk+tFP0LSbvBSWya3yYFb71mFknGImY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/trade_dominance.png"
+    },
+    {
+      "hash": "sha256-jnv1DoHKrPS4DYcIlSXJEMzr5ezX\/ps1+OZmP7es1\/g=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/trade_monopoly.png"
+    },
+    {
+      "hash": "sha256-\/7YTDgcdRhYgTv+or0OyJBqwXNP9ovB\/1wFentbI3Jc=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/treaty_of_quillin.png"
+    },
+    {
+      "hash": "sha256-XgvmsIJ7QMD2VHwJdcEMRWnaFl7YNC0RG0TOi6Lrm1o=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/unction.png"
+    },
+    {
+      "hash": "sha256-wE2GgY+57bHlRS9Ol1HGuGxOFCjU91akHVQk6v0ddzI=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/uprising.png"
+    },
+    {
+      "hash": "sha256-PfvRB\/lx28QS\/xz1prki+i9IM26umEBTCMofHFoBBhM=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/versailles.png"
+    },
+    {
+      "hash": "sha256-1H3IYtgyrfU\/5u\/EkSdcD1xdDlSaEs5oj7yWAoneonY=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/warrior_culture.png"
+    },
+    {
+      "hash": "sha256-yYFwmb9Q0sXEc4Qp9SOBIvjjL4p2ijqpNG\/j5wFyA6A=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/war_houses.png"
+    },
+    {
+      "hash": "sha256-eDZnfL1cGCl3SRE+Bk4PvGhiO8m\/xWggFZ23RB5v0Hw=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/war_hut_training.png"
+    },
+    {
+      "hash": "sha256-crngp16JSdKwW8NF8h2otmxHydn8aCTAbNcBQ\/j+W34=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/weaving.png"
+    },
+    {
+      "hash": "sha256-SXWeTnmO5HLUIrCMrZS\/pMIN2Fxv7dojPhdNaTEHpJ4=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/wind_runner.png"
+    },
+    {
+      "hash": "sha256-sDzGDYEa6efHcsSJxe6i9JZ\/ZDK+q\/Jep3Ew8d9W7Oc=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/wood_crafting.png"
+    },
+    {
+      "hash": "sha256-4nbz66abw6bTq8F2CsrFB+sayO19sRXfwHu+HV\/eDq8=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/wood_working.png"
+    },
+    {
+      "hash": "sha256-9JIx31JsdYGWiRygtX+wmZHpDOdRi5tn6+PeTHbSIis=",
+      "url": "img\/resources\/images\/icons\/techs\/native\/work_ethos.png"
+    },
+    {
+      "hash": "sha256-4dMs9oSm3fVBBqjFbgQNrTL94JniWVEl+y5KqlnA0LQ=",
+      "url": "img\/resources\/images\/icons\/techs\/native_animal_lore\/nat_animal_lore.png"
+    },
+    {
+      "hash": "sha256-TzD1+njFEUNm7KSYJfxbIXYLCuszM1kaLPI23mtlubg=",
+      "url": "img\/resources\/images\/icons\/techs\/native_aztec_initiation\/nat_aztec_initiation.png"
+    },
+    {
+      "hash": "sha256-hIdVeI46yHh\/r6mwfJwR+k7qOo+MdIafQh45QB8ZzE0=",
+      "url": "img\/resources\/images\/icons\/techs\/native_bark_clothing\/nat_bark_clothing.png"
+    },
+    {
+      "hash": "sha256-FZkP6DrNZ7FWV3nQCTvOc8+2YnUXwjsLFVcSGbGJzgE=",
+      "url": "img\/resources\/images\/icons\/techs\/native_basket_weaving\/nat_basket_weaving.png"
+    },
+    {
+      "hash": "sha256-KoKnKA6Jmy5SUpcGYPkKZNILGYGqN6fVE502Acc99c4=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_01.png"
+    },
+    {
+      "hash": "sha256-Xb1oxJqfUo3Z7iZu7ntatW6eWblTTLv40pq\/aOi64K0=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_02.png"
+    },
+    {
+      "hash": "sha256-WkgLZp+U8+3VdCSLGmtBbH+9QFe43VU+\/OBl9h6cAOw=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_03.png"
+    },
+    {
+      "hash": "sha256-lyUuUxdSLYc4tQOIoHRdRgooVxhLxXrPKO0wx2PSBYI=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_04.png"
+    },
+    {
+      "hash": "sha256-J0CpNih3WPg6o3BLOUOzrJaEvYLTNVQvdIEksjBPhDM=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_05.png"
+    },
+    {
+      "hash": "sha256-V9F\/+aq7\/FFCOgp8zM1byLD7W4OVfKKMfX+\/sehr7ow=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_06.png"
+    },
+    {
+      "hash": "sha256-y4FY0TXfqf1dojqHHrTzOu0uTRkbuuRSAN3td9PgE18=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_07.png"
+    },
+    {
+      "hash": "sha256-M6m6RBZ1cdS1SW+WhzfOw4VFPEm2BKxY3jXqjImkevc=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_08.png"
+    },
+    {
+      "hash": "sha256-00jhzrd2reQ2nVa64UJytBAErgHmP4eJ7tKYVBxMAkE=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_09.png"
+    },
+    {
+      "hash": "sha256-UnvEHiuca+W1msXBZuVKKJ7902RnrntWQsRmFcOaGRM=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_10.png"
+    },
+    {
+      "hash": "sha256-u+kp4FBjrU1sqY66ORR686VGvpVyyz8FuVG0Bw2md4w=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_11.png"
+    },
+    {
+      "hash": "sha256-lPyj8DPXq+zReO8FhYlaiYj1Q9U3GYnAZNBz9+IoPRU=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_12.png"
+    },
+    {
+      "hash": "sha256-BO+eA7F5j8lpaia1J+wvfVLTNY\/n4n7C9DcNeRWOszI=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_13.png"
+    },
+    {
+      "hash": "sha256-W9lsms9ELYWKwU+XFUITVthPL29wdlG7WkuGxtiZZSM=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_14.png"
+    },
+    {
+      "hash": "sha256-UOJA32yC2YfVIKEyybDaJvuclfkdfXvADPx12ssZvrM=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_15.png"
+    },
+    {
+      "hash": "sha256-aAelAzPjLOcjr+omhcf5eX8gPd+WrLqa7lnqd3SwdC8=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_16.png"
+    },
+    {
+      "hash": "sha256-skepohBz1cb3KIL23gtiW549OFVkPdBaDQTiktXW09Y=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_17.png"
+    },
+    {
+      "hash": "sha256-7ggYI02v5Y7+ZkmWHvH990qkv5LRE+u4cZNe8UHpkwo=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_18.png"
+    },
+    {
+      "hash": "sha256-t\/RMaGKRLxNu0ZeuG4tSVoJ7n7RDxSS6nxBrsftPwM4=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_19.png"
+    },
+    {
+      "hash": "sha256-ZINS9zKcnzLvMyhJjjXDt2bTo9WZ1lJC70+SgEeFKK0=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_20.png"
+    },
+    {
+      "hash": "sha256-cNvz\/97kXMCas8kjE+rG+TKOx+syEXm08Ec4V+qLcmI=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_21.png"
+    },
+    {
+      "hash": "sha256-HN3hYTFAY\/eM6rbEz7HSpUULJs61iivEBjy+ZxY5rA8=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_22.png"
+    },
+    {
+      "hash": "sha256-e6Uo5JX0FNyzMC8rhHkdCe32z+xfCxkHlNxu2JL4c7s=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_23.png"
+    },
+    {
+      "hash": "sha256-V\/5mkgF49HHrAT1XNBmRjX1jf5RjRBHleo8GIsI0JM0=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_24.png"
+    },
+    {
+      "hash": "sha256-yaxRPjs6X8xWrZm5pvfDqIA2l1O9xrFxTHfn7zBgy2Q=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_25.png"
+    },
+    {
+      "hash": "sha256-bqHedDgd+xhqPL4Sf0edzlasHyyjg8bT5FOCMj6vktY=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_26.png"
+    },
+    {
+      "hash": "sha256-8YU+AfScI78AD\/tODdnM0HaRKdcpzD3Z3HKMPXa5B70=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_27.png"
+    },
+    {
+      "hash": "sha256-tCPrykWtR5BNvcJ86\/BOFVl4yfbbFhzFXnv5kQQSCVU=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_28.png"
+    },
+    {
+      "hash": "sha256-manCV+C36dZ6OAkWARjKnAL8dwv20U+uROrZUlXSeIw=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_29.png"
+    },
+    {
+      "hash": "sha256-Fp2VrfXIMEHzxf4D2ylNUHUVgIGo7j7i1yiCwmL8hEM=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_30.png"
+    },
+    {
+      "hash": "sha256-RX1iNNeDfJKpmJFkLsSGhNquP6EUQQKi+TprA2igcSc=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_31.png"
+    },
+    {
+      "hash": "sha256-H4JaT79Eu267C\/30w6RkT3XYFd6Ad5bg9xllMELCfN4=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_32.png"
+    },
+    {
+      "hash": "sha256-RXhmwfhGVRBTmymdDxcJt2RDBhUW7XUHZ+fxMFuUtLc=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_33.png"
+    },
+    {
+      "hash": "sha256-6eYJPnPz1BhdwBHl0Qml7qm46pgmfM69JcHzUyxlIls=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_34.png"
+    },
+    {
+      "hash": "sha256-Z8r42Cf1czJLnwgkvtCAYjszLYy40SPRr1My5v+iiyE=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_35.png"
+    },
+    {
+      "hash": "sha256-OspGHbuP0l6l3g1U+2j9rdJJKXdXgHmu+r7ET4UTCjY=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_36.png"
+    },
+    {
+      "hash": "sha256-tRFwmob+TQhXroi7CXFegWO21FkUEsEn+2mEaDgbtKQ=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_37.png"
+    },
+    {
+      "hash": "sha256-sIj0o41RZ\/1vi3OwiFJMMRt9btJCJ16uWj0gNkUtHRU=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_38.png"
+    },
+    {
+      "hash": "sha256-yi0X9Wu0aLolPX+dFk1UI9DI2VuSgkZsQiGgqaLkLPI=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_39.png"
+    },
+    {
+      "hash": "sha256-MdlyciU+3x3vpNSIsU7tApdqLqI1HFJcDKC2zxpXEAc=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_40.png"
+    },
+    {
+      "hash": "sha256-Lem0wUx5tGSJ9NhRsgJQX7xmGKH\/otA+DaoVMTXjHKk=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_41.png"
+    },
+    {
+      "hash": "sha256-VKfyAuEiK39YO9lorLpueucav\/\/jUAvdOiURcpEClmo=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_42.png"
+    },
+    {
+      "hash": "sha256-QLVo1IF4DXpUY2ng5LJwMQKjm82drHbjv4N5jMT9nNA=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_43.png"
+    },
+    {
+      "hash": "sha256-DAY0qOXw3waX6HChb1rJ9O5UOip7+p0yyYdGH4hgGZk=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_44.png"
+    },
+    {
+      "hash": "sha256-xgzGErQlXv+TK1sK9OnKUZfmk9QJ4wyo3V96G+7MDms=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_45.png"
+    },
+    {
+      "hash": "sha256-CPbCT7DqOuKYaMsPdsfCWZ6YIggRyT2zQHbrtqIeSuc=",
+      "url": "img\/resources\/images\/icons\/techs\/native_big_button\/native_46.png"
+    },
+    {
+      "hash": "sha256-FS9gI\/X6Vc07D3sHdK8Ke92RRG7RdFEUoFkgYa3qp8s=",
+      "url": "img\/resources\/images\/icons\/techs\/native_bowyery\/nat_bowyery.png"
+    },
+    {
+      "hash": "sha256-OrD0ESRoK1BZOWaw1RcTbfSlv+gYfF0E9FbcA6EAXrM=",
+      "url": "img\/resources\/images\/icons\/techs\/native_calendar\/nat_calendar.png"
+    },
+    {
+      "hash": "sha256-cmzW5CM1f7oBh+jvsg1FocTr2UqV+rqJ2zikRsD7D0I=",
+      "url": "img\/resources\/images\/icons\/techs\/native_carib_ambush_party\/nat_carib_ambush_party.png"
+    },
+    {
+      "hash": "sha256-IrUJFMTccgRAIk7HJU3UtpYiidCXlonT6aZcowLQ3ss=",
+      "url": "img\/resources\/images\/icons\/techs\/native_ceremonial_feast\/nat_ceremonial_feast.png"
+    },
+    {
+      "hash": "sha256-SYFW27jOoG4LDhb2lE6Cjl6pFXHTfCAtNhkvJtJTnQ8=",
+      "url": "img\/resources\/images\/icons\/techs\/native_chasquis_messengers\/nat_chasquis_messengers.png"
+    },
+    {
+      "hash": "sha256-81r1inoj31i4wYbMU3SJX5sV9IBrmd2pOi9b9VOYtp8=",
+      "url": "img\/resources\/images\/icons\/techs\/native_chinampa\/nat_chinampa.png"
+    },
+    {
+      "hash": "sha256-mgkmnTRvG+DUDncgaOlxPylcOVu\/TVtUPdMN\/cYse5w=",
+      "url": "img\/resources\/images\/icons\/techs\/native_chocolate_recipes\/nat_chocolate_recipes.png"
+    },
+    {
+      "hash": "sha256-HolDOw8GBkbJCwykgMTAP1SsxezGW2Rf+U8wGwGcv\/U=",
+      "url": "img\/resources\/images\/icons\/techs\/native_cotton_armor\/nat_cotton_armor.png"
+    },
+    {
+      "hash": "sha256-4B6fjl8F5bLYD2G76mm0pdG8jHmkB8OaYXAJkDgcql8=",
+      "url": "img\/resources\/images\/icons\/techs\/native_dog_soldier\/nat_dog_soldier.png"
+    },
+    {
+      "hash": "sha256-Dd7QS2sR6GIhoGs\/dwG8g4Xc0PDdfooT5RBuRbcqjMY=",
+      "url": "img\/resources\/images\/icons\/techs\/native_forest_burning\/nat_forest_burning.png"
+    },
+    {
+      "hash": "sha256-Uxhuz\/pDvL3JQo3lOk5\/I+Q7\/Gsyj\/lvEqMIKXAY8lo=",
+      "url": "img\/resources\/images\/icons\/techs\/native_garifuna_drums\/nat_garifuna_drums.png"
+    },
+    {
+      "hash": "sha256-++6REU9Vb1lsrSjqCBWD\/jpOEaJpg8mkrjbqMqoj0ss=",
+      "url": "img\/resources\/images\/icons\/techs\/native_garland_wars\/nat_garland_wars.png"
+    },
+    {
+      "hash": "sha256-Xl1vYuRk7umpwiGlrgFeBS7NyvqR1w3lMOViS4VVCsU=",
+      "url": "img\/resources\/images\/icons\/techs\/native_guerilla_wars\/nat_guerilla_wars.png"
+    },
+    {
+      "hash": "sha256-0Vwduo68MjwqAO6+boSSxsF74q3Cou+tpD8vS1j1hWA=",
+      "url": "img\/resources\/images\/icons\/techs\/native_horse_breeding\/nat_horse_breeding.png"
+    },
+    {
+      "hash": "sha256-zT1oU0eDDvLYDUS6\/fCau9p6IT21qVd0XsGEL59vBq0=",
+      "url": "img\/resources\/images\/icons\/techs\/native_horse_trading\/nat_horse_trading.png"
+    },
+    {
+      "hash": "sha256-LGwlDiyIOIBnqr9cufzZhy+NeVcAnZgnDJFSsHpJ5ws=",
+      "url": "img\/resources\/images\/icons\/techs\/native_hunting_grounds\/nat_hunting_grounds.png"
+    },
+    {
+      "hash": "sha256-gL61juhaD0GGmsFIrn0A4sfO65mBCV+vHiydVhqOhtI=",
+      "url": "img\/resources\/images\/icons\/techs\/native_iroquois_league\/nat_iroquois_league.png"
+    },
+    {
+      "hash": "sha256-\/11aIo1EfP6dLybhPETIf1mVaeQXEwBWr4Le5oesW5s=",
+      "url": "img\/resources\/images\/icons\/techs\/native_kasiri_beer\/nat_kasiri_beer.png"
+    },
+    {
+      "hash": "sha256-vnv3\/DPHq1Tu9hrEAjYm4xWtlNdszNSuBrAt4Rp5ung=",
+      "url": "img\/resources\/images\/icons\/techs\/native_kinship\/nat_kinship.png"
+    },
+    {
+      "hash": "sha256-wzbtR\/27wzoSR06bu\/ASohNOheXN9434BZKF9GTezGc=",
+      "url": "img\/resources\/images\/icons\/techs\/native_lacrosse\/nat_lacrosse.png"
+    },
+    {
+      "hash": "sha256-Ar8bUy1dVlTxIl0HsnE4SfHX74rovJjegznKjbk0jBE=",
+      "url": "img\/resources\/images\/icons\/techs\/native_metalworking\/nat_metalworking.png"
+    },
+    {
+      "hash": "sha256-g6ODG2ciuIHwW\/NutUhvQR13BqR\/OMZ7MeJcmnJ+Pmo=",
+      "url": "img\/resources\/images\/icons\/techs\/native_morning_wars\/nat_morning_wars.png"
+    },
+    {
+      "hash": "sha256-OLJQXzcfz84D2WgQbO3M2Dp0kCZEJJ08osTHnSe5pjw=",
+      "url": "img\/resources\/images\/icons\/techs\/native_mustangs\/nat_mustangs.png"
+    },
+    {
+      "hash": "sha256-oZpS2ZZ5\/yo\/Z2pcnEWD6S86cUHwE7v5A9mEhWUrGpE=",
+      "url": "img\/resources\/images\/icons\/techs\/native_nootka_warchief\/nat_nootka_warchief.png"
+    },
+    {
+      "hash": "sha256-XEaIkAC7R9u93w9MX6tD+HQjcMHurFP9GYJEY4o++mU=",
+      "url": "img\/resources\/images\/icons\/techs\/native_poison_arrow_frogs\/nat_poison_arrow_frogs.png"
+    },
+    {
+      "hash": "sha256-ksmEJR0EiCY0kxkTDTmXCzB+d+rpkZc8NqRA\/grIR+E=",
+      "url": "img\/resources\/images\/icons\/techs\/native_potlatch\/nat_potlatch.png"
+    },
+    {
+      "hash": "sha256-75fGxNkjzyhoA1lRYzw9qAyfbZcXt7rpygaI080sTRQ=",
+      "url": "img\/resources\/images\/icons\/techs\/native_roadbuilding\/nat_roadbuilding.png"
+    },
+    {
+      "hash": "sha256-NG4EdEbgUyizCcxEaAAJk8uFam0GzhLaOvanyr+6z\/4=",
+      "url": "img\/resources\/images\/icons\/techs\/native_sequoyah_syllabary\/nat_sequoyah_syllabary.png"
+    },
+    {
+      "hash": "sha256-\/wpt65LvCeS4LIJm3O8tgQOAP5eHHyWlrrCkIODMfsg=",
+      "url": "img\/resources\/images\/icons\/techs\/native_tanning\/nat_tanning.png"
+    },
+    {
+      "hash": "sha256-o37AHmnALV+wNNwPD\/BefDDrQBkOajp+L2BTBHLqicw=",
+      "url": "img\/resources\/images\/icons\/techs\/native_textile_craftsmanship\/nat_textile_craftsmanship.png"
+    },
+    {
+      "hash": "sha256-1j7qHdqmiLysScy9ZbW7B5ZbMAPiFUVy2iGef7D8KO4=",
+      "url": "img\/resources\/images\/icons\/techs\/native_trade_language\/nat_trade_language.png"
+    },
+    {
+      "hash": "sha256-a3vMXM2m7VHX0jpeoz6jRCdyqFWgbjMoGBz2H+Twdig=",
+      "url": "img\/resources\/images\/icons\/techs\/native_war_dance\/nat_war_dance.png"
+    },
+    {
+      "hash": "sha256-zT1oU0eDDvLYDUS6\/fCau9p6IT21qVd0XsGEL59vBq0=",
+      "url": "img\/resources\/images\/icons\/techs\/nat_horse_trading.png"
+    },
+    {
+      "hash": "sha256-LGwlDiyIOIBnqr9cufzZhy+NeVcAnZgnDJFSsHpJ5ws=",
+      "url": "img\/resources\/images\/icons\/techs\/nat_hunting_grounds.png"
+    },
+    {
+      "hash": "sha256-gL61juhaD0GGmsFIrn0A4sfO65mBCV+vHiydVhqOhtI=",
+      "url": "img\/resources\/images\/icons\/techs\/nat_iroquois_league.png"
+    },
+    {
+      "hash": "sha256-\/11aIo1EfP6dLybhPETIf1mVaeQXEwBWr4Le5oesW5s=",
+      "url": "img\/resources\/images\/icons\/techs\/nat_kasiri_beer.png"
+    },
+    {
+      "hash": "sha256-wzbtR\/27wzoSR06bu\/ASohNOheXN9434BZKF9GTezGc=",
+      "url": "img\/resources\/images\/icons\/techs\/nat_lacrosse.png"
+    },
+    {
+      "hash": "sha256-Ar8bUy1dVlTxIl0HsnE4SfHX74rovJjegznKjbk0jBE=",
+      "url": "img\/resources\/images\/icons\/techs\/nat_metalworking.png"
+    },
+    {
+      "hash": "sha256-f0phHt0P5\/tdScj3ZEKxJa58+bc+6ldwLjKiqqciOAk=",
+      "url": "img\/resources\/images\/icons\/techs\/nat_morning_wars.png"
+    },
+    {
+      "hash": "sha256-NG4EdEbgUyizCcxEaAAJk8uFam0GzhLaOvanyr+6z\/4=",
+      "url": "img\/resources\/images\/icons\/techs\/nat_sequoyah_syllabary.png"
+    },
+    {
+      "hash": "sha256-sfifb7QSGbA3mIUIKMkEP7ayGBRIecL24ID0b88fvAw=",
+      "url": "img\/resources\/images\/icons\/techs\/new_order_infantry\/new_order_infantry.png"
+    },
+    {
+      "hash": "sha256-xkyxYb23y1ilsnv8pbC0E0wTw5yJz+t2OZtPE\/q\/bb0=",
+      "url": "img\/resources\/images\/icons\/techs\/nootka_bark_clothing\/nootka_bark_clothing.png"
+    },
+    {
+      "hash": "sha256-iaaJayKtJM+tSLTskCQapabgZriWS7zNLkGy9PMEawk=",
+      "url": "img\/resources\/images\/icons\/techs\/nootka_harpoon\/nootka_harpoon.png"
+    },
+    {
+      "hash": "sha256-S4bRwXtcysXPoEbHRsEwnPtZjEr0y6VqOvw6GLsd2YM=",
+      "url": "img\/resources\/images\/icons\/techs\/order_of_the_tower_and_the_sword\/order_of_the_tower_and_the_sword_icon.png"
+    },
+    {
+      "hash": "sha256-2q4+o5p5Vbsbc5YKQfrYjriMl2861n+yEmJoXoOs41I=",
+      "url": "img\/resources\/images\/icons\/techs\/ore_refining\/ore_refining.png"
+    },
+    {
+      "hash": "sha256-6WV4Ny0KxnFeWSpkG9YleDG4ZUgB1vlbIa4B8KdGieg=",
+      "url": "img\/resources\/images\/icons\/techs\/orienteering\/orienteering.png"
+    },
+    {
+      "hash": "sha256-6SOXp5BdDYmAMYXo1Tg2VgoGn7xYReLq7LgeAYDmhEg=",
+      "url": "img\/resources\/images\/icons\/techs\/paper_cartridge\/paper_cartridge.png"
+    },
+    {
+      "hash": "sha256-SV\/pIp9UB1CXOzOq6SLdNWt2gCuuVawG2U2x867gx94=",
+      "url": "img\/resources\/images\/icons\/techs\/pelt_carroting\/pelt_carroting.png"
+    },
+    {
+      "hash": "sha256-lu5PImZm8yuU87RB9UwSk2ihcv+SbUItl54tKRKb3Fo=",
+      "url": "img\/resources\/images\/icons\/techs\/percussion_locks\/percussion_locks.png"
+    },
+    {
+      "hash": "sha256-hp+ED7uPHM7+Su21SVCXArNBuXiYD3M7lTuF0kvmdzU=",
+      "url": "img\/resources\/images\/icons\/techs\/petrine_reforms\/petrine_reform_64x64.png"
+    },
+    {
+      "hash": "sha256-wwtmr71faqR9R1fMvhFP0XOho+HlejiI2QH1maO81FQ=",
+      "url": "img\/resources\/images\/icons\/techs\/pillage\/pillag.png"
+    },
+    {
+      "hash": "sha256-wwtmr71faqR9R1fMvhFP0XOho+HlejiI2QH1maO81FQ=",
+      "url": "img\/resources\/images\/icons\/techs\/pillage\/pillage.png"
+    },
+    {
+      "hash": "sha256-oSun3oDOgwUOZCEvV1+lBV\/wnPj7V5vQYj5xM3j5gN0=",
+      "url": "img\/resources\/images\/icons\/techs\/pitosi_silver\/pitosi_silver.png"
+    },
+    {
+      "hash": "sha256-aAbXg15FY8Ly6aKVUEfIzAUmJ7MrFMf9l7C99Z5GkXM=",
+      "url": "img\/resources\/images\/icons\/techs\/placer_mines\/placer_mines_32x32.png"
+    },
+    {
+      "hash": "sha256-QPZdAtGG+qZys\/tOGnAghBDl79Hv2ZRotFmGhLuJvRc=",
+      "url": "img\/resources\/images\/icons\/techs\/placer_mines\/placer_mines_64x64.png"
+    },
+    {
+      "hash": "sha256-R\/rljdsXhF6f76jzOAyhc1wZJhWDl6QAOvJdXQso8dk=",
+      "url": "img\/resources\/images\/icons\/techs\/professional_gunners\/professional_gunners.png"
+    },
+    {
+      "hash": "sha256-dsxIGpVUbIfytvyOaJq8A8LmIOnMx4vRh9SxmHLqwKQ=",
+      "url": "img\/resources\/images\/icons\/techs\/quatrefage\/quatrefage.png"
+    },
+    {
+      "hash": "sha256-7ulv\/\/9bjmPlYU6i+9UX5ex4NkDpm+NbkSK8SB1mErw=",
+      "url": "img\/resources\/images\/icons\/techs\/question\/question.png"
+    },
+    {
+      "hash": "sha256-t2aDy\/Ap6uSXlG\/vFKZ9ex7xUVGy0dgY99JZEWs9e+I=",
+      "url": "img\/resources\/images\/icons\/techs\/rabauld\/rabauld.png"
+    },
+    {
+      "hash": "sha256-ZEJbQqhBtKSkcA1K72G9oAoEAykwiBKHULJQR0hFEz4=",
+      "url": "img\/resources\/images\/icons\/techs\/redoubts\/redoubts.png"
+    },
+    {
+      "hash": "sha256-RBRuWP5R6x4framU4XKXsM8y1zl2L18wV12Xgct2x18=",
+      "url": "img\/resources\/images\/icons\/techs\/rendering_plant.png"
+    },
+    {
+      "hash": "sha256-1sJ+jX5dJh2PF\/Nytle9kGKIUdY4HsWdr96jPc4CD8U=",
+      "url": "img\/resources\/images\/icons\/techs\/rendering_plant\/rendering_plant.png"
+    },
+    {
+      "hash": "sha256-xZHR7ufVB6dCUEMB8MJKx8qPS\/UwDgJGv+KMnch\/fa8=",
+      "url": "img\/resources\/images\/icons\/techs\/revetment\/revetment.png"
+    },
+    {
+      "hash": "sha256-IWgwzedtkGm2LGEN2NfWrCVVctyK\/fL6Dvqro8n2XrM=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution.png"
+    },
+    {
+      "hash": "sha256-feqPXMFci0ZmjIvU+VLsU9bBD4M01859nnY2ILxESPo=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/aceh_pepper_exports.png"
+    },
+    {
+      "hash": "sha256-b4S9xVcmwnh30YUHn6jwm\/NNNvD3nt+CFeC1VWJjSXk=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/albion_legion.png"
+    },
+    {
+      "hash": "sha256-NLMmw5d9BBqdRuTLRlKBuDAD8L8aEqYbhsN2L0gRRpU=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/border_fortress.png"
+    },
+    {
+      "hash": "sha256-Y9\/shGx8\/7Uhg7tv1QQMTkEP5uuJyTmtkWboSzR0Qeo=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/cattle_drivers.png"
+    },
+    {
+      "hash": "sha256-1i27twCpD45+qcRt4kVQC\/97xQMfO+0i8esgQXLMJ\/s=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/charros.png"
+    },
+    {
+      "hash": "sha256-EOLujeR0JHYiiPBdsZecob4mJCG\/s6DYSv3nQsIK1fc=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/chinacos.png"
+    },
+    {
+      "hash": "sha256-MUshsKG1mPoGlZWiDoqmoHrw7WEnS24QKi9ZfRzkgWo=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/citizenship.png"
+    },
+    {
+      "hash": "sha256-TDmxSbcLnoK9nakd3GhoFuXIJV2DWh+\/3N7D4dnPqO8=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/cowboys.png"
+    },
+    {
+      "hash": "sha256-Km53iKQ3yMH6XFas0GeMsnXJTc7W7waOBxjXd0Op9AQ=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/danubian_flotilla.png"
+    },
+    {
+      "hash": "sha256-yp4S7Am\/OdYoHiJKGzos5uuKLSHiXb9NzzIfPbM8LJw=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/diamond_rush.png"
+    },
+    {
+      "hash": "sha256-CBoZM89j3IX37Ccm1uhTTbCGNUPue1ROLoCJ\/jy6jUo=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/granaderos.png"
+    },
+    {
+      "hash": "sha256-U59vEBAuimHVEvdRSEmSYxozFblFV987hd6UJUo3EdU=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/great_buffalo_hunt.png"
+    },
+    {
+      "hash": "sha256-bfAtT4iMDP6QTD+OcGijnNRzjNL54Zh8busKlLyHXWA=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/hajduks.png"
+    },
+    {
+      "hash": "sha256-gdcIw+fafO1VqsXJdkLtN6xXuRp0Aw2ilYMOkJDNTEM=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/huguenots.png"
+    },
+    {
+      "hash": "sha256-J5fUhXwgwAYqLyjOG\/E1P9d7Ag5t5ONJgwtsM5YTQ\/0=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/hungarian_hussars.png"
+    },
+    {
+      "hash": "sha256-6u3GbI5BNNstHaHcITJQX05rof1LrVxIZres2X4NzwQ=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/independence_dragoons.png"
+    },
+    {
+      "hash": "sha256-KJSo9OlMKX8mVYz8\/U0trcKAzxyWkIZNGNDQqKfq4IA=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/infinite_grizzly.png"
+    },
+    {
+      "hash": "sha256-C6caMst8P7nqhva5MSrsJ7QgEsQ+YV+mexHl8kTW8Cw=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/infinite_metis_pathfinder.png"
+    },
+    {
+      "hash": "sha256-uEJztCaYBnq823tfMu+1d3D6BzHzcAa5TT+o+r3w4JY=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/letter_of_marque.png"
+    },
+    {
+      "hash": "sha256-YiWBEnCiDL3eaXcYZNR3tCcxuSx\/DUOEQFVPwydGmVI=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/letter_of_marque_barbary.png"
+    },
+    {
+      "hash": "sha256-\/pYXrPyZyiwlXKUeKVSWspYKwx97k6D2YVQAFNX2pTs=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/military_frontier.png"
+    },
+    {
+      "hash": "sha256-Zik8MUbjKQkjZ3XM3y37sxkxaKmZlRP4DNr3LJZPixE=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/minas_gerais.png"
+    },
+    {
+      "hash": "sha256-oQ14h\/SNJKQKIxSEw3avhSea0bcOF0Rooen1LJabbxA=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/nile_flood.png"
+    },
+    {
+      "hash": "sha256-euqPMDwd997pUX1m6T5PUFO3Ifgl4Ua784qkNp6UDAM=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/rosior_dragoons.png"
+    },
+    {
+      "hash": "sha256-8dA8d3Z1QunFe68dndfbzQpgF8XeDQleDSnRz7DhTQ4=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/salitrera.png"
+    },
+    {
+      "hash": "sha256-NqINRzqXA9bR0rk\/+86kmxPYo8NWBb+Wb9N+ihcZt94=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/wallachian_horse_archers.png"
+    },
+    {
+      "hash": "sha256-hIWx7iY6pvkCjupqEXOXJYE4hwW+8HofUquEiFMM0KY=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/wanderlust.png"
+    },
+    {
+      "hash": "sha256-PiQpClzRaqMl+SYGDT82FJ0PMw0oN79lvpi4tlLUOUw=",
+      "url": "img\/resources\/images\/icons\/techs\/revolution\/xhosa_foods.png"
+    },
+    {
+      "hash": "sha256-20bdh8t5SZRp7XioKqQZp4Jbzd4v\/rtIUBGC1tUlUqY=",
+      "url": "img\/resources\/images\/icons\/techs\/rifling\/rifling.png"
+    },
+    {
+      "hash": "sha256-Ir1xdc+bgfBoAd41tmPACog9MiugGmqJFpwfrL0XKw8=",
+      "url": "img\/resources\/images\/icons\/techs\/rogers_rangers\/rogers_rangers.png"
+    },
+    {
+      "hash": "sha256-qVSPeN9n\/1vF+TWljOYxs0FbZVVXVyblpAWEIUdhx4g=",
+      "url": "img\/resources\/images\/icons\/techs\/rogers_rangers\/rogers_rangers_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-Cjvv2bGArMTSMn2lNm5dbN6ZDVzwc4FKN\/JErnKQmZQ=",
+      "url": "img\/resources\/images\/icons\/techs\/royal_guard_cavalry\/royal_guard_cavalry.png"
+    },
+    {
+      "hash": "sha256-L\/hTbRLnmpEMR\/8eF\/igOaGdplms9Mp6bYUMRsRuO48=",
+      "url": "img\/resources\/images\/icons\/techs\/royal_guard_infantry\/royal_guard_infantry.png"
+    },
+    {
+      "hash": "sha256-WjRffcFITnlEURZF2VXBR1UHpNY8mg9u+KJa7xSHGmg=",
+      "url": "img\/resources\/images\/icons\/techs\/saloon\/beverages.png"
+    },
+    {
+      "hash": "sha256-\/Z6k8BZD2mbD0CTB4vz44FcyG+fIj5UTtIGBmbzBADs=",
+      "url": "img\/resources\/images\/icons\/techs\/saloon\/peacemakers.png"
+    },
+    {
+      "hash": "sha256-ZlJGnUhqc6W2jgKCVlPsT\/kOwU9vL45wUMU2J7zxw\/w=",
+      "url": "img\/resources\/images\/icons\/techs\/seed_drill\/seed_drill.png"
+    },
+    {
+      "hash": "sha256-LxFY4H9195f9duqt69BxXOxZTM\/p4LhEUJh1PEVFM1I=",
+      "url": "img\/resources\/images\/icons\/techs\/selective_breeding\/selective_breeding.png"
+    },
+    {
+      "hash": "sha256-SXgypKeej1SuEFv+2+pTUU0+QzVCtpSLidYQqoc0Xds=",
+      "url": "img\/resources\/images\/icons\/techs\/ship_howitzers\/ship_howitzers.png"
+    },
+    {
+      "hash": "sha256-Ts5xGycumu8eu3xgHl63dbw5k9oza2XNx2Hbveshn0w=",
+      "url": "img\/resources\/images\/icons\/techs\/sioux_horse_trading\/sioux_horse_trading.png"
+    },
+    {
+      "hash": "sha256-mgS0vSFHCl+\/gv7ByihthTBFKxBNeO5MpReRfk5vrqA=",
+      "url": "img\/resources\/images\/icons\/techs\/sioux_hunting_grounds\/sioux_hunting_grounds.png"
+    },
+    {
+      "hash": "sha256-qwuP\/IX5vxDSzdqTytkZQEehag7KUr8VkW3F11a7OzU=",
+      "url": "img\/resources\/images\/icons\/techs\/spanish_square\/spanish_square_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-FD1UnhdW5YVayXB6gysJYlRgrQGKb5b7gF\/er9wgWkk=",
+      "url": "img\/resources\/images\/icons\/techs\/spanish_treasure_ship\/spanish_treasure_ship_icon.png"
+    },
+    {
+      "hash": "sha256-wcdB6bbO2hXntX93E84vrOFQRvR+Yzv5i2Zd707tnfc=",
+      "url": "img\/resources\/images\/icons\/techs\/spies\/spies.png"
+    },
+    {
+      "hash": "sha256-jrtKiN3FoDfa9G6YifMJ1dF750VQmoSVcy3JMIZ6axQ=",
+      "url": "img\/resources\/images\/icons\/techs\/stadholders\/stadholders_64x64.png"
+    },
+    {
+      "hash": "sha256-H+LXWGiE\/J4D0q8Berde7FEALtoRegDEePTztJ+eP4E=",
+      "url": "img\/resources\/images\/icons\/techs\/standing_army.png"
+    },
+    {
+      "hash": "sha256-hfYmhsRobJRJ7HvI1e+CGgyXGHEdJtnz\/OAHdjKaIjc=",
+      "url": "img\/resources\/images\/icons\/techs\/standing_army\/standing_army.png"
+    },
+    {
+      "hash": "sha256-JP5LV8O+\/Fs03p5q235y8nEnADnTOSrxx+YQRZXilc0=",
+      "url": "img\/resources\/images\/icons\/techs\/star_fort\/star_fort.png"
+    },
+    {
+      "hash": "sha256-r42t6ZkvESD4fS23Nkvw+e\/Vrz6AalHSinupr1BVMQs=",
+      "url": "img\/resources\/images\/icons\/techs\/steam_power\/steam_power.png"
+    },
+    {
+      "hash": "sha256-Gw9k0eyyWtG5SwFX48immtCqiGgcWox1ru1g5vuAvik=",
+      "url": "img\/resources\/images\/icons\/techs\/steel_traps\/steel_traps.png"
+    },
+    {
+      "hash": "sha256-7RL23ZF0J1nHoM74yPhVd7s6K04STQ2I24Ya3tA0BOk=",
+      "url": "img\/resources\/images\/icons\/techs\/stone_walls\/stone_walls.png"
+    },
+    {
+      "hash": "sha256-wg5k7xsfHes4rlg\/Kl9o9FXrjlYZ4K8hPQACtgWT9zE=",
+      "url": "img\/resources\/images\/icons\/techs\/strelet_horde\/strelet_horde_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-eiJxYXv0PWdInhgQgsrtk7IXdJ+dBHcGjKh2tMElMjk=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/allotment_system.png"
+    },
+    {
+      "hash": "sha256-rRxZKkuolrIPRTqRcYgyvAz2kzOAqMfZOER\/47673mI=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/barrage.png"
+    },
+    {
+      "hash": "sha256-0NTjGyVnvsWY+pXjAzpHO2FfUVPjITTSX1Tp9FdTlKE=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/blackberries.png"
+    },
+    {
+      "hash": "sha256-iYpapZoumX7jDwXC000yccM9TJY9XnRQDxJ1dAftzC0=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/blueberries.png"
+    },
+    {
+      "hash": "sha256-TLHKhKtKCjrQHanqscWnctosKdS+IGuqk3Wz1uLX7qA=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/cronstedt_reform.png"
+    },
+    {
+      "hash": "sha256-zPwl9lyuxR7dLEoJL3272zn8xBj3vOrwFc4NA8Pnpr0=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/dalecarlian_rebellion.png"
+    },
+    {
+      "hash": "sha256-66IllZA+gkSNvUyyEB1Dl6vyxt9tOf9d4TcBBjtJdTw=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/dominions.png"
+    },
+    {
+      "hash": "sha256-cJVKyImoswF7VXvat7KvzppmYDKZrq1lPnmCnvkYMfs=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/duelist.png"
+    },
+    {
+      "hash": "sha256-9u0kJ9rxbQrhk7nnUx1RkgYNy5FwyDq2P8cBMsVIeJE=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/engelsberg_ironworks.png"
+    },
+    {
+      "hash": "sha256-GI69tazpm7SJl+m\/kAF6a5lW4ZDwOuszpK9XQJyrbkg=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/finnhorses.png"
+    },
+    {
+      "hash": "sha256-AdgHZvDNIC+YKsbLmfgGom6QwpH5Q8qAANcNj7RrubM=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/gustavian_guards.png"
+    },
+    {
+      "hash": "sha256-++CnTg1iGoKJ7ZwgTlJbzc307Dtr\/2VpfnMr+vugUzI=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/hakkapelit_march.png"
+    },
+    {
+      "hash": "sha256-2GTMXoG+JZsVAyFNTst3TRHm2AShXzfBl51bOcF+5Vg=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/infantry_guns.png"
+    },
+    {
+      "hash": "sha256-i9nvDAwmxB5vNGyqYc4wBbhlNbvLi\/jJ0yRW+aEgC2g=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/oxenstierna_reforms.png"
+    },
+    {
+      "hash": "sha256-of7HAYbY9jscg+\/lt6mEnrfmBJX3Red3FWSti9RX628=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/platoon_fire.png"
+    },
+    {
+      "hash": "sha256-wflKLfZ\/jpbDhznxlhlxJX1CO8OCsvNX45pS\/4ku88s=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/push_of_pike.png"
+    },
+    {
+      "hash": "sha256-iwFK6WhSMFd8X1GKOqEG+WF8XPeTvz+BDmdUjTEkoeI=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/savolax_jaegers.png"
+    },
+    {
+      "hash": "sha256-DIo3FmV+37IoWyK2\/r6dKvl+4xQxBYFrTwJJzS9Ob2U=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/snaplocks.png"
+    },
+    {
+      "hash": "sha256-vkfGZPE1dQhqmZ4Ed8EFd0I3gd71q\/FZNvUHKnVxZhg=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/svea_lifeguard.png"
+    },
+    {
+      "hash": "sha256-QSB3N0cXFqMezppBR2tfWuDt+dd8NSTGlrlB7rcBH+4=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/team_cronstedt_reforms.png"
+    },
+    {
+      "hash": "sha256-ZXO\/74Z0aAd0AEgQrR7HMC2P0q6eft6R1s\/6+7G3\/WM=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/team_torp.png"
+    },
+    {
+      "hash": "sha256-\/ebFwODdMUh2GhIs5Y6wu5+g5EucuLoRAQHzJjA6vhI=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/trample_tactics.png"
+    },
+    {
+      "hash": "sha256-4XfBj9auOjVkGZoByohdFQ8G0dfUBO7R2k2RBPW6O9U=",
+      "url": "img\/resources\/images\/icons\/techs\/sweden\/vasa.png"
+    },
+    {
+      "hash": "sha256-HoKYxaqRgujiLJ0T4UV3+PIxSllnb0V7E2i1B9KuMec=",
+      "url": "img\/resources\/images\/icons\/techs\/tanzimat\/tanzimat_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-kyuULrF9vewiBCrXUyuwXg3AIAiktUXMbdru3SnB9eg=",
+      "url": "img\/resources\/images\/icons\/techs\/tavern\/folk_heroes.png"
+    },
+    {
+      "hash": "sha256-QHUSGiC2drXOzUIwPUD1DZO1Tq96eV\/8qTptfYwexBo=",
+      "url": "img\/resources\/images\/icons\/techs\/tavern\/theaters.png"
+    },
+    {
+      "hash": "sha256-NJUPJpK1392YdadJr3+iwzNtCcxOWnAS8YNTm8bJhcU=",
+      "url": "img\/resources\/images\/icons\/techs\/tax_burden.png"
+    },
+    {
+      "hash": "sha256-iKdj36gXx9mo7+hJjs8027\/foYluP7RvSU+pPzi9bT4=",
+      "url": "img\/resources\/images\/icons\/techs\/team_arrow_knight.png"
+    },
+    {
+      "hash": "sha256-XrCohydbrNOhz83h60jO9cLf9yLUOsq8LrKWfBmt8ME=",
+      "url": "img\/resources\/images\/icons\/techs\/team_axe_rider.png"
+    },
+    {
+      "hash": "sha256-cLxG+G2c4sS548jD1EUxqJBoQxlJtb1EFpl6VliJkC4=",
+      "url": "img\/resources\/images\/icons\/techs\/team_bank.png"
+    },
+    {
+      "hash": "sha256-OzdwUt\/\/7R+dskzp1mTANRK7YCF6thrQAqZGRB0zGt8=",
+      "url": "img\/resources\/images\/icons\/techs\/team_bears.png"
+    },
+    {
+      "hash": "sha256-VEZL8EmhNR5FAfwxMamGBygN+uDr6eXZK8C+wvfNt6E=",
+      "url": "img\/resources\/images\/icons\/techs\/team_birchbark.png"
+    },
+    {
+      "hash": "sha256-BV9krXc6liYTBwIxBrQEWiqeLGyk1FI7ldrv2ZfWm4k=",
+      "url": "img\/resources\/images\/icons\/techs\/team_bison.png"
+    },
+    {
+      "hash": "sha256-TmVh9Lbw6J1Gc+YLE85TxknevRQLUlF2XmfaoKIC99s=",
+      "url": "img\/resources\/images\/icons\/techs\/team_carib.png"
+    },
+    {
+      "hash": "sha256-hjxOKWnte5j6fitlXEkEPx+mgkADcjBzelQe33i5wRY=",
+      "url": "img\/resources\/images\/icons\/techs\/team_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-6XdRSRlrpiRwWvbMSlzo+hcuNYIzsYBxhuo93vbgZZc=",
+      "url": "img\/resources\/images\/icons\/techs\/team_cavalry_damage\/team_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-cEG+1quZYLBFCs6focAJl824Hz\/qYwqfv4bk\/W6iQI4=",
+      "url": "img\/resources\/images\/icons\/techs\/team_cheyenne.png"
+    },
+    {
+      "hash": "sha256-SPoZcdmJdi2mABipdRUmZb9itscKGIfjSbpkSx2Pg2c=",
+      "url": "img\/resources\/images\/icons\/techs\/team_coin.png"
+    },
+    {
+      "hash": "sha256-8OpVyOss4jRElllHXnfqd9R+dGxfzb41HN4XgkDCh+Y=",
+      "url": "img\/resources\/images\/icons\/techs\/team_copper_mine.png"
+    },
+    {
+      "hash": "sha256-6YZlP7DDIej1gLttGie2zIPCmEwqtOba56JHG9GSTG4=",
+      "url": "img\/resources\/images\/icons\/techs\/team_coyotes.png"
+    },
+    {
+      "hash": "sha256-oDcDtBR2t43v85jyz9h0BhfpNLOstJolMtQg\/eeFom4=",
+      "url": "img\/resources\/images\/icons\/techs\/team_cree.png"
+    },
+    {
+      "hash": "sha256-TTOBnaFR4HGOtMqzXrv2vNBjk8HOKx1+hLnVmUmaeEg=",
+      "url": "img\/resources\/images\/icons\/techs\/team_dog_soldier.png"
+    },
+    {
+      "hash": "sha256-Q6SyYmGqgSid2KVVISGbo0nKiTjHBHcMqgWMkkjBCs0=",
+      "url": "img\/resources\/images\/icons\/techs\/team_exotic_hardwoods.png"
+    },
+    {
+      "hash": "sha256-ktduQ9Tt3cekYWPSOmIzjhaHw3It4puvTDJX4iZanJI=",
+      "url": "img\/resources\/images\/icons\/techs\/team_food.png"
+    },
+    {
+      "hash": "sha256-XhL\/eBPld1tvod09pGKHm7TgVaVh+2WoI3XXX\/osbSM=",
+      "url": "img\/resources\/images\/icons\/techs\/team_huron.png"
+    },
+    {
+      "hash": "sha256-sJsDjWZWSiHe+Ai79SQ3BSU1ut1jQW\/Kscz4oyKRKeI=",
+      "url": "img\/resources\/images\/icons\/techs\/team_jaguars.png"
+    },
+    {
+      "hash": "sha256-N8IXqSYVYnNkam2TVyos\/e0Np\/I7fszeeHpLjD99TzQ=",
+      "url": "img\/resources\/images\/icons\/techs\/team_mantlets.png"
+    },
+    {
+      "hash": "sha256-ZCdiuGKzA6IyOn2UPMp89ejAFqRaeAWXDncavN9fJyI=",
+      "url": "img\/resources\/images\/icons\/techs\/team_medicine.png"
+    },
+    {
+      "hash": "sha256-z+GfTgOg\/Je1zJIcABXuboOJ\/Po+uVRTW4V7DvZ1NNM=",
+      "url": "img\/resources\/images\/icons\/techs\/team_medicine_man.png"
+    },
+    {
+      "hash": "sha256-jqX0\/GVCpbolHMOSc0Qmy\/Bm96hOIaTiSC9L1olqPyc=",
+      "url": "img\/resources\/images\/icons\/techs\/team_monitors.png"
+    },
+    {
+      "hash": "sha256-Gmb+rnYicXlT9VIfNrsAyOq83c1Ih09ZKniPM2aiF8g=",
+      "url": "img\/resources\/images\/icons\/techs\/team_mortars.png"
+    },
+    {
+      "hash": "sha256-LVE2pyuJc2GVkXEJD45kFNpwUrKojTk32\/GYpOVWNVE=",
+      "url": "img\/resources\/images\/icons\/techs\/team_native_scout.png"
+    },
+    {
+      "hash": "sha256-54ozcACzna4005uSQ0ZevrNQVr29zqh5XRClzsboxgM=",
+      "url": "img\/resources\/images\/icons\/techs\/team_native_villager.png"
+    },
+    {
+      "hash": "sha256-9egL1T7PK2CPD0Q0i\/rEOZ1WKJxmV68cx\/BcMpQU2fg=",
+      "url": "img\/resources\/images\/icons\/techs\/team_outlaw_gangs.png"
+    },
+    {
+      "hash": "sha256-IiQPWKkuwH8t2BBJl5LHl67F9mi7WFRS7ncPvGMU9so=",
+      "url": "img\/resources\/images\/icons\/techs\/team_outpost_wagon.png"
+    },
+    {
+      "hash": "sha256-YqcUnBChjdZtsJ9R9ICJ3L5e7XMnisf388XyI3aRSv8=",
+      "url": "img\/resources\/images\/icons\/techs\/team_priestesses.png"
+    },
+    {
+      "hash": "sha256-za7sXCdn1fA8AaFr9PJ7iio17ebskd1dqnA4IWPRpnY=",
+      "url": "img\/resources\/images\/icons\/techs\/team_schooners.png"
+    },
+    {
+      "hash": "sha256-\/dnwKRSiPt3rsvNvfn5bzm\/eAJRBnvm0puEREiz8r\/A=",
+      "url": "img\/resources\/images\/icons\/techs\/team_scout_cav.png"
+    },
+    {
+      "hash": "sha256-+Tg9uERhOCfWuKpNstOqtMkVDNd\/6GQpvms6YUvEeNM=",
+      "url": "img\/resources\/images\/icons\/techs\/team_scout_infantry.png"
+    },
+    {
+      "hash": "sha256-wRjE868eBM9sxw7+C13El5GZe5\/ntV7W7vhiwerEQ6k=",
+      "url": "img\/resources\/images\/icons\/techs\/team_silver_smith.png"
+    },
+    {
+      "hash": "sha256-3VQlG1n7oClM3yXiNPC+J3NbhFHY0kDFA41qyIqeGnM=",
+      "url": "img\/resources\/images\/icons\/techs\/team_spahi.png"
+    },
+    {
+      "hash": "sha256-DfBlspEltfyufoXUKv9XoyuxLMJ3tT6prHo1qzp96vQ=",
+      "url": "img\/resources\/images\/icons\/techs\/team_spies.png"
+    },
+    {
+      "hash": "sha256-ILgYuu1qwo+cQhwXWxJeEBXURFXJulJo5fzHMWWFAKg=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/ch_teutonic_town_center.png"
+    },
+    {
+      "hash": "sha256-VC9pnfT\/okxKsdlT3Q2CZGR660Qf4mSAqfNGyX9ZAuE=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_archaic_soldier_training.png"
+    },
+    {
+      "hash": "sha256-B06Inni7WS\/mJUlaWRGaOLK5g3ZBF2R5PWJUzTDqHns=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_artillery_damage.png"
+    },
+    {
+      "hash": "sha256-4akkZWiI7GV4Nqw4fkaRp8OmC4Vd5cA4+x3n4\/\/73Gk=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_artillery_hitpoints.png"
+    },
+    {
+      "hash": "sha256-G0vWak5ug4NMo9ra75zmW9n1BWV2g5dQI4yui1ZL7so=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_barracks_hitpoints.png"
+    },
+    {
+      "hash": "sha256-hpDq4edOmJ4ahkjIbDdNC7fMAddEKoXwASVoWftspDg=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-Htk88abj7K9RnYqO+O+RQcfruqd1U93CtWMXfyCLbfM=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_cavalry_line_of_sight.png"
+    },
+    {
+      "hash": "sha256-dEZwyUDCC1TEGWCE++vj8mu9L1UnqyXpYr7BEgR4OoM=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_cheap_barracks.png"
+    },
+    {
+      "hash": "sha256-QUTPEt2aftJkpoYqmt7S1PKtFsjba2\/oBzOKn0Kseqg=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_cheap_church.png"
+    },
+    {
+      "hash": "sha256-fCfQG\/23OaYf5180fWDuQlwxf04T1QHV\/PcESjxWPRY=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_cheap_docks.png"
+    },
+    {
+      "hash": "sha256-o3H9dmEr2xaeC1O8cdhxIIIzaUnXXZLUmGZ2YSgE\/vA=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_cheap_outposts.png"
+    },
+    {
+      "hash": "sha256-tbPCCbSocKf3FwhC\/JMXi\/CnTNLuN5pOZoLJJAhWQ30=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_cheap_priests.png"
+    },
+    {
+      "hash": "sha256-R6amVX1\/zeqMwvKeTo4JcZWRU6FzO8nzcfgR4m5aT00=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_cheap_stables.png"
+    },
+    {
+      "hash": "sha256-2gBCZ3QcqbWHOzgUNWz80l4\/u74JSXJI19CWmgJf6WI=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_chest_of_1000_coin.png"
+    },
+    {
+      "hash": "sha256-ha3Wkv2qSZ+8LFREJUGkZ0PphjQKKqixGAYsLziVnX0=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_chest_of_600_coin.png"
+    },
+    {
+      "hash": "sha256-jPALdlkuzjeiXzvk8cksXuwy8niXSrrcvoIoslsVDB8=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_coehorn_mortars.png"
+    },
+    {
+      "hash": "sha256-xxyzPrHOfhsdrYbkTfJVMao2WI8Onp1vOLaGEnEVbv4=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_cold_water_port.png"
+    },
+    {
+      "hash": "sha256-rGJq36v69R5j8VxEms3AcbBboFYrWeYDG2om1MTCJRQ=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_conestoga_wagons.png"
+    },
+    {
+      "hash": "sha256-VrQjj57Cl2mWrw4GxtXtvyK9ZHMBtMn39y\/T46fKp08=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_dueling_school.png"
+    },
+    {
+      "hash": "sha256-2PnX3m2N05tOB7U1YVpmPVRE\/VTaNbiZPaQfMB6ZaGQ=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_explorer_combat.png"
+    },
+    {
+      "hash": "sha256-BVEnaTHZ9vBgeePpBhMghvtATtzUE1p0gRN\/emh\/F\/4=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_fast-building_houses.png"
+    },
+    {
+      "hash": "sha256-g8Arzi3N4ThpUNgHcx5Bl\/jSBQwwdaj3Ea0mQbY0nu0=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_fish_market.png"
+    },
+    {
+      "hash": "sha256-mxIuVDpgubrVuHbAoAFJleb\/DjBw8wGIVgfv3viZg88=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_food_silos.png"
+    },
+    {
+      "hash": "sha256-kbY8M+r3nDNn4+nGJyWbgS\/LAwIL9DP5vzTMwzBpMtA=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_furrier.png"
+    },
+    {
+      "hash": "sha256-iJT9Zkl0mQz\/\/tlsD8EhV2aYo8cUeduRjg4PZeeaGfE=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_gunpowder_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-LsSCBdK2+OuRzytqESEhiFytru4vpbUiQVYOsIwvJ3Q=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_hand_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-YtT2W9iL5pozDuio1sngA0J+OZbHoWEqrPPbBUj9CqI=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_hand_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-Shg9iQK5SVEYoF3zq7\/Bh0zM8Sg0jCdod66olQd5JRw=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_improved_native_warriors.png"
+    },
+    {
+      "hash": "sha256-eHMNo+BXOhW8togC7smTDrX1aEkoXZpfkt8j4gbBPR8=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_improved_walls.png"
+    },
+    {
+      "hash": "sha256-hmSkYJcDxWwDhvGJd0RkZrV6GMR0Vy8M\/V+mTsjKkOs=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_infantry_hitpoints.png"
+    },
+    {
+      "hash": "sha256-uNsB0WqOgnKv4Ln\/HpUTxxJ3gAvepAuUZzcyWZIQqJ4=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_inquisition.png"
+    },
+    {
+      "hash": "sha256-PC8aE1nf278A0JGsCSa9jqnotGl8AEJ0FRowkyF\/0JM=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_iron_monger.png"
+    },
+    {
+      "hash": "sha256-H2T0pa3gG+\/d399s319YB87AcfwsjvarkIxao5xYmIQ=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_monitor_combat.png"
+    },
+    {
+      "hash": "sha256-YNvDg8uDi2VoUufz0CWlYpPbSJPFgsOHL2TioHIRs30=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_musketeer_grenadier_hitpoints.png"
+    },
+    {
+      "hash": "sha256-DW5R1NsxL4jotaTMjg9iqYoqp9X5cBXByQHzGo0DR9I=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_ranged_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-Oh5oYZVsF62O3ICNhlt80cTqlPGmRh4mhbYvkl49KCE=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_rum_distillery.png"
+    },
+    {
+      "hash": "sha256-O+8E50Qwk+7NP9m1e1w9ltRqGgAl8q43xqxWS4piFBM=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_sawmills.png"
+    },
+    {
+      "hash": "sha256-pON7z3RbKekc2LVup9kGTv7Yyc2hOEwkcSS9\/\/Vr0uY=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_sheep.png"
+    },
+    {
+      "hash": "sha256-rA2Ogrmqjvzq6\/jkeipsKgKupIySAywyBMYqdGxjw+E=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_silk_road.png"
+    },
+    {
+      "hash": "sha256-Br2henS8BgAaLpe93B6pgY12AeuvaQUaY\/6FwzfAOV0=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_spice_market.png"
+    },
+    {
+      "hash": "sha256-T\/zdsv\/p6l3AbUAZrqOvQU6aOFm0Oa8U66J8xm6wYsg=",
+      "url": "img\/resources\/images\/icons\/techs\/team_techs\/hc_surgeon.png"
+    },
+    {
+      "hash": "sha256-+Hjf3J5t3Q00T6nd3Y9UD+bgcQfsR4sqe+rtqKkTxUo=",
+      "url": "img\/resources\/images\/icons\/techs\/team_warrior_priest.png"
+    },
+    {
+      "hash": "sha256-UXx00EJBYYFCdcGjJnkPXVGlurvNn4eJjaUp3H5C4Lk=",
+      "url": "img\/resources\/images\/icons\/techs\/team_zapotec.png"
+    },
+    {
+      "hash": "sha256-JLDw6YECb4Y41G6h7z2iEBMWRm80tmw2GPefZMACdVc=",
+      "url": "img\/resources\/images\/icons\/techs\/thin_red_line\/thin_red_line.png"
+    },
+    {
+      "hash": "sha256-9Ex6Vh9DmeIo8+WLxgxDEnJqy9na6vlCIdGDqcSKYeM=",
+      "url": "img\/resources\/images\/icons\/techs\/tillys_dicipline\/tillys_discipline.png"
+    },
+    {
+      "hash": "sha256-yc08B4v\/1AY7LvIgIdEWfNZfauFr1TroB67Lr11Cqzw=",
+      "url": "img\/resources\/images\/icons\/techs\/toledo_swords\/toledo_swords.png"
+    },
+    {
+      "hash": "sha256-2QXevN6ALnu4lyDcTI7Ma+orqXsPs0DEbSVK1cWK5X4=",
+      "url": "img\/resources\/images\/icons\/techs\/topcu_corpse\/topcu_corps_64x64.png"
+    },
+    {
+      "hash": "sha256-Relb6vyLOr2KsG2zwVknTccKCA7pyV\/93UgQmVuTcyA=",
+      "url": "img\/resources\/images\/icons\/techs\/topkapi\/topkapi.png"
+    },
+    {
+      "hash": "sha256-ilpvIrhGy5XcEP+1MyqBg37gGrCSwWHsDPEkXxp7JPQ=",
+      "url": "img\/resources\/images\/icons\/techs\/towncenter_icon.png"
+    },
+    {
+      "hash": "sha256-w0NBZUiTSjoWrthi+YPxZL59cPuqoA5Adg+ClSIAYmU=",
+      "url": "img\/resources\/images\/icons\/techs\/town_watch\/town_watch.png"
+    },
+    {
+      "hash": "sha256-qv8uQ2cFra5r25+vQP9FwwwpVZsX1RVnprCeAm\/YUFw=",
+      "url": "img\/resources\/images\/icons\/techs\/treaty\/treaty.png"
+    },
+    {
+      "hash": "sha256-qfB2+D5pvKf1HRPJ038xWvdVFJIJ3OvuA3NnUJn42HE=",
+      "url": "img\/resources\/images\/icons\/techs\/trunion\/trunion.png"
+    },
+    {
+      "hash": "sha256-KlQ5RQW++Broxxki4JxcSbtIfB3oovSXy+E8tjCUW3w=",
+      "url": "img\/resources\/images\/icons\/techs\/tufanci_corps\/tufanci_corps_64x64.png"
+    },
+    {
+      "hash": "sha256-XoQ7TUHrlfjauga5CKpaEKj3wxPHmAIa13QifUPj6KY=",
+      "url": "img\/resources\/images\/icons\/techs\/unicorne_mortars\/unicorne_mortars.png"
+    },
+    {
+      "hash": "sha256-9R4ObE\/L20cglbV9zT8bBq1RdpA\/JftIPjrbS9qRxn0=",
+      "url": "img\/resources\/images\/icons\/techs\/unused_ hc_native_diplomacy2\/hc_native_diplomacy2.png"
+    },
+    {
+      "hash": "sha256-YnsU3GPO6zcxz+FbaTGzsnmQKhFgqPYP23doowTtdj4=",
+      "url": "img\/resources\/images\/icons\/techs\/veteran_archer_infantry\/veteran_archer_infantry.png"
+    },
+    {
+      "hash": "sha256-hU3C2mVRC912DfZEtY1ixEcdRxAQugu7+zEjNmjGldo=",
+      "url": "img\/resources\/images\/icons\/techs\/veteran_artillery\/veteran_artillery.png"
+    },
+    {
+      "hash": "sha256-Y3BNQCSr4AHv5rM6NdEP1g7XoCIuZyGV15RL3N5RYmI=",
+      "url": "img\/resources\/images\/icons\/techs\/veteran_cavalry\/veteran_cavalry.png"
+    },
+    {
+      "hash": "sha256-G7AhPh55eLaWTG4kilwXw3Vb7asW\/rwcajNqwhSOBOY=",
+      "url": "img\/resources\/images\/icons\/techs\/veteran_crossbowman\/veteran_crossbowman.png"
+    },
+    {
+      "hash": "sha256-OlrR6pXvkH0zxoLBehIucaBtyOiiqChRcMKKHIDzRNY=",
+      "url": "img\/resources\/images\/icons\/techs\/veteran_grenadier_artillery\/veteran_grenadier_artillery.png"
+    },
+    {
+      "hash": "sha256-Ge4kV7KmT5bTobPi+DeFpPHCDSeCuBow\/\/Qryv6UiIM=",
+      "url": "img\/resources\/images\/icons\/techs\/veteran_infantry\/veteran_infantry.png"
+    },
+    {
+      "hash": "sha256-3AaLCRo9nVpvZgZtImc6ODBew5F6g5uKMG4fJIn5sco=",
+      "url": "img\/resources\/images\/icons\/techs\/veteran_navy\/veteran_navy.png"
+    },
+    {
+      "hash": "sha256-8PR2vYY+l82icKVzacWHZFkLgWPa5Lge+AccHqyz8Lk=",
+      "url": "img\/resources\/images\/icons\/techs\/veteran_spear_infantry\/veteran_spear_infantry.png"
+    },
+    {
+      "hash": "sha256-IDb9g6mo5WmEOBzFaVsBNV\/nKzHjMe9IKMq4v4AySo4=",
+      "url": "img\/resources\/images\/icons\/techs\/veteran_sword_infantry\/veteran_sword_infantry.png"
+    },
+    {
+      "hash": "sha256-ARy2\/gnT\/mcFfKv2Kvj5Ih2Hw0pq3k3Bto4i9RD8Pys=",
+      "url": "img\/resources\/images\/icons\/techs\/voyageurs\/voyageurs.png"
+    },
+    {
+      "hash": "sha256-VWa1uEId3M\/FKujaJTOyCYsy4ED2ntVk2gm+rfLW3V0=",
+      "url": "img\/resources\/images\/icons\/techs\/waardgelders\/waardgelders.png"
+    },
+    {
+      "hash": "sha256-XsiV26odVo73HXg6TVpC9QXdAy8kIzkSeNxDDSLx9cM=",
+      "url": "img\/resources\/images\/icons\/techs\/waardgelders\/waardgelders_icon_64x64.png"
+    },
+    {
+      "hash": "sha256-BVdPhpsjONG0Hk\/lomrmPGs\/EJEeA09IzLxXRKUHKH4=",
+      "url": "img\/resources\/images\/icons\/techs\/wallenstein_contracts\/wallenstein_contracts_64x64.png"
+    },
+    {
+      "hash": "sha256-OKeQ+ukf2izv4ZsqSjiX+99r30F1Z2jQrNBNSjOuIMI=",
+      "url": "img\/resources\/images\/icons\/techs\/warrior_society\/warrior_society.png"
+    },
+    {
+      "hash": "sha256-0pQ89d3qfPzC9uFIabKbtUdrL+hAPptMb2ueJaFHUew=",
+      "url": "img\/resources\/images\/icons\/techs\/water_power\/water_power.png"
+    },
+    {
+      "hash": "sha256-NGEjlNOW3xOHW5DenUMssLlJtcp6nvs97d\/ndYNsEZg=",
+      "url": "img\/resources\/images\/icons\/techs\/westernization\/westernization_32x32.png"
+    },
+    {
+      "hash": "sha256-ZXF5uqXf3RaGcpBE46zLn2pUjrOWGdcc\/oLDxQuwnEE=",
+      "url": "img\/resources\/images\/icons\/techs\/westernization\/westernization_64x64.png"
+    },
+    {
+      "hash": "sha256-KTJPbv\/BxyjNrnsUoYdYxkNVdabxKalUm+mV09sOQnU=",
+      "url": "img\/resources\/images\/icons\/techs\/wild_geese\/wild_geese.png"
+    },
+    {
+      "hash": "sha256-E3WDPOUzvLY+NFD2FyEAxaE5zXiZhRNN8KGiU1gpIQQ=",
+      "url": "img\/resources\/images\/icons\/techs\/zweihander\/zweihander_64x64.png"
+    },
+    {
       "hash": "sha256-7zDJ0m1ZAfvmcQBZVqB3Or+SvjhbhbRuwStdgJ3I3hY=",
       "url": "index.html"
     },
@@ -6609,7 +12633,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-nGO4EvCZk\/RqQpV9wICMGorjULAkIBDa1\/SBDZy+q+4=",
+      "hash": "sha256-h6DI1PKfD65bkyjPJeCZSGbKO8wQlv7pCi8O5GCxHQc=",
       "url": "_framework\/AgeOfKarten.dll"
     },
     {
@@ -6721,7 +12745,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-GwowIvhjOooYheUIutIyf0G4Icjj39w1CEZEBraJuvc=",
+      "hash": "sha256-PsKDuWMvYtlRYgdt0iDLWadblCUHqqfqaPLK9iLF7yY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -6729,5 +12753,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "OSZSL\/Ie"
+  "version": "O2UBfj8w"
 };
