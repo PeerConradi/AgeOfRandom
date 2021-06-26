@@ -12633,7 +12633,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-EzuffL4a6Yd9bPmSzTRSTUfvjExfIKAJLcDhM1I53C0=",
+      "hash": "sha256-gRe3AI7whJ\/oW3XV1mxwkIGXxvI+Jhh7vk9PIbIkg3A=",
       "url": "_framework\/AgeOfKarten.dll"
     },
     {
@@ -12745,7 +12745,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-KrSnPX61PB7cYa778gZM3un97emV1xwYcMUB6A2SygE=",
+      "hash": "sha256-ASj7Zd1tJL9hpkwCnGn7ocE9wPDF44DUp0J3SDhJuos=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -12753,5 +12753,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "f08SJWY6"
+  "version": "BP67hSHx"
 };
