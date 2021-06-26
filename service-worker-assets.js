@@ -3733,6 +3733,2774 @@
       "url": "img\/resources\/art\/units\/warrior_icon.png"
     },
     {
+      "hash": "sha256-x4NZ8lmjaBpPD0q73BlH7zHbaNPdnD2AW9jIjbHGV58=",
+      "url": "img\/resources\/images\/icons\/flags\/Flags_Square_Random.png"
+    },
+    {
+      "hash": "sha256-ecwWwPVFbq6tbrhKXNMArtAKaYKe+PsXUWU2HHh17cY=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_American.png"
+    },
+    {
+      "hash": "sha256-nu8bd7UZubYVzet+jid1G6Ho8E64K5dAUvCXxCbvhN8=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_American37.png"
+    },
+    {
+      "hash": "sha256-Qor2\/wgovQu7Vs3ELJw0MBjqiI9eKc8SEGUVBt1kXQ8=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Argentinian.png"
+    },
+    {
+      "hash": "sha256-4vPs70fDyEpnVFZDsohs3EksRcK1kPIpxi73fiVrk7U=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Aztec.png"
+    },
+    {
+      "hash": "sha256-5HiTl+4s7jtD8PrXV5HpuiG1L3EShnLROQZEDMX2Yvw=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Barbary.png"
+    },
+    {
+      "hash": "sha256-2AmMR6DEnEaSgNzkS5\/uVp6twZxE9Y+2PA6dnX4uyJQ=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Black.png"
+    },
+    {
+      "hash": "sha256-U3FZLKiEGO2UTc4gMyf3aZ26myIm++VshE07zeXM9+Q=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Brazilian.png"
+    },
+    {
+      "hash": "sha256-fiAO9rWdCooiC7bGCcVynbBCfNpEanOmJ+aIaAHrtkc=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_British.png"
+    },
+    {
+      "hash": "sha256-ttw2tIuSjbRlsJ7uzzMpuGn+LZIY+1T5gUk6dNr6z5E=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Canadians.png"
+    },
+    {
+      "hash": "sha256-ojHQTPKaLHrIPT6X9lzILJ7MRWPUU8C6RprfNwaBllY=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Chilean.png"
+    },
+    {
+      "hash": "sha256-DDxOUnvmj+l\/NITOxqDmZbP5IpyLMDyKD0sjUvTyLY4=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Chinese.png"
+    },
+    {
+      "hash": "sha256-X8xSDw+WjX04EiCILjo\/boJIDMG6jSubyaz2g\/F+a7c=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Circle.png"
+    },
+    {
+      "hash": "sha256-5WIj2A47ud9Ci71aYkxlKXwiyoqjpfqsqd0Z4FU0j3M=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Colombian.png"
+    },
+    {
+      "hash": "sha256-Kb7NBf5D4B8HY5yj7dAuSC3xjiOSJwm\/37vs7RFBTpk=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Dutch.png"
+    },
+    {
+      "hash": "sha256-5s91wKsqZAHeP0xBGwLx\/e8V2YqrL2dZ5qDFKwz87s8=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_EastIndiaTradingCompany.png"
+    },
+    {
+      "hash": "sha256-k3RLMpbRWS747zSYcqxfEZhuxd80dATZyETXyONk7Yk=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Egyptians.png"
+    },
+    {
+      "hash": "sha256-uOa\/SIZqPyKPBp9HXtM6emnfp8lapUl6YdPIslyrdpI=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Ethiopian.png"
+    },
+    {
+      "hash": "sha256-Aqb+bWOD\/vXp91Y+c\/XpTPrzJinKG+vFH+qwu6z\/IS0=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Finnish.png"
+    },
+    {
+      "hash": "sha256-B+qFIL2mdwIw1yEJfiZgEUKhKxlWGpS9E8KeDeat\/u8=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_French.png"
+    },
+    {
+      "hash": "sha256-Ttwym\/itCkIDfbeS6Dt9AtCfcvLGmBLB5OFt2UPKP4s=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_German.png"
+    },
+    {
+      "hash": "sha256-ZFEYqsUezBaJwcNXxkQkI74NhMvjM6YDgAzrYqBQLWw=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Haitian.png"
+    },
+    {
+      "hash": "sha256-wZ2RC9OhhtckFYK6cRh70eCwZB\/sHBhX8eq8G717gQk=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_american.png"
+    },
+    {
+      "hash": "sha256-0C3EKguv9Z6hMutmoRxlDVrQ7WWrxTaHmXN+b6RESI0=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_american37.png"
+    },
+    {
+      "hash": "sha256-uxtoX7FNWKv8zlCErklTCgvS+HDU8Sqd+3HPyLNM2BA=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_argentinian.png"
+    },
+    {
+      "hash": "sha256-fE8c3ARLFP0ts1nO6vodGKNVeRxa+uxw\/W0gPAYGr2s=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_aztec.png"
+    },
+    {
+      "hash": "sha256-PE1eO8bIClyvluwPC415Ofd36tR5BibDkOtKKnev6Jw=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_barbary.png"
+    },
+    {
+      "hash": "sha256-ceQiIC5KyUv58gcLpVYYeOIz1LRIVgtkrQ+9TTSaGKc=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_black.png"
+    },
+    {
+      "hash": "sha256-S8VMUz9IJYRL0CSRiYSwGe4vxOSdSOUbTIFywGRrqkU=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_brazilian.png"
+    },
+    {
+      "hash": "sha256-NvQI+JlVB1SmYBQhYojsAp0lgWZMVBCtj3NqWu8v+vw=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_british.png"
+    },
+    {
+      "hash": "sha256-rGsEoSlFDhzv547u59ynATax9x95y0brw6eHZV+zyGs=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_canadian.png"
+    },
+    {
+      "hash": "sha256-hcZT58ovcAp7OqjObiuB0xJ5Ep5XAcYcmYnL+RJ6elA=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_chilean.png"
+    },
+    {
+      "hash": "sha256-KOnD6dej7Yp8M6IWSiNxK9a4GLDq8t+XpJ6\/NFRqtVY=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_chinese.png"
+    },
+    {
+      "hash": "sha256-SjPmkFLtv3PuMi7UmOrJgq4E8B+qaOg2HeDJdmvXFbs=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_colombian.png"
+    },
+    {
+      "hash": "sha256-o9zDTJEcSWFJdL9me+F9qZA5U\/jsOpiLVu6\/iZL+QnM=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_dutch.png"
+    },
+    {
+      "hash": "sha256-xD910rCDp8QJxxVvlLFZBvymmbRJDk4uQBcLL8KdkGI=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_eastindiatradingcompany.png"
+    },
+    {
+      "hash": "sha256-qbHN9w11iLI7wGfKeFA0QWZr0gCnrg6EvRXSd5w5Ux4=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_egyptian.png"
+    },
+    {
+      "hash": "sha256-6mLkLNDbyml66KVJPXUU6g6cPLuCq2z8r6x4sbyGPCQ=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_ethiopian.png"
+    },
+    {
+      "hash": "sha256-qRJlNd8Ywh3nlndE2iYsSwRLOwbJQ7Vi7SFv9NsdrIw=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_finnish.png"
+    },
+    {
+      "hash": "sha256-UMLen7XJ6h2GPJtxUwEBLea7nOF720Mwrg\/uBKp\/aF8=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_french.png"
+    },
+    {
+      "hash": "sha256-Xlhi+ZzQNJAo75A0OOR0AYoRz9RKfjSjWWNzZIOefno=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_german.png"
+    },
+    {
+      "hash": "sha256-KBfE0CgaMhocOGowSYsdxAksFQPnaIv3Z6qHP66mTJc=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_haitian.png"
+    },
+    {
+      "hash": "sha256-TWCNH8wWey9TyTyBeuyngRNdcBMVHsqpo4JZvoqF+8I=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_hungarian.png"
+    },
+    {
+      "hash": "sha256-EuZB4dQit+6OwiigBrtcCmwuw9qb5C2C2p7leS9zLws=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_inca.png"
+    },
+    {
+      "hash": "sha256-\/CBVwricMwO1Dz8hYdT1vV\/jZc77MY3yeg8glIDAUaM=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_indian.png"
+    },
+    {
+      "hash": "sha256-ekt2gPobK+Xeqiv8PayN6l28qojcvl\/7StQl8AIg+wg=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_indonesian.png"
+    },
+    {
+      "hash": "sha256-gVCUjH88HBRhmjcn4+vCjhygjsFhz9CaJoKg2hfOFZ0=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_iroquois.png"
+    },
+    {
+      "hash": "sha256-np1vN63LMqZjS82X2427eOtrmFdXDW9KF4hr3sDslvM=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_japanese.png"
+    },
+    {
+      "hash": "sha256-0Xf\/QBR5Vnch4\/9AseOGjavfPFn8ZYfM4nB0Ms5tLbA=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_american.png"
+    },
+    {
+      "hash": "sha256-dfeRaCOsBwCkdJCCwpitlPZbvMNa6WseDGCfJDzfRks=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_american37.png"
+    },
+    {
+      "hash": "sha256-fhIAiZOvLXnEbGSsVlHSSiZXhBKQ3Aoh0BPgpPXmmPM=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_argentinian.png"
+    },
+    {
+      "hash": "sha256-U2xlB9lPztXDJpk3pVluqf3nC965MskzZ0kwt31yI1Y=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_aztec.png"
+    },
+    {
+      "hash": "sha256-qMuHdpEXsLBkdr2UycMurqgyKos\/mlqkNBMxnHHyZzA=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_barbary.png"
+    },
+    {
+      "hash": "sha256-M7CGVy3Sf0OTbqmOB+pJxxcVNnA7suUXODtwFqKYG3M=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_black.png"
+    },
+    {
+      "hash": "sha256-zLzqZEzHvJG\/ZVcmcXh163q7eXaPHBkPaQ9oJj1VtuM=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_brazilian.png"
+    },
+    {
+      "hash": "sha256-vCkDv5cp4QUKX1j17evxBe2sntee8dPpU1LIJmxjOmo=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_british.png"
+    },
+    {
+      "hash": "sha256-TUTYtCTQguna95XWx5JU23FvTsNhtWKJGFPYaEaQ4Yw=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_canadian.png"
+    },
+    {
+      "hash": "sha256-9w70WWSxo0RJ5kyH\/U67k\/zwGHb550QQYw7Wpi8PvEo=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_chilean.png"
+    },
+    {
+      "hash": "sha256-gOxhlbRuuFYYCSCqZ+UxwN21UgvwIPvmIEJCxn5AnmE=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_chinese.png"
+    },
+    {
+      "hash": "sha256-wsY\/qFrtzpzjFeyjC7h+C8sIuDTwgCkWRvGFTjU4XQc=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_colombian.png"
+    },
+    {
+      "hash": "sha256-W5SnKkYHc4P8oNoUtJfcUbOkmImWvEPqgEOIt\/nvzz0=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_dutch.png"
+    },
+    {
+      "hash": "sha256-UtJxOvf8ArEFAvp3bRSSZK3Vj9puckAdecCryOypjE0=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_eastindiatradingcompany.png"
+    },
+    {
+      "hash": "sha256-Cx9bmZcpuRE0QTv29Ew8EWxRfwpehWPU6Iz9AH\/NaIY=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_egyptian.png"
+    },
+    {
+      "hash": "sha256-VbayeuO90d1P+U6\/ld54Knd+YH\/DGo45eNBpQ2uo4K0=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_ethiopian.png"
+    },
+    {
+      "hash": "sha256-9\/GyP6jW1v5n21rHFZLpO2IoSbglXXxhtKo39AmnHW0=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_finnish.png"
+    },
+    {
+      "hash": "sha256-LBPXR9KMu79O3VpetBHrbYhg3fwYjUbB1a4oFqt8TQ4=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_french.png"
+    },
+    {
+      "hash": "sha256-iIE8ji3QsFTMtd3PtBU0qX8Cv7\/wdPJ\/Ge\/IMHDnCQg=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_german.png"
+    },
+    {
+      "hash": "sha256-uMh2b0N0CakqlC6m5uIeeYR\/zKFNu7fv21I3gDBSfhQ=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_haitian.png"
+    },
+    {
+      "hash": "sha256-IAYRdpV7jyh8iqvVpjQ+x600th3MidH0\/D+BWDie27Y=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_hungarian.png"
+    },
+    {
+      "hash": "sha256-fBhMO1chYtvcVOP+PSWCbAjoy6EEn0OLRicJTxBYWhQ=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_inca.png"
+    },
+    {
+      "hash": "sha256-29v5+jX5iJtJWeO2ZM52xoYjFwl7h7qk\/iNe8V\/cr14=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_indian.png"
+    },
+    {
+      "hash": "sha256-mle1IWGcMvF7fId9DHbS\/qc8zZprUbcMXveyO9PWxms=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_indonesian.png"
+    },
+    {
+      "hash": "sha256-3wv\/uCFvlfwoD\/q3DwhAYrumr6qbHQllF53jtD4Kn4M=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_iroquois.png"
+    },
+    {
+      "hash": "sha256-ptQBZyMEqm++phw80PBBOjAs4xEKLGXIWzp0P0NVWHM=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_japanese.png"
+    },
+    {
+      "hash": "sha256-EKva\/eAUBxcB1Rh3XKS9o5lZyL2K5HMQP8fLrtsBJNE=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_maltese_cross.png"
+    },
+    {
+      "hash": "sha256-Jl7pLcyYiAyjemkdKGlbApJ5UPZMRFlJddQKCNoclsM=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_mexican.png"
+    },
+    {
+      "hash": "sha256-sJP2AumJBElws4DaXVtTH58B\/WU34j0JKTROvUatCPQ=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_ottoman.png"
+    },
+    {
+      "hash": "sha256-hpMwAz159Jdf8GIYujixfvmg2MRvjDIEuQyGCw0j8qA=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_peruvian.png"
+    },
+    {
+      "hash": "sha256-U\/OwtUaqIsuNZftz+7EZL18D02vTMl+uo9w\/jjGHaxM=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_portuguese.png"
+    },
+    {
+      "hash": "sha256-5rURz9fLE82PslfS6XWR9bi6nI0ggSLPgCYHeS4MXR0=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_random.png"
+    },
+    {
+      "hash": "sha256-5pF8bbC1W8i9nGZbFADXCGFud\/4TfwEr4H9FUHOUlmc=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_romanian.png"
+    },
+    {
+      "hash": "sha256-l0hwwSTtGUyl5tRZbs+XN4HnpJWHLRSN1axpiiO9CJY=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_russian.png"
+    },
+    {
+      "hash": "sha256-3dgIEerH+zPd8FMbTxc3QER0q2xC\/Ga49Qe58QObaOM=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_sioux.png"
+    },
+    {
+      "hash": "sha256-lMz4Jv+gGAwMIIxpW3UcN5kuOAjE98j1EHb2EHtuhz8=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_south_african.png"
+    },
+    {
+      "hash": "sha256-z36a0cYlZo3eAXVOh6ZMl9S3imCEoQjI0P8ze8v961g=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_spanish.png"
+    },
+    {
+      "hash": "sha256-5gS4yCX5Qwk4hBKaqPWhBIE0sXPaLwRA4wV2vyw7\/lE=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_swedish.png"
+    },
+    {
+      "hash": "sha256-OslaM99hLQEub6n9n86V9UkJI2HvTeqADERjp5U9+JI=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_legacy_usa.png"
+    },
+    {
+      "hash": "sha256-67NGyYIx2\/+N\/gXwkFz2L+SnFaHZX8k6vMn02dsZDmQ=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_maltese_cross.png"
+    },
+    {
+      "hash": "sha256-4In+RhtYyykK\/V3gdWafyrjJ1Y9VTEc035ILoiv5nKg=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_mexican.png"
+    },
+    {
+      "hash": "sha256-w8hAhmlzVRO7qdWUy2OEcvFgYp5k+1CtXhKW4HEs2ho=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_ottoman.png"
+    },
+    {
+      "hash": "sha256-ZTqwkWK0YVwoTvMEOfNm2ilmytPoIzK\/Q6iTTS5Gnf0=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_peruvian.png"
+    },
+    {
+      "hash": "sha256-BwCJfgKYtqcgFDbqiRUBEtWEj9U0f4J3MXENdcW0h58=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_portuguese.png"
+    },
+    {
+      "hash": "sha256-hG1Zyo9u7B\/iWt3Pv5ztwnFluL5efvRMx+FWMtscNQQ=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_random.png"
+    },
+    {
+      "hash": "sha256-VWck7DQ7JhhuMlJX1HMMUpLXXliu\/hW9oAzLKRX3\/ls=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_romanian.png"
+    },
+    {
+      "hash": "sha256-miTyghJQ\/pTQ5699LfFdLHJgQC8oglkYfm71n1mcN3o=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_russian.png"
+    },
+    {
+      "hash": "sha256-BEr3toPRLmA\/kCNWck1+c5xth0EdaYFQG7ijIJQ47Nk=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_sioux.png"
+    },
+    {
+      "hash": "sha256-ZoJ2kGNDUMngKP20nQoziakc6jqBm33qsbkvW+Q0T1s=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_south_african.png"
+    },
+    {
+      "hash": "sha256-01GMsVDaPibptXMzxulu6iwD\/IEzuHGIebbmOqYLPN8=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_spanish.png"
+    },
+    {
+      "hash": "sha256-1NJVA1FVbLj7mjA\/L0kDHZ0YLUpnhgi3VmLydopePDg=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_swedish.png"
+    },
+    {
+      "hash": "sha256-vbdQ54hAJEYY4YXoFgCJSqCHMorFu5XzpVVNcv7t0uI=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_hc_usa.png"
+    },
+    {
+      "hash": "sha256-KKlUiZl6WGg0fIsvCtARwB1g8Qo4PObUkRFyNE5S1WM=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Hungarian.png"
+    },
+    {
+      "hash": "sha256-I4SmUld8qMrps3j8NfYMa687km9yvDwx7BP6dVxE8+I=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Incan.png"
+    },
+    {
+      "hash": "sha256-YcZ3hdI9iK1U7rKiR2bNBnkxJ9zcQuc5ubGHm5w05HU=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Indian.png"
+    },
+    {
+      "hash": "sha256-U20SM6e6S5JziNcmHTEEmSjF14I8He1tz8BvNLrwZXY=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Indonesian.png"
+    },
+    {
+      "hash": "sha256-D1vDVHVCULNhCve3pEZ1GLDknO7l1zMcNmUZfAbCj7E=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Iroquois.png"
+    },
+    {
+      "hash": "sha256-FNlWDeM4euhkJJ3bDrm+EwwabBFWizWXrK0Fj\/nHdLI=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Japanese.png"
+    },
+    {
+      "hash": "sha256-HdauKg4PDfrqJyLV9Y7XTRDMKjnQhKCUaG56OIilSl4=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Maltese_Cross.png"
+    },
+    {
+      "hash": "sha256-xp1RWOjL7UZ\/5rTkVqTGYFu3b0JKI0QzuWeMUxqcy+A=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Mexican.png"
+    },
+    {
+      "hash": "sha256-2hepuJ7EEm1ap2mCob\/exzR8MB34QjQbBwgT7RlnO2M=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Ottoman.png"
+    },
+    {
+      "hash": "sha256-v95U9cSRRbUnsvuFUlJ6G30sTuRGdYDGqIuprsFwv0Y=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Peruvian.png"
+    },
+    {
+      "hash": "sha256-Xk7xIuj3K6XodH6puJlyDeO7DoC8+Ixx9oaatveyomI=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Pirate.png"
+    },
+    {
+      "hash": "sha256-GT0dz0vFuPgptpKH7cuaYqEuHEMT3BNsVLobceIxsdA=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Portuguese.png"
+    },
+    {
+      "hash": "sha256-zhPMhaGGpGcBAIM4Fa0OdL9vOxoQGGWXaHpwJ4Uupws=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Random.png"
+    },
+    {
+      "hash": "sha256-+O96STcbdqmqx1Bm+VA7xZV2tyMEKhEGesiLPhvSuEc=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Romanians.png"
+    },
+    {
+      "hash": "sha256-SrZvidcIy0cHrEmM+z31SMsdqW4uEe7TD3yY61bfrXw=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Russian.png"
+    },
+    {
+      "hash": "sha256-kCVZAbtRO9NsMKLcomV593+CozLU6mQUZu8qNHcygyo=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Sioux.png"
+    },
+    {
+      "hash": "sha256-duATCjoHn8PTOx\/0Q4v3Sqar1mQ7\/dI61MfVEyD+JDM=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Somalis.png"
+    },
+    {
+      "hash": "sha256-Bw+ze7KxoxLhGfsMry2G52F7XWd2kIhJgn7oWUsuFrc=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_South_African.png"
+    },
+    {
+      "hash": "sha256-f\/vTQmAfxRSaEg6hHmnIjLeng28JlIXxm+V0TfhaS7Y=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Spanish.png"
+    },
+    {
+      "hash": "sha256-RUiox1LOuEVcz4k8AfpckBaHnSvkHYd+QnPduek\/EeQ=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_spc_pirate.png"
+    },
+    {
+      "hash": "sha256-LvroB+INBe94rQVKUZ0apxvi0HKOfrCcBFH0BOdSrgY=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Swedish.png"
+    },
+    {
+      "hash": "sha256-Fdiz8fM6PA25ReonCrTKeTTiCEJdoWqgPIuv3lrtzRU=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Tatars.png"
+    },
+    {
+      "hash": "sha256-R1zZbQ+iwPlf3TSh8+XhGG628PitAFzEd5WZxwRTgL4=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_argentinian.png"
+    },
+    {
+      "hash": "sha256-E4lSabPlL1DSrUpPbwSoGB3D7uyEmQsvMNyd1elf\/OI=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_aztec.png"
+    },
+    {
+      "hash": "sha256-RasF\/9BBC6K5UDSOoNE26urXGE5b5AuBKqHQXEMUBpA=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_black.png"
+    },
+    {
+      "hash": "sha256-h0Bn2XpYZNsUU08TBhqvPmnPYsrwdNerFFET6enLCp4=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_brazilian.png"
+    },
+    {
+      "hash": "sha256-++kOX6PLnRliJh0e86IBNVWOSTg2oCQwE8\/39LzWjNE=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_british.png"
+    },
+    {
+      "hash": "sha256-pm4qTkTj7zGW8B7dqZH+h21wxh0gnYJgnGsG0NYbAdo=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_chilean.png"
+    },
+    {
+      "hash": "sha256-zUcjNf4\/OQ9l+dtDcwW25AfwncuJ7qi0ISJoYp72YPQ=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_chinese.png"
+    },
+    {
+      "hash": "sha256-\/X9y8NWhXkoDJ2v+j8YanOhHEuTbUt7fMvaCF6KavpU=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_colombian.png"
+    },
+    {
+      "hash": "sha256-vIzi5SMYYlh1\/N5XWcdi41rIis0RyAi\/U0feCvKVuKw=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_dutch.png"
+    },
+    {
+      "hash": "sha256-BZZ9GJ5K9yRqDbsGRiDfb2lOMomb09K6zu32Fh+DxB4=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_eastindiatradingcompany.png"
+    },
+    {
+      "hash": "sha256-Ymvo44vgW6rYh3dswiN0ZTVsVbgvE\/9WOlKy5DVAje8=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_french.png"
+    },
+    {
+      "hash": "sha256-ptcHLEbS6Znhg6HEgSrHc0DhYk+M1uf3s5nDLKF+2Y8=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_german.png"
+    },
+    {
+      "hash": "sha256-ZBROBERMxF7sJ8treJJwC2X9i8f4hz309rxn4KZj\/lw=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_haitian.png"
+    },
+    {
+      "hash": "sha256-LqgG9vdDWrTtdlHoYUzaBVxkRgxNcBsBpIZ8IUx5P0Q=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_inca.png"
+    },
+    {
+      "hash": "sha256-Cu4U8q0IE76rAKzxbjqxwJh\/CfIzaDkTDT0DY0fi+jM=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_indian.png"
+    },
+    {
+      "hash": "sha256-gI7cTGT2oYWzuqn0cJuHq5DKHO86fpK60NDUK+cpb8Y=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_iroquois.png"
+    },
+    {
+      "hash": "sha256-D9R9uUoB6YDb2q60THVLEW77lgoZEKBGwX7w1G\/eFVA=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_japanese.png"
+    },
+    {
+      "hash": "sha256-0mExBKJXmtH8CBq0Jxwnxn4js5PepScb+ve4Paw1Tqo=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_mexican.png"
+    },
+    {
+      "hash": "sha256-Pefcyuoj5oCt\/fiqGW1CK437oB1J7FD\/QDLSZ6wsld0=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_ottoman.png"
+    },
+    {
+      "hash": "sha256-NPpZCBGTyPRFSeL3uRjsrw3gttNdBugg1A7qgBeoD08=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_peruvian.png"
+    },
+    {
+      "hash": "sha256-XYwRj8I1q7pl8R4nqFE9NpYs1oGGHtuLgKVyFACyJsY=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_portuguese.png"
+    },
+    {
+      "hash": "sha256-4OZGmzvursOp98ubhChGredXbjVmKbCkY8i2lS8CVPY=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_random.png"
+    },
+    {
+      "hash": "sha256-OSti5+35vwn49dGSoyFP\/vnpmB1WU7LqWl5fjJsfjhE=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_russian.png"
+    },
+    {
+      "hash": "sha256-bLoePWqQZasv3GVoj3rRkd3rlFoVm+GqSyjbdr0LjWY=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_sioux.png"
+    },
+    {
+      "hash": "sha256-WAJblpvxa5QMI52MySPg+RRvf1ltwP7WxjKwLm3Mv4U=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_spanish.png"
+    },
+    {
+      "hash": "sha256-Jwck+wACsmi9oalTlt2TJyI8VvZOMPs0OeIf2PagIJg=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_usa.png"
+    },
+    {
+      "hash": "sha256-AvnSTvhAZDhrfqji47o9tT5uq0NfdXGG557c3O5eYVw=",
+      "url": "img\/resources\/images\/icons\/flags\/flag_thin_right_usa37.png"
+    },
+    {
+      "hash": "sha256-FNlWDeM4euhkJJ3bDrm+EwwabBFWizWXrK0Fj\/nHdLI=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_Tokugawa.png"
+    },
+    {
+      "hash": "sha256-VyxGzeEWgz8liL8gAAe5q1VXhctlBgatsmrl0OpCFm4=",
+      "url": "img\/resources\/images\/icons\/flags\/Flag_USA.png"
+    },
+    {
+      "hash": "sha256-cLW942Tg617\/B54fXHL+KnJYlAvsHn+9xA4wxDBz1qE=",
+      "url": "img\/resources\/images\/icons\/flags\/japan_spc_enemy.png"
+    },
+    {
+      "hash": "sha256-qZdE1tkfwzr0btFEPQl9HROr\/15OCgQyb03oXdpTaOU=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_american.png"
+    },
+    {
+      "hash": "sha256-ISg8JA4gylda8334v9uT8J3qWYu1+jpHESqAO4xpLtI=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_american37.png"
+    },
+    {
+      "hash": "sha256-IqIUS4Ukh19aFlT\/CUOqAZ5mHkvl7e7wol+JUrWxm3c=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_argentinian.png"
+    },
+    {
+      "hash": "sha256-eotdHDyYLG9IafZEmZDdhrL9aZGnQvEUj3+061Ta2F8=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_aztec.png"
+    },
+    {
+      "hash": "sha256-5wdZfucH+jRLpxuyhDjLjrnZF6TqRIAYmWww\/Z53i7U=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_barbary.png"
+    },
+    {
+      "hash": "sha256-Q8wGnMgHW67I\/Q0VQqbvfi568WsFTmpPqLabiMwMzVM=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_black.png"
+    },
+    {
+      "hash": "sha256-f3Iz1a3Jo7KwBpt0nH8BhUOYJnyjWtswDWEddiF5Q50=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_brazilian.png"
+    },
+    {
+      "hash": "sha256-5LqBaJvWPcJGOfJ+\/Lt+niSTqpddxZ78qodIDAgwZS4=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_british.png"
+    },
+    {
+      "hash": "sha256-\/HYKgjpNTZtE0mMVPdbN8HaIiI6kyICqvsnqg3bUFlY=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_canadian.png"
+    },
+    {
+      "hash": "sha256-hn+ZPnmRkiJBrfmM3JrpWXQAxPfrXiiLjokwsnx+DgA=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_chilean.png"
+    },
+    {
+      "hash": "sha256-W1UeT+mc0754mck5N6pIw3v14ikgo0q7zT8CSzeM\/eM=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_chinese.png"
+    },
+    {
+      "hash": "sha256-KanFryWCgBFQx7RtMwAMoBfwV27pJ0zuT\/J5iAJhrX0=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_colombian.png"
+    },
+    {
+      "hash": "sha256-pPe4fok\/7Zvkmkfugo\/2ZKo7MDB2M0h+2\/rc564U5EU=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_dutch.png"
+    },
+    {
+      "hash": "sha256-QKdSHRUf5utnFuqm6pfyPI6E7g+Nt3QcntY5TJiiz14=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_eastindiatradingcompany.png"
+    },
+    {
+      "hash": "sha256-wZh5Jq3Y8kg5DjqLou3lwAY8xQedlQMrAe3WWEArk+s=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_egyptian.png"
+    },
+    {
+      "hash": "sha256-E1WHAsCQVx6ZZHtkvojOI+L2fz+werGS82CbXMWVCWM=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_ethiopian.png"
+    },
+    {
+      "hash": "sha256-1Gim+Jz30XfqMyN00v9GXU8rd0GEUqOSPLbuVp5x4o4=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_finnish.png"
+    },
+    {
+      "hash": "sha256-\/Fyi94HKNIZpNBwBci4Pas4kt\/B9n4I43nFthvr3hBM=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_french.png"
+    },
+    {
+      "hash": "sha256-oTHpagTc4qYBqvbFDZiHdvg7OhF5AYZV61vajwVszVU=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_german.png"
+    },
+    {
+      "hash": "sha256-8RHUlIzWdwXHX1vg36XcuxNJATZDDVWrqEErbwYzoKs=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_haitian.png"
+    },
+    {
+      "hash": "sha256-yxA0mXtf64HXN65fNzyTnw2GydYtP9VvtRIKsZCu520=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_hungarian.png"
+    },
+    {
+      "hash": "sha256-S6P3pvnDpWdC\/j1DdzlgZEMRDwzk81zFITWLt\/O1F5Y=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_inca.png"
+    },
+    {
+      "hash": "sha256-YrkXVQb1pbPD8lEF1IWZtP4MyNIs8TYjJoyPdrAvbiw=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_indian.png"
+    },
+    {
+      "hash": "sha256-JFs4jRNCehKtp7qSIMEMd0vrU45bRTR0uAWrJ0azjJw=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_indonesian.png"
+    },
+    {
+      "hash": "sha256-Jz+RtM\/F474WjZdqxfmaY5xqIQmEVpKX+U9dh0VYWP0=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_iroquois.png"
+    },
+    {
+      "hash": "sha256-8GB8Yodhi8QnSH2I5W5xnoGZLku3TJT6WvuPQ+tDVfc=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_japanese.png"
+    },
+    {
+      "hash": "sha256-ru\/k423JDW\/3bKG7afQehOK6ndHaR5nejW9alLK8T0g=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_maltese_cross.png"
+    },
+    {
+      "hash": "sha256-4eoNn\/thnYW2bu1hh1jswu9qE5sc3P7qjuj3RC8cmlc=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_mexican.png"
+    },
+    {
+      "hash": "sha256-1hbFOXC3budolRURPHXcj5K\/Uat0YTgYT14v\/yMZHBU=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_ottoman.png"
+    },
+    {
+      "hash": "sha256-QEv99APU+dnVwKbM\/fCaAJjufGWw4NfhGM0I7YkZvs4=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_peruvian.png"
+    },
+    {
+      "hash": "sha256-eCkHpZQTuf5kfXERpxmxewoN8RnguxI1\/glX3oL36Uw=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_portuguese.png"
+    },
+    {
+      "hash": "sha256-YX+aIpPFHarZBv0Td0MHVPVegsGdpgXPRzRWKYOe2T8=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_random.png"
+    },
+    {
+      "hash": "sha256-QEw68zxkgt2q6M2jrxwLFzdItEMV1nvqbl89RReAYZs=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_romanian.png"
+    },
+    {
+      "hash": "sha256-hSPyVJth105\/0dWfNxV2LejYQM3VS\/7Y6T+EKRa5oNo=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_russian.png"
+    },
+    {
+      "hash": "sha256-GaRXlniQ1jLVDlOTFXgDaQqUwCG\/5FgllKg62y06M10=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_sioux.png"
+    },
+    {
+      "hash": "sha256-5isdyaeuZAbz2XS61cXf9ghia41rVNgAqIMgKvUHdUA=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_south_african.png"
+    },
+    {
+      "hash": "sha256-ZiR0QGrxwgcDwqW0ugSK87q5qXJ17Zk+7qn\/Kl4qs\/8=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_spanish.png"
+    },
+    {
+      "hash": "sha256-sn1I\/SpRWPZhUt3pSCeSI2fxQi0n8\/69hd8r\/bu0Ho8=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_swedish.png"
+    },
+    {
+      "hash": "sha256-3I8j9rWyexHX8MzPxLwafhiA21+lI94cokLSfH3Uc94=",
+      "url": "img\/resources\/images\/icons\/flags\/postgame_flag_usa.png"
+    },
+    {
+      "hash": "sha256-0zkI5gkpoJC6+LgzOh\/EDikk9zJwlAj446WXNNhmhPk=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Argentinian.png"
+    },
+    {
+      "hash": "sha256-GHM\/ZM9dkT8FoUxXES4+zc0BSWk1SoZgkRnZemvshB8=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Aztec.png"
+    },
+    {
+      "hash": "sha256-t3TxhPfhU4uC+\/y7us6YC\/Qg6XwJ31pP3CsiV0ClqmY=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Black.png"
+    },
+    {
+      "hash": "sha256-1XVk0PQ15M3oDbfRhLyS16FBWB5N0bftvf9FJr7p84Y=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Brazilian.png"
+    },
+    {
+      "hash": "sha256-KJnQg6zW3sA8muOU69OzmFMZ691TVeerVF+uyK0FOs4=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_British.png"
+    },
+    {
+      "hash": "sha256-exqMBtqSLex525vGDtOnaSTR3a0ruscELj613R8kdX8=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Chilean.png"
+    },
+    {
+      "hash": "sha256-mTmTgAJNjBoIIrqZgQJRNo3ccXTlHOXn3BL5ZPFxpFY=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Chinese.png"
+    },
+    {
+      "hash": "sha256-s02cukdkB++ckUpW+1UIsEgD2AWBtaUOTxLZYkortkw=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Colombian.png"
+    },
+    {
+      "hash": "sha256-95JlnMwuxr2H1jF2\/Y5rCikX82tp62teA58itQZYO3E=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Dutch.png"
+    },
+    {
+      "hash": "sha256-Ax+lIlQyccNNB2DiKDop57bDJExGyGa2bSMzEOEcDKc=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_EastIndiaTradingCompany.png"
+    },
+    {
+      "hash": "sha256-e9GSTIsy3rgG3maXtOSA\/w+q2uiCdltye7UdanEosbw=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_French.png"
+    },
+    {
+      "hash": "sha256-HwGRjnaYj\/opgQCB3E+aeiLkHLSxljd9MZSDaOinN\/I=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_German.png"
+    },
+    {
+      "hash": "sha256-q9XXWzLOULXDC68eCaWhn9JP5w9JVvmWCOBFerWrzjE=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Haitian.png"
+    },
+    {
+      "hash": "sha256-QkvlL6wk7CXv2ZK5f7XETJBP9TLnCbhN93oWXOmXpKM=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Incan.png"
+    },
+    {
+      "hash": "sha256-2VwYHtC5YtLvReyEMBpP\/E8QJjy7T1RKLqiKYcx3\/Ws=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Indian.png"
+    },
+    {
+      "hash": "sha256-BinbiUAjYpVJlhWDZDmO0DtK3DgsshubwhYL7kv1nqY=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Iroquois.png"
+    },
+    {
+      "hash": "sha256-EZJLCoIIUmeLIaQ3u+recCp54Gc+bo+CyBEj5WdaZ8A=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Japanese.png"
+    },
+    {
+      "hash": "sha256-76NsDhjQKFpl\/KcIKzh2spxcasu+7r074sbJa4mDMSg=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Mexican.png"
+    },
+    {
+      "hash": "sha256-UWCXOMldn09YkYGf3wdNMHVzRDWrTdAyLw7FLuHRuQ8=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Ottoman.png"
+    },
+    {
+      "hash": "sha256-BsL8EjUs85u3bppT4ODE7pYhOPcrLRSgvsz5xngImhw=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Peruvian.png"
+    },
+    {
+      "hash": "sha256-I8nOwSDgynXM6iclIfJAFmDAqNDgR3zd2mUYr1pjkJY=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Portuguese.png"
+    },
+    {
+      "hash": "sha256-EvM3Ebuo324ujEOfrAMxe6uDaOV08XpdRH4R3+yCFJY=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Russian.png"
+    },
+    {
+      "hash": "sha256-yk4C6jhRcmmLQGgLMzMVR+O0Rqm2WRUl18GRrUq5d9Q=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Sioux.png"
+    },
+    {
+      "hash": "sha256-LWCtwLqceX9SMLpAIqaOI8koXvcQ\/7cRWHnVcijJDy0=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Spanish.png"
+    },
+    {
+      "hash": "sha256-EZJLCoIIUmeLIaQ3u+recCp54Gc+bo+CyBEj5WdaZ8A=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_Tokugawa.png"
+    },
+    {
+      "hash": "sha256-wPeZYx5H8jCpERSnfmiU2Q0s\/Y6PJEmD04wsaINEV8Q=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_USA.png"
+    },
+    {
+      "hash": "sha256-aEGJAStunRrqCNHPZucD\/DetUCTvmXYBGTiSA9XL9zw=",
+      "url": "img\/resources\/images\/icons\/flags\/Techtree_USA37.png"
+    },
+    {
+      "hash": "sha256-tnWBw\/GBU3iTPG5qEt2Gj3\/xi\/73p6vG\/QPpMpAcveQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/2x_monitor_lizard.png"
+    },
+    {
+      "hash": "sha256-ogAyGLpaf2F\/rtv7\/+5aCIwcB7j3MJX+1RfPZZQID+0=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_1_chery_orchard_rickshaw.png"
+    },
+    {
+      "hash": "sha256-ZNg9oB1m50RmrqDLJkuCW8r5moOihhvKaQK9v3sB8Rg=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_ashigaru_shipment_icon_64.png"
+    },
+    {
+      "hash": "sha256-sZIQcZ+W83lkrpKWdJU6vL\/t6eig53L49IP67FUd9LU=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_coin_shipment_icon_64.png"
+    },
+    {
+      "hash": "sha256-BsWcSu0bNBsKPz512vxEnwAXvvpEJE\/wetDkpsuDfGE=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_food_shipment_icon_64.png"
+    },
+    {
+      "hash": "sha256-g\/MWXe+RNLS+Mfgd7t+ZnSnsxH6ciCOWrUGRb6aF6Dg=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_japanese_town_center_wagon_shipment_icon_64.png"
+    },
+    {
+      "hash": "sha256-D\/SYrOwew1vzCa4UiWXmAQ24QG2wGngTU4MIMV+tPHw=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_red_seal_ship.png"
+    },
+    {
+      "hash": "sha256-TvysxgnLxD9YPL2AGx4sZJtGOpaXy9fLMWz2O5B0DAA=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_shrine_wagon_shipment_icon_64.png"
+    },
+    {
+      "hash": "sha256-PymI8iJv\/2e8Guoz\/l2pQ4w6u7vpLckcsR379x\/kRLs=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_town_center_wagon.png"
+    },
+    {
+      "hash": "sha256-EBGXMZO69u1A354VHILzklt1XmDB3xhbBIBZDUx2mBM=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_villager_shipment_icon_64.png"
+    },
+    {
+      "hash": "sha256-tgQYl2WQ2nhnUUo0wy0L5mU9fjfv4tXcWjtNb\/lwGKY=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_wokou_junk.png"
+    },
+    {
+      "hash": "sha256-1PkXnZjmrZlwQF8IYaTpWSEG6LPxI5Px32ASyBwypKw=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_wood_shipment_icon_64.png"
+    },
+    {
+      "hash": "sha256-uqiEND3VywBOH9mE4itGCQsg+dtKpuhCfunpUjW6geI=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2x_yumi_shipment_icon_64.png"
+    },
+    {
+      "hash": "sha256-PCbMc+YDnVGzHd4hHEbikqkzFuAjc9fk5eL+HUh2Xow=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_2_cherry_orchard_rickshaws.png"
+    },
+    {
+      "hash": "sha256-0PkXBx\/lgSop4znSDItS6\/3uyLp2fLDdvklNep892bc=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_4_missionaries.png"
+    },
+    {
+      "hash": "sha256-3FL7mdRD4LDwG5pR6TKROLmQyTPwnVMRc1VouWItFao=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_advanced_rice_paddy_icon_64.png"
+    },
+    {
+      "hash": "sha256-FcpNKte0EviQxA6mNKoUKiK\/MJk4QcDiGMDltGQXtEY=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_advanced_wonders.png"
+    },
+    {
+      "hash": "sha256-dTy9kM4250dIUREY3f3S5+Uz9mVVKzEPGTjXN0RMCDs=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_armed_fisherman.png"
+    },
+    {
+      "hash": "sha256-5T4JWXPowzuqGSHE+hzJcWUbtc2s\/IDz2fww8aew9kU=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_ashigaru_anti_cavalry_damage.png"
+    },
+    {
+      "hash": "sha256-6\/P3FsjhDR6yY0rZkLkyYhZgl5E42z+UeNMM\/MfHbFc=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_atonement.png"
+    },
+    {
+      "hash": "sha256-u2OrYfCei0BKKZ6wTSStzUpudQaP++aVFVq6owLcWUY=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_bakufu.png"
+    },
+    {
+      "hash": "sha256-JTlBWeqdL9N6MVAisQZCJOQabIr02Fw3z4GSTdOBAg8=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_banner_reforms.png"
+    },
+    {
+      "hash": "sha256-LwBdRatAY50A1uTPZ3MDtSLMtlQXVCJ2N6sWbCb2lpE=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_banner_school.png"
+    },
+    {
+      "hash": "sha256-BOHAM2CHoZKo1EKP8lpqqRZZReiqEHKiH8+jOZ\/qbjM=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_bei_ying_army.png"
+    },
+    {
+      "hash": "sha256-9P1tw6XjzQndyW8A5oqLYQS4EiTgga4EGbiVDGKohxg=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_call_to_arms_icon_64.png"
+    },
+    {
+      "hash": "sha256-idJCUrd0Mm0kvePP9xt0vEyn9hsNNsFlLZ8WVn1Himo=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_chinese_emperors_army.png"
+    },
+    {
+      "hash": "sha256-RIAY+teHoP96EcBWdkLyAEuqK\/60qoYfmJcpEeJ143I=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_chinese_ever_victorious_army.png"
+    },
+    {
+      "hash": "sha256-wato78EM\/EZqsiZweSdU4LVA\/VCVNy08xJtrb8GrAw4=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_chinese_iron_cap_prince_army.png"
+    },
+    {
+      "hash": "sha256-B6NAHtc9N1WeYOwBCl+4Lxi+D8GBiNC06p6HSL+DHsA=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_chinese_mandarin_duck_squad.png"
+    },
+    {
+      "hash": "sha256-2x1u1DtPV1XqEbh1LsK9yIBw1tHTfkPH6DIVghM2ZC8=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_commodities_market.png"
+    },
+    {
+      "hash": "sha256-ub0cehLXQMAjyIKS+L5PB8cKWjyjmEyIvNLUPSWV5ok=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_confucious_gift.png"
+    },
+    {
+      "hash": "sha256-KvW\/cUxHnNNobTgzLawoFVkid42hbLesyU8oXXVRRZQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_conscript_sepoy_icon_64.png"
+    },
+    {
+      "hash": "sha256-b8TcmXhwrnXx2Wnj0UPP\/Yk7pwirUUkTjvPWXkEGj78=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_east_india_company_combat.png"
+    },
+    {
+      "hash": "sha256-io32zigVJLSoeCdLr+Mjy3nLalS3VAzoho4vUxMHqp8=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_east_india_men.png"
+    },
+    {
+      "hash": "sha256-ywqP2D+4YYJMoQD89g7RP\/fQWyXtFvVO3rX2MF3LW\/I=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_elephant_combat.png"
+    },
+    {
+      "hash": "sha256-LbGMtEOPdeRdRfaloRFqeC8zpAu3Bt1dPE7Kh49cMj8=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_enlist_the_irregulars.png"
+    },
+    {
+      "hash": "sha256-gwTmjQ75G6QeWKlfEUqZaPXZE\/bxEoptP44EEbdhddw=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_expanded_monastery.png"
+    },
+    {
+      "hash": "sha256-GCdJRbRBEMFaaNBBNT2ZNTA1iNxXIx8T3erl6GPVpI0=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_fireship_damage.png"
+    },
+    {
+      "hash": "sha256-dHct5SgJx5w1g6P3RDo9qKWnPhfAONUGmGFLtsIVQC8=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_flaming_arrow_cost.png"
+    },
+    {
+      "hash": "sha256-wdP37KS+C\/C9htZOQx4cw2sugVmDx6SKolxdkQcG2Bw=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_flatland_castle_icon_64.png"
+    },
+    {
+      "hash": "sha256-csrBYEKhgRh2uK0iH5Y\/4dWjMdbAzFy\/pa8weU75iTQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_flooded_parcel_icon_64.png"
+    },
+    {
+      "hash": "sha256-ir7bOMwDEFPF90b7RmkYiu0dIR9z8b\/7yJSkSJoMkmk=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_ghurka_aid_icon_64.png"
+    },
+    {
+      "hash": "sha256-gxhqMjMGCi5siuZ8kAS\/bc3z5oZnES1LSaU8J2pM4LY=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_great_wall.png"
+    },
+    {
+      "hash": "sha256-3XhBPUwGJRzHa3JlrHxuKS83ZtNCPaAuzq4RsZpPIug=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_han_anti_cavalry_bonus.png"
+    },
+    {
+      "hash": "sha256-Ys\/LIaqXbS0IOJNJSTnZeBoxzly9EinONpg0vr\/k45s=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_heavenly_kami.png"
+    },
+    {
+      "hash": "sha256-vje+Kirs4SDyUWEwmd81allucXFup2Teuexk+e6DGcA=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_hill_castle_icon_64.png"
+    },
+    {
+      "hash": "sha256-ZPTmS3oZvI2va3w6i2NbYjHQGF7G1BlTgrrQLj6RMCE=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_howda_regimin.png"
+    },
+    {
+      "hash": "sha256-dmT0pJPeZSc9ZDjR0gT0eycSYyTTEwWUm0lC8AyhZ6k=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_imperial_navy.png"
+    },
+    {
+      "hash": "sha256-wO3NDL4NgDA9IqpUKHFVtJG0tmA6EveqdT3wnq3nUQ4=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_improved_warships_green_icon_64.png"
+    },
+    {
+      "hash": "sha256-dT0yKoFSIvR38Usx\/grcBpzLKqEk8OG7CtL2ZT8WPlM=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_improved_warships_yellow_icon_64.png"
+    },
+    {
+      "hash": "sha256-20T7RxkkUhPiTcPdjnNYaYmQiCfCy\/qMPJ6T5J2R3t8=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_indian_goraksha_icon_64.png"
+    },
+    {
+      "hash": "sha256-kG5Lpa9y26e9HZnqkgekr8LMm4By3TRXVXIfRM1vVsk=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_indian_grazing_icon_64.png"
+    },
+    {
+      "hash": "sha256-clM6jQ0k1eEjJ5la+NWYvICYpTOltuOb+cCLOErDHB4=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_indian_mercenary_army.png"
+    },
+    {
+      "hash": "sha256-iRarYRQQl9JgJFBsaEFiMLdIqxPVrwN138M5PR\/Xo5s=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_indian_monk_combat_icon_64.png"
+    },
+    {
+      "hash": "sha256-7Pm7wzl4vCaFjH0zATeEa5F0SkWelo5t1fAb00Ie5CY=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_indian_monk_frighten.png"
+    },
+    {
+      "hash": "sha256-vBXLwy56BX3n4WW6iMwGyKUqxJQKxeJRoRQaRV+FUdM=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_indian_sacred_field_healing_icon_64.png"
+    },
+    {
+      "hash": "sha256-OckQYE3PkI8kurrTiM1+zX4fHcwRlFTLtqH03yuaDgw=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_infinite_flying_crow_icon_64.png"
+    },
+    {
+      "hash": "sha256-nqg+Sb45v3IhTN98klksIb+Oas4dE14ZjoAv5bCVi7o=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_infinite_howdah.png"
+    },
+    {
+      "hash": "sha256-XQwG4CzozXBfCo+si7hTc5an8snWjd4Qi5gZGeB17hM=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_infinite_keshiks.png"
+    },
+    {
+      "hash": "sha256-wHjLbtiMKb0j4zdrFDP89XaMsNahet8AOScvE22cJqE=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_infinite_meteor_hammer_icon_64.png"
+    },
+    {
+      "hash": "sha256-ntCH\/Y2rlJkHdD+KFOnFR37pvO4+Agik22OVYiuEp60=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_infinite_rattanshield_icon_64.png"
+    },
+    {
+      "hash": "sha256-fVDugnJd1x+IAfWeEjxQKBW9Cqf5BDJcSWLYhO+Jbt8=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_infinite_urumi.png"
+    },
+    {
+      "hash": "sha256-Jouare\/i1H44A53KCaNyYLUe0wy5lS+ZvdK6d3XN7iM=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_intervention.png"
+    },
+    {
+      "hash": "sha256-JprBNHaLzB+kk2mIRRCq0CnKPJ8PU94Lz0WJ12Lga7U=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_japanese_mercenary_army.png"
+    },
+    {
+      "hash": "sha256-tfi425g1GhGVkLb8oszk9JAEK1OMVJgmPtuscLJ1x9Y=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_japanese_monk_combat_icon_64.png"
+    },
+    {
+      "hash": "sha256-pyZbYvkL9rFSx\/dQmt9VJTDxIslUhA0K\/Uv3Z6z2wSk=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_japanese_monk_scare.png"
+    },
+    {
+      "hash": "sha256-DCPLPlcecWBax8+Abnd8HQyeVGJHHujNz6\/G8+2mHRs=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_kwankoba_bazaar.png"
+    },
+    {
+      "hash": "sha256-VLUr8\/Cm25XG42hycyY602x44AN3JvSPYerJgTgYM30=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_land_reforms.png"
+    },
+    {
+      "hash": "sha256-1BlfH10R+KupvosZ0jgt8Flc8Co5pI\/Oi2RSsnXFUjw=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_manchu_attack.png"
+    },
+    {
+      "hash": "sha256-BTyAPFzzq\/5ThTWBkD85qQ7hOPMpa2DfB3Y52MJG0IM=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_mandarin_mercenary_army.png"
+    },
+    {
+      "hash": "sha256-QnRsNnv5GmDHGnmxzvy3XymPebUWOKCAKN\/yPuUWzZo=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_melee_damage.png"
+    },
+    {
+      "hash": "sha256-T+AXyt3Kud2ANlDBl\/l7Xr6kxcvJtpCVPrQIH70hgdM=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_migrants_shipment_spawn_icon_64.png"
+    },
+    {
+      "hash": "sha256-2ZJG+NWY+XdQZeQ6LJLrCrmvAN\/fg3LNMCyQOt7dMLA=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_ming_hp.png"
+    },
+    {
+      "hash": "sha256-GalrpH5PFDcZhwXddQUQdmAposHLnsZreqZCuYomtuk=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_mongolian_armor.png"
+    },
+    {
+      "hash": "sha256-K3cwQAU+YbFKo6bcOngr+Z1nDU\/qVJejWT1Qr2H\/TBc=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_mongolian_scourge.png"
+    },
+    {
+      "hash": "sha256-s2093bHsL4H9iWKqX1m9hUxlUQjqwxXHEVOf4a1jc9I=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_mountain_castle_icon_64.png"
+    },
+    {
+      "hash": "sha256-+5bZr7QERQGErcXsivET7ucd1iV\/W7lO1DhupBedui4=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_naginata_anti_infantry_damage.png"
+    },
+    {
+      "hash": "sha256-ngm5El\/AwDNV1DT4ktKzlU\/Z6EqePgQ2OeuNuRD3XIc=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_native_alliance_icon_64.png"
+    },
+    {
+      "hash": "sha256-fV1VqhQXcA9t5mL+hizwqT0C69Yo0wBRXGuA0QFKwqU=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_native_crafts_icon_64.png"
+    },
+    {
+      "hash": "sha256-1kp3k644pyzag6Zd8h0B4ezeRo5DpUz605lQb813cR0=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_native_learning_icon_64.png"
+    },
+    {
+      "hash": "sha256-GxU7AS5vDfuwcH2j33bZCHGE+20lxHOAWn8I2tuNx3o=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_native_warrior_attack.png"
+    },
+    {
+      "hash": "sha256-HmFNzosIJaEZcvUFHTAmaO85W28sKUfJschRJw53GjM=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_native_warrior_hp.png"
+    },
+    {
+      "hash": "sha256-fsMYexZKVJtqLT2fPSrm9E5cZtTrvh\/o0T\/K3uBYAQA=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_nomadic_expansion.png"
+    },
+    {
+      "hash": "sha256-dLdmLMMI1HdLId57BrDbbFJ0t2AAbN2aCFJbLrO2ADc=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_nomadic_settlement.png"
+    },
+    {
+      "hash": "sha256-3pn4M14S021MPmsOROn98SdgpADNuNbibPHegG4xMnQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_nomads.png"
+    },
+    {
+      "hash": "sha256-sv6pEn+OTddhm0wB7zQI32RKr1NG2mAAKfx3aJYygt4=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_northern_refugees.png"
+    },
+    {
+      "hash": "sha256-l0gmrewbo3agT1o66gJn5rIh+3MSUrYaV3iebsCHJms=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_old_han_heavy_infantry_bonus.png"
+    },
+    {
+      "hash": "sha256-hVEZQudkyp4EO8\/3Lz\/+tUg\/\/5VhRPvPw\/EYytLB4dw=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_onin_war.png"
+    },
+    {
+      "hash": "sha256-Rgb3wcg\/D3effgZbzrlC4UsL7LlAnyiKbn2syTfvnLw=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_reclaimed_land.png"
+    },
+    {
+      "hash": "sha256-OgyXZSBbe8yagIyrK4BdgKkt+2Ee5QbB\/+KAksgK2rc=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_refugees_shipment_spawn_icon_64.png"
+    },
+    {
+      "hash": "sha256-z9IbwlaWXTYz1\/EirVwbQpB4XJM45aHuJVm+y9cZ0r0=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_renpeikan_dojo.png"
+    },
+    {
+      "hash": "sha256-o6zPXF5ejHK+XQGv4kIZkzWDozcIjkzEGbxPR5bCxOQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_saiga_shipment_spawn_icon_64.png"
+    },
+    {
+      "hash": "sha256-xvYg3h+\/eoyKE9ZbN5xeLcpS2NADApLqYWC+nr9PPbY=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_samurai_speed.png"
+    },
+    {
+      "hash": "sha256-7Bax5rtSE0s9TWOffOKj83hOKB8HO7jb8+Rqb6X8hNI=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_second_master.png"
+    },
+    {
+      "hash": "sha256-yNGm0YBkxvvKEO3I6heuT6suwUAYIFBgPwGJ3t8CTPs=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_sepoy_rebellion_icon_64.png"
+    },
+    {
+      "hash": "sha256-kgPF2EbAuzNLv5\/\/\/KSLqgZg1pb\/7nLge4P6VEwaXsw=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_seven_lucky_gods.png"
+    },
+    {
+      "hash": "sha256-7BkyAWhwTXBmWib3LD4lbgBSw\/Ubu8sdBDa2pHaLFI8=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_ship_covered_wagon_and_villagers.png"
+    },
+    {
+      "hash": "sha256-7ZfQJx929l4Zen4GRBPZ5gpeHk1iDZB91Mxwxk1oC1I=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_ship_fuchuan_icon_64.png"
+    },
+    {
+      "hash": "sha256-FJWwZ2B9uOA1hJyILp5xcDfaNfzYvuad5aSZ5AhYslk=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_ship_monk_roundhouse_icon_64.png"
+    },
+    {
+      "hash": "sha256-KABYr4V0Tg600b2rVc00v7n68SUemUKJyvqPFfcgDs4=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_sowar_regimin.png"
+    },
+    {
+      "hash": "sha256-7FtSdduMTHdUSoyfyKUpFfK8vxq1Z++D8RvWpX9ARuo=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_standard_army_reforms.png"
+    },
+    {
+      "hash": "sha256-nww6uFv+fv9\/J6jv2\/Y195PXxww2TgQnWVerXplSTxE=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_stone_castles.png"
+    },
+    {
+      "hash": "sha256-luGFKz1DtOkknDsXyih6VSceGaQ7U3\/mZhIC2hbFWSI=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_art_of_war.png"
+    },
+    {
+      "hash": "sha256-\/kQZ+hF8Mg0VpUwFW1WUZ04eyIY0gtx9fkvC2axOUAQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_chonindo.png"
+    },
+    {
+      "hash": "sha256-ueGbJPgoZ3wwnA1WuDtGDojBjYwsUHmy1j7VXFTEcXg=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_engineering_school_icon_64.png"
+    },
+    {
+      "hash": "sha256-zlCLQm9KnKrGEkddjG3Gvaq\/lhGszpeO\/0DZWmn0Qu0=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_fireship_icon_64.png"
+    },
+    {
+      "hash": "sha256-j2YlC1T9dMaXGW2h2POHZVNCsfMXlrm+2v+1RQBJRak=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_flail_elphant.png"
+    },
+    {
+      "hash": "sha256-kuZWuX45h1EXEaNlMeu4Sr+OjtbCmG+VMNwQoZtUdbY=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_hand_mortar.png"
+    },
+    {
+      "hash": "sha256-PHW3V8DL0+p6GbmC6j6e1SN+w9bC6v7BZD1geDqvh9Q=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_house_hitpoints.png"
+    },
+    {
+      "hash": "sha256-kqEU4m3\/kxIU+KmLuI4otd5z6hhpOGl9eOlnbs\/ELI4=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_infantry_speed.png"
+    },
+    {
+      "hash": "sha256-ujBNHFmn2i0V\/zzCtYRAUhdtDRJni5Vic6Z0O\/ITMhY=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_manchu_archer.png"
+    },
+    {
+      "hash": "sha256-pnfca19vppsywMmZdww+oeVv2PVMKBXlqWCVCt+ACZs=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_pioneers_shipment_icon_64.png"
+    },
+    {
+      "hash": "sha256-qF\/vcLlnXHifG4ggxZyios42e3ofPDs94nTywlmaOno=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_rhino.png"
+    },
+    {
+      "hash": "sha256-bMLu2zmWcFyUUfjsc10OlsFhbt3G7qVWHCxJQedAR5w=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_ship_mongol_scout_icon_64.png"
+    },
+    {
+      "hash": "sha256-MJhXq94pcvskBzp82L3k7code0suHg6RW6Gx5+GzBo8=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_sohei.png"
+    },
+    {
+      "hash": "sha256-yw0jEtyGCzr4fwIK\/yZIYGx3fDAB8h8VBvA8BE7JPk0=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_team_sumptuary_laws_icon_64.png"
+    },
+    {
+      "hash": "sha256-gaJLxLPWodB0nxBhGWwaI32kaQM6IgwESeLAVcIB280=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_terraced_hillsides_icon_64.png"
+    },
+    {
+      "hash": "sha256-k0GhrhIjegPW2AAjBUbiF2sBoScZ6imQpUwnAJ5EsSg=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_territorial_army_combat.png"
+    },
+    {
+      "hash": "sha256-YazO9XJKxe4KvBveT3aH+2SI5JmM9ilfUHoJ3caQqOk=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_urumi_regimin.png"
+    },
+    {
+      "hash": "sha256-KHXZuH4VjKRyHpD7VUY1024KeheX3tR3A8DxD2BYFH4=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_village_shooty.png"
+    },
+    {
+      "hash": "sha256-amKZYU2xEZlRQKY\/EdNkYAO0uzb7eg1\/VpECek3GhuU=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_warring_states.png"
+    },
+    {
+      "hash": "sha256-EfyzCkPN36g8JM22Tsb8JIKWlFZbajAgKaFBiiCY5Sc=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_water_buffalo_ranching_icon_64.png"
+    },
+    {
+      "hash": "sha256-NFJe4v7n2J+Q\/lNWrv++QlofIhvsNVAm5cb4iNtNuG0=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_western_refugees.png"
+    },
+    {
+      "hash": "sha256-Zd3zzfaxvwW7I3z+bD9LkWbJRXVb5XFDXenxF8Ixd2s=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_yabusame_anti_artillery_damage.png"
+    },
+    {
+      "hash": "sha256-rRj\/Mjz\/S1h46gkOHRa\/7thas0GgS3C7UHRAiho2fbw=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_year_of_the_goat.png"
+    },
+    {
+      "hash": "sha256-GvIi6UU8wJA\/LiKjvGn9R+ZPj2BReMg\/WSrzC9UbW\/g=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_year_of_the_ox.png"
+    },
+    {
+      "hash": "sha256-fqUosOkl3\/+Yts8VkIG6dGRiMIXPLCNpe0GVFcapMDI=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_yumi_range.png"
+    },
+    {
+      "hash": "sha256-83GEv+VO2AoCITexGaZWIF8B0kgAwloxpVAUO4EIJRY=",
+      "url": "img\/resources\/images\/icons\/home_city\/hc_zen_diet_icon_64.png"
+    },
+    {
+      "hash": "sha256-hdPx2PEfQndImuIpX4Giyv+uIBvcvLelttPRn5KlT6s=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/banner.png"
+    },
+    {
+      "hash": "sha256-G2WQSnHfoGTG9H7wAcAG7w3OJKSJeTn+S+fZs6ZlA4E=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/bass.png"
+    },
+    {
+      "hash": "sha256-cq3XTPUsaS8q6U9eoexDWsn3UzT5V3laH2gTBr9lIwc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/beefeater.png"
+    },
+    {
+      "hash": "sha256-fG7Fcf4Ipdg7xNCM1oUxMOu\/TDKmE3I5u97WfWPiyF8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/british_statue.png"
+    },
+    {
+      "hash": "sha256-WlGoaTnYviksreW0slV68ahWDS0tkhvjtfZlBqLUmNg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/brt_lightset1.png"
+    },
+    {
+      "hash": "sha256-wmuaOv23P1t2iVDkJ9OaVV\/v\/MJ\/IL9gQzR79XeDhzI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/brt_lightset2.png"
+    },
+    {
+      "hash": "sha256-ZtX5Kab+YV79ChWBZgf7eKdmcmOBPnWnnbqBqWKiuj0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/bunting.png"
+    },
+    {
+      "hash": "sha256-NerbjN0ruKt6HZCUdbGDfiFdObd2rmWP8ZPJJz8haPU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/caravel_icon.png"
+    },
+    {
+      "hash": "sha256-3ho14MhJsMTRf578ee+fh90ddX9xKQR3dqAlo0r0OUg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/chatter.png"
+    },
+    {
+      "hash": "sha256-fP+g+FcocfEYd59rfT9ybe5ZkFNVTeZ9Tc8uThCcxLM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/chello.png"
+    },
+    {
+      "hash": "sha256-W+\/XGO08yYzrOtG9LjSPk4wf0BuErmw\/kB8UfoL+UkM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/crate.png"
+    },
+    {
+      "hash": "sha256-DPVMlb1ITuvQRGjczNF1M2+kSd7PXTluz7r2+60rbYo=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/crate_awning.png"
+    },
+    {
+      "hash": "sha256-uQgJj1pcGZ7UIGS3oHb8wJaH1ftM\/XmmdNoxLZuFb0U=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/crate_banner.png"
+    },
+    {
+      "hash": "sha256-iW7UF7kwf5kdaJHKnt2A5a2aVQEyoqKkZTJdzZVN7sI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/dock_crane.png"
+    },
+    {
+      "hash": "sha256-DpAGJ5f6nP0C1I0ZKlzCXWiJY0wg9+x9XKMmPMMP2hY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/dock_props.png"
+    },
+    {
+      "hash": "sha256-CtORaO04c30p0TNdPRCcfkfra7Lz3hrD1NFrjOQkSWk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/drunk.png"
+    },
+    {
+      "hash": "sha256-kMF5vQZ5jsFyJo72KfgDd17ZIyX6EXQJ328GcFvxQWw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/dut_lightset1.png"
+    },
+    {
+      "hash": "sha256-\/v\/XuIE2pOPcYffG2Tag4Pk\/xg12IUJ7W+\/Q0HovmSA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/dut_lightset2.png"
+    },
+    {
+      "hash": "sha256-dxzZuHK5fiB2ZYcNFUK2B1YgoPNZAYH9GzpRsA7Jxcc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy1.png"
+    },
+    {
+      "hash": "sha256-L95flHtlkR+rPUPszauR9bgceHuTJHgY8ofqMzeBMAg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy10.png"
+    },
+    {
+      "hash": "sha256-p6sjDqzkNZMpgJB\/8AC7nyi3DRh\/HjLr3IhtGd+0+50=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy11.png"
+    },
+    {
+      "hash": "sha256-6axSjCVZi2mnZ\/H7pjS4sISYhL\/eOb+JSmyisLCUFOk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy12.png"
+    },
+    {
+      "hash": "sha256-R6V2aujh0OnFWjWvUunuR8nOf3aQfkSf5px4XmgLeUU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy13.png"
+    },
+    {
+      "hash": "sha256-xL3xeykaRfPWe\/AUq7hE2P0PNlxyWFON707jy2OQgWc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy14.png"
+    },
+    {
+      "hash": "sha256-gJacYaqQG4w5CA7VKbnJSpbEEAr+yvvfPpCVTlIZI2w=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy15.png"
+    },
+    {
+      "hash": "sha256-S\/\/XLaWDwRvikvCr+SJ81AvLDSY7vwSTuHJ3eDTEnto=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy16.png"
+    },
+    {
+      "hash": "sha256-8wffNj5bDQXz\/YtRnKEECz0ESd6umlGUzupdj24rHFA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy17.png"
+    },
+    {
+      "hash": "sha256-EQ74+qFZ9hjQnGkSWWClkJfcPLUilyVkfcipIfdaVSE=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy18.png"
+    },
+    {
+      "hash": "sha256-1DfHiIycYCgbwiM5EKXY8hdcml22DsrsSAwsOlqI72g=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy2.png"
+    },
+    {
+      "hash": "sha256-mLpifAMNsheD3C5o6SaYgCT6gqPn\/fT+Lp0K8g\/DkYY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy3.png"
+    },
+    {
+      "hash": "sha256-dOveON7d3s100aP0GUOtvZK8tmRT5Nm49KJw\/XBj5+A=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy4.png"
+    },
+    {
+      "hash": "sha256-LRHj1+pZI95cCIRAE94uKscN2kyurQkVcjiUaA\/lDnA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy5.png"
+    },
+    {
+      "hash": "sha256-mQwI\/e4VzjKUlIfHubQEgBzwnE1I+dskqBPJRnsfpAI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy6.png"
+    },
+    {
+      "hash": "sha256-dt6ygkMNrBWhlOO3jteei6H2TG6BOHeNyD+IsP5lxz4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy7.png"
+    },
+    {
+      "hash": "sha256-SmJKU+vi+1BUcQBlcYUNEMim7DmXLPEdhdZJwBwoZiM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy8.png"
+    },
+    {
+      "hash": "sha256-JGH3DBNZasL5IlAgh7MgM6tJykDy5pyVVfFvcOT6yrQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-academy9.png"
+    },
+    {
+      "hash": "sha256-XFEMtQnJHuqcDikw\/vD43BtU8NRkdot7wfOPB7lUWk0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-cathedral1.png"
+    },
+    {
+      "hash": "sha256-md6+nJVCJHPy\/4OXZ2yv3TH31LDTnrooSL9psdJIsvk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-cathedral2.png"
+    },
+    {
+      "hash": "sha256-Tdz7IvkHKGnGVUmXucuHKJpf0nzf7IL4\/l1buDQDNRQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-cathedral3.png"
+    },
+    {
+      "hash": "sha256-xks6s1IJFP2KUJgsF1k6Lvb+vp+GKEW4L0t\/+tgHoeA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-cathedral4.png"
+    },
+    {
+      "hash": "sha256-kNKO16clu5FEpKMuDHNbtVHzPoiUTJ2Ihvr+\/dizioQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-cathedral5.png"
+    },
+    {
+      "hash": "sha256-GmUmzAIoi2+TCOwCH\/YF8fYLU91EwjOyqUbromRbObw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-cathedral6.png"
+    },
+    {
+      "hash": "sha256-5PP0MOHijkHm39braKawFkHR6C8daXqsdZsojIrhBVM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-cathedral7.png"
+    },
+    {
+      "hash": "sha256-eflHuTFwm\/g+Dm1jom8ivhT22pd6sUXFQwIWy6WFeEo=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-cathedral8.png"
+    },
+    {
+      "hash": "sha256-mpep1DuZa642s\/JeRvD9BLhcUP29wJBxCb67KZtmNPo=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-cathedral9.png"
+    },
+    {
+      "hash": "sha256-R6FtH76FwRq6JA6SK+bV+lKI7pGTNeJf8BjehFphhpY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock-clock.png"
+    },
+    {
+      "hash": "sha256-6Rp0ChXO5GWWMdqZXvx\/iopuq\/HXMvmZ3He0vLFcYkg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock1.png"
+    },
+    {
+      "hash": "sha256-YvxHeAkSoGsD2uaBU6KL7Gf\/p+Z2F4lbB6gnb4qaAP4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock10.png"
+    },
+    {
+      "hash": "sha256-RZFAdEV65XJn74Q1Ct+vrAF7yNrfXPxNwp5knjbXzOM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock11.png"
+    },
+    {
+      "hash": "sha256-H9jinHb8fN3iSjGMBs1PTbgIsTaOZob9yivPqYMV2\/4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock12.png"
+    },
+    {
+      "hash": "sha256-hP8873MY4rSuTzD0ObLVwcXxehEDb66G2Cj4hSarjDg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock13.png"
+    },
+    {
+      "hash": "sha256-oNAh1+UQYOyr7HntYIs1Bzo66I21941DUlt5tUOfDhA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock14.png"
+    },
+    {
+      "hash": "sha256-etWrqTBUOMGBgyRkbKzAOs7p5qVBpdiG03edNXLD+ag=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock15.png"
+    },
+    {
+      "hash": "sha256-EMtCq8AWcSY0oR\/NxVYu7sA8L\/CXKGwFdDk7NQ3x9fw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock16.png"
+    },
+    {
+      "hash": "sha256-xB5UEM9YfqYRPH5wKgopdzJ8lmxS1EDfYRhi8CdAhWM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock17.png"
+    },
+    {
+      "hash": "sha256-8TG8BClJetd5zM8Uj94MRCIAv+NuMQEw7jB6IMO6CJM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock18.png"
+    },
+    {
+      "hash": "sha256-d4E0jZM7frjaSX3Zfho4KYDtmiRVitDw542+IklFkpI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock2.png"
+    },
+    {
+      "hash": "sha256-mOjgdQbcsOJZwv6EQV\/ttxQouiyhfAJavpsk8onFg4Q=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock3.png"
+    },
+    {
+      "hash": "sha256-lv6g4gbUZPjUdMVylcMZI0\/lFlL42tl9yOPuXoTkZB0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock4.png"
+    },
+    {
+      "hash": "sha256-j4wIIs0nkZCpXL0Zsz734rbhEAKfYFlfrmubM6fW4Xw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock5.png"
+    },
+    {
+      "hash": "sha256-kta8vITs5HlaG6qrE5V7PhukN2kldo8RWzt9I6VKBAk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock6.png"
+    },
+    {
+      "hash": "sha256-NFj17Hg\/qEcd2m+Ij6vFfkRaa+TCXnC22GYkPYjOS+M=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock7.png"
+    },
+    {
+      "hash": "sha256-LKEqXXMes6Gv7farE1EleiUwV5ODhyoWtNMcg1t5GG0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock8.png"
+    },
+    {
+      "hash": "sha256-DDUc\/9L\/GS3ThhiRTUKN+w5S4v68WT4ieNZ7we5WopI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-dock9.png"
+    },
+    {
+      "hash": "sha256-RTSjY\/LprJNpJMPrY4FnncigdIYa6dPbSMdVKD5rtKo=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory1.png"
+    },
+    {
+      "hash": "sha256-8SogVktrQXTsQMBlUJ8+GSx5EXGD4Wjvn6s9ZxOsM6c=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory10.png"
+    },
+    {
+      "hash": "sha256-bjtPOdBI+7TeGEmavMa7dE97+DB4zHq4t5S9tpP6Ke0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory11.png"
+    },
+    {
+      "hash": "sha256-8BrI\/k\/aMG9mWMHFw8KTFTG5PCSVhyANcAgdLCKsShw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory12.png"
+    },
+    {
+      "hash": "sha256-uUwieoZLcthIFB+mzBB0PGvf4ZKkqzTKWbJljRbuMRk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory13.png"
+    },
+    {
+      "hash": "sha256-k7W4cgqnYpK6UdYOjgXqABDSD5hrN75qNOiaa24xYQM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory14.png"
+    },
+    {
+      "hash": "sha256-wU+Ojy3vJQsxq+MCkljU4bsQRwKVDdk45uNoc99UfrQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory15.png"
+    },
+    {
+      "hash": "sha256-qMuYn+5sDMm2FeIsPWkAiSW3ND91jcA0jNSp4Nda93s=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory16.png"
+    },
+    {
+      "hash": "sha256-TyHhfnnjeKRgzCGU92MLzz0CX\/SU4rNdlGj5MdYJ6dU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory17.png"
+    },
+    {
+      "hash": "sha256-PbNq8Ia4EpFz3zTp5dLIfNgo0wj9\/QWPNGhMqqlkiyA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory18.png"
+    },
+    {
+      "hash": "sha256-9ryXH32wNdnXG0KY+MGf7L7csg2KMdvOfxEJKQaU\/oI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory2.png"
+    },
+    {
+      "hash": "sha256-v8VcZKwixySeVUs7VP8ZK+VNOclSpDYebylyFmPb0Hs=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory3.png"
+    },
+    {
+      "hash": "sha256-EJS\/vkyFcUSLqHPNQqrBU6q1hbMk9Uz9a8N8S0bWzlA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory4.png"
+    },
+    {
+      "hash": "sha256-xU39zg5NzGFQWXxv\/Kh2FDYieiq7mlZI04Wrko9L6fk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory5.png"
+    },
+    {
+      "hash": "sha256-7yDjDqDJy9FvAzS+QBcEhDv8D0Ss5iA0mHzLmIKRJbs=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory6.png"
+    },
+    {
+      "hash": "sha256-JgzbcMQu+Gdzmd0MuceSxnMrNEW2G8YCjqBJHtMaorE=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory7.png"
+    },
+    {
+      "hash": "sha256-HezQdU5GPuFdqbqJF0ZkkrjZfjQQ9aUISPN\/lbRBVvI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory8.png"
+    },
+    {
+      "hash": "sha256-su8ydSx7R0itRerVvu3qDOjVJXtxna4+rolp84eD3bw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-factory9.png"
+    },
+    {
+      "hash": "sha256-WBISghqN1P4eLffYAElhcOgZECIpBGNta7MWSn2tGjw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc1.png"
+    },
+    {
+      "hash": "sha256-0RUktw+xI0ob+7sP8w+BMgFdLkrxKOOike66LAt0464=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc10.png"
+    },
+    {
+      "hash": "sha256-3K6n6Q7LxlvCYCp2jCJ4bJHBfxEzkAb0N9Awe2UExP4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc11.png"
+    },
+    {
+      "hash": "sha256-iYcmHLW9EzeyLWCJ8CmRF9Ci67m\/voMKQ1LdIdxN48U=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc12.png"
+    },
+    {
+      "hash": "sha256-QAaSFIujjmPRqGaUuznULgMDRONm0ybFacm4f\/aiJEc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc13.png"
+    },
+    {
+      "hash": "sha256-ra37oFVgu5JIpWOfa8SaWwJGazsed2Dr5mIC8oZvbPA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc14.png"
+    },
+    {
+      "hash": "sha256-8tCDAoMm5RNkRDk5t0TJ6a2ewtHtmtvCatebbfuSXJg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc15.png"
+    },
+    {
+      "hash": "sha256-OB8IiRpJuE7c\/4i2nMp5JI+M6QjcFJ+51kOMXf\/pPV4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc16.png"
+    },
+    {
+      "hash": "sha256-tZSjkDCK8VE0C9kot+C8yzv5XY5pZGn7W7lFm5CbLW0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc17.png"
+    },
+    {
+      "hash": "sha256-HWbAWSekz61PoWaIlndEycCP19fGY9z5fyz4dAtCN0Q=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc18.png"
+    },
+    {
+      "hash": "sha256-uu3PoWz+F2XPyQzr\/4jQ0RQD8xAdvrwZF8D\/YPIw240=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc2.png"
+    },
+    {
+      "hash": "sha256-ulVFCDG\/zwowDh+QxRpGoOZT7dTpyqSk0NF9h7Q12Cs=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc3.png"
+    },
+    {
+      "hash": "sha256-8hiDMCtWGVvFrjdpxpk8TbkzMro\/luhua3d5DXmSlH0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc4.png"
+    },
+    {
+      "hash": "sha256-rd4keqRG9dtIfsYYFX3I6eFxRybDTtTBCdw7ebif4x8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc5.png"
+    },
+    {
+      "hash": "sha256-vSQFQzokkWCZgjyZCxX+Y51\/ylx+W5I3j3TYeo51qfM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc6.png"
+    },
+    {
+      "hash": "sha256-NM+YvQVnQuavZOANVItycB5G+ckzLYSr\/O5zJxWaaZ4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc7.png"
+    },
+    {
+      "hash": "sha256-SzkYdJCO2\/ZoV4Yy0nxojCItL+wesvN9O31S\/poeqR4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc8.png"
+    },
+    {
+      "hash": "sha256-4GRoFHX3nwWZbUwEJa\/CXGBTjRwZvG+5DsGradnZMPA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ee-nwtc9.png"
+    },
+    {
+      "hash": "sha256-ge9pQO1owYyXTfPv5UGkPcMpftz4JPVKZryYPt90BmQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/fire_eater.png"
+    },
+    {
+      "hash": "sha256-hDTeCpWJAnqgY2jdHRmSzwK1evpyw+L56yTng2zj0Dk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/fisherman.png"
+    },
+    {
+      "hash": "sha256-rt9RG+zjhsSOSefBi9cJzsyOyxUzJomZLHsrxlewdmg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/fishing_boat.png"
+    },
+    {
+      "hash": "sha256-+qKa11QSNJeS5O0HrXz0+6F4+yykYIvZyygKTdB4q7U=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/food.png"
+    },
+    {
+      "hash": "sha256-kNQzbI3Egm2AY8ECQrjcc4TqEPM6otMKfTaJkoUuFss=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ger_lightset1.png"
+    },
+    {
+      "hash": "sha256-agvL93bgvM2f0ShSgGwR1nLDTvU\/6mKsLz+62jPIgy0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ger_lightset2.png"
+    },
+    {
+      "hash": "sha256-4sYppK2FoeVc1vLPapaml7aWLHPttbsq4MMe13md40g=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/hunchback.png"
+    },
+    {
+      "hash": "sha256-6M69fbJsewX+Dk\/BiaBVq24ZUS6n7MuFztPWlXOIDHM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/jack_the_ripper.png"
+    },
+    {
+      "hash": "sha256-XRg9gEQ08o8YLiNXKkp437Wd85Lli9TI5Vek9lGYDas=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/juggler.png"
+    },
+    {
+      "hash": "sha256-JzQGKyLqL2BiuSV0HNo4ffDvVF2zMN509nS7jUvEQV0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/market.png"
+    },
+    {
+      "hash": "sha256-hFWHgLD925FxBwrsBXc9pwXbB2Yhnbb\/bcr2BNAEhhY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/medacademy1.png"
+    },
+    {
+      "hash": "sha256-OG4s7mkO1rrDRxA2BOBWnfXG+mxS4NzkTZ+xUKYfSdI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/medacademy2.png"
+    },
+    {
+      "hash": "sha256-Yhr665wTz7SJpLsn2xLUgeC40G4OrG4LKh5pDVane4M=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/medacademy3.png"
+    },
+    {
+      "hash": "sha256-GnkSPeEYHgRqjD7PeUFUAa3NuymMbriI\/3SfJdCr10A=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/medacademy4.png"
+    },
+    {
+      "hash": "sha256-aKrtuk+Z7RYSBQQX4GtJR2HkjtWdP\/9wR82zMcGifkQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/medacademy5.png"
+    },
+    {
+      "hash": "sha256-AK9xzXY2A4Rg622l0nhI977TfTVIWoN2wdzmMz6SjY4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/medacademy6.png"
+    },
+    {
+      "hash": "sha256-gg8HJJisvU2\/ZgLKZCsVMHRdnVr+Is7M26WgFYQCrRA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/medacademy7.png"
+    },
+    {
+      "hash": "sha256-g2QdaX7usVXh5GO\/vK1AZ4Z3FO2+7JOyEmAQzVCiuIY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/medacademy8.png"
+    },
+    {
+      "hash": "sha256-3sM+MSmQGDO+VIjovmPzh7pCnTOAGs\/7HST+O3jOnZM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedCathedral1.png"
+    },
+    {
+      "hash": "sha256-ggHCec8QGoA8YyJaUzeozQy4zoCEfkXOq317Lj76Izk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedCathedral2.png"
+    },
+    {
+      "hash": "sha256-eZxpLo3JZ+Nx58u+KfO9ecofHtkUC9li4Q9rZYvqkK8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedCathedral3.png"
+    },
+    {
+      "hash": "sha256-E5Y+5iSDnOXr0e4MdAOunbtkhsAHDRGWdFzsoMmJcXc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedCathedral4.png"
+    },
+    {
+      "hash": "sha256-tAjRVNaDoTqezil+AEXisTo7gBpWVYbFXzqmA2IpKxg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedDock1.png"
+    },
+    {
+      "hash": "sha256-7lYQ7abGvj43oO9p3\/0A5DqKu0SuYXuc8qkDwB2sx30=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedDock10.png"
+    },
+    {
+      "hash": "sha256-hVCue2SoccK8W2omg5XuZtzzL56bI47fuBOcGp2hn3E=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedDock2.png"
+    },
+    {
+      "hash": "sha256-l9kzFS2bX1iHcwVRoQYB3TRu+wjAwna5tBewv9pJ5DM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedDock3.png"
+    },
+    {
+      "hash": "sha256-6upHI9iLoWe0mTr7sCrKMDzd44JJo8170tceonqQg+M=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedDock4.png"
+    },
+    {
+      "hash": "sha256-ehef979t5WJVQBn6WdPj++9MF1CqVQHxbV+q7NWHY70=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedDock5.png"
+    },
+    {
+      "hash": "sha256-GLIJekqp5ZHBrYAXVdSkW3Lexm4okfPFYd4\/RRK4CtM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedDock6.png"
+    },
+    {
+      "hash": "sha256-6kCrpRJ0bmNRsl1RZhKNJhRaFiskTiJ5YOAH8G958n8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedDock7.png"
+    },
+    {
+      "hash": "sha256-kJC4Eo9I4hQzoWEiMfHtnonGW6fpUoZIr20vitA16rE=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedDock8.png"
+    },
+    {
+      "hash": "sha256-PwDsgeibO83LpqQCVe\/fFthbciXP22YXEwYEsC\/N2yM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedDock9.png"
+    },
+    {
+      "hash": "sha256-8XHTsjy\/Cqy+WrEx7Og6g\/dCF0bR+3Bt\/MC3o+n7f6w=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedFactory1.png"
+    },
+    {
+      "hash": "sha256-gwJElmPxL5V80SB+OSE6KJ+JWS6gMGpD1RSr2+Sgj80=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedFactory10.png"
+    },
+    {
+      "hash": "sha256-O+g\/GrwGwfwPEsKIgb1568q52F89fDL8uVJ7utSEFdo=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedFactory2.png"
+    },
+    {
+      "hash": "sha256-77gVT4n18MZK\/+2UsmtZmcGZ6IIklMUrMY6+RkRKU2s=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedFactory3.png"
+    },
+    {
+      "hash": "sha256-tvRpZ5fgLPDa7i4KxHzok\/QwhBvJwa\/LZPR6BqweeY8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedFactory4.png"
+    },
+    {
+      "hash": "sha256-8F6gxb7sjOCbsuPUsYiH18\/eBGhwjX7fW7eKUuLyQzg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedFactory5.png"
+    },
+    {
+      "hash": "sha256-2WiB9JaQFrzLHzd5Eb74U85CPI4HjKx1uA\/jSxHeaiE=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedFactory6.png"
+    },
+    {
+      "hash": "sha256-ZOs1A2YaOfCRow1hAruDSI3r5hvWO3QLbN1EoMzxnDo=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedFactory7.png"
+    },
+    {
+      "hash": "sha256-Kl39HQ3sCYh5FUrlPNRehPuZdUBroSq\/qcfaWPvl7ms=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedFactory8.png"
+    },
+    {
+      "hash": "sha256-ecjvydnbCw\/1x49+Vppgj77wZPFSMbTHrEPvmV8q9Wg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedFactory9.png"
+    },
+    {
+      "hash": "sha256-0MPd2Q\/DrlQftTU\/uSgnrBF5oygypaxUq106f6oeKPs=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC1.png"
+    },
+    {
+      "hash": "sha256-dcEyGK\/B8qrbnQhF8inUr7p3\/QNZe5M3UwOgZFQcWGQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC10.png"
+    },
+    {
+      "hash": "sha256-gkGrWH8QU9KR44fnmk64Y0vASBH2CWbTd68tTe6b8ak=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC11.png"
+    },
+    {
+      "hash": "sha256-7M4koe62bnHNpDqG5uHZGp73r6JIZouaSVnOIM4WTt8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC12.png"
+    },
+    {
+      "hash": "sha256-1lJsnaA5wU1vYUZZgTEDw76wDPSJ1Q75GjGck5Uh6cA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/mednwtc13.png"
+    },
+    {
+      "hash": "sha256-jG11XeNcawHyHMdgYJQr6OZyg+2TxzJ474KJvJf46Io=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC2.png"
+    },
+    {
+      "hash": "sha256-1C5G8ILjEsng79tYvtApdTjLOqUr3KpFGBrhIKswmXI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC3.png"
+    },
+    {
+      "hash": "sha256-OBQdFBAuC\/vQza+qho\/gRaVHALYqnVvEkB2QKGJtbG8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC4.png"
+    },
+    {
+      "hash": "sha256-vTLWyzTSwhrn6SedY6xaQ3yBkn1PrgHNEst0ppS1XDA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC5.png"
+    },
+    {
+      "hash": "sha256-wPkmi+qiHe6rqP+ZABGu29b5IwoOHn5yVWHbOp5z6Us=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC6.png"
+    },
+    {
+      "hash": "sha256-uGvUnB9rIj1Efgztb+oXxoCLQJA0rgUvuViC6MFmnok=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC7.png"
+    },
+    {
+      "hash": "sha256-dR6y2KMkPd81tv1pTcxgbsxu1qHWIIjTKFZ3Vv2gagA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC8.png"
+    },
+    {
+      "hash": "sha256-A1aAu5hfZ7\/iGCedUCoUlkViIt1Dunz89oTnD6eQv+U=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/MedNWTC9.png"
+    },
+    {
+      "hash": "sha256-01ZmllcvukbCgpzuAQseGU0XrH\/ornV8Q23EJ6bigKU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/mime.png"
+    },
+    {
+      "hash": "sha256-HUabu4zVa2Fo6gvo2L5d2wCpgOoNY2I05Xe662pWpac=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/nicelady.png"
+    },
+    {
+      "hash": "sha256-pBCqiIN52jkT06jghXyZmLYqdSNh1+8YKmk50lgYer4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/noble_female.png"
+    },
+    {
+      "hash": "sha256-Hqlnwk8vEnFM9jy1cT\/nYteO1Qc0Q8jqzgAA\/24+7Tg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/noble_male.png"
+    },
+    {
+      "hash": "sha256-skbElV2O7BP9OYh2OCGWg7LRuQ3mdoxFC\/KZT8mjF9M=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ott-hagia1.png"
+    },
+    {
+      "hash": "sha256-7mh7eo9UfH0QTVISWythA8FvMcdIMTdTDbh5+z+GoU4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ott-hagia2.png"
+    },
+    {
+      "hash": "sha256-mEEuFtLnNpvsmhBerSJ9UNge2hGeYZTaafrGZSoWgsg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ott-hagia3.png"
+    },
+    {
+      "hash": "sha256-+YOtAnh6wItUlwhw+hSb4PYBluBtbx7bve5NiRAFU08=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ott-hagia4.png"
+    },
+    {
+      "hash": "sha256-kVaillgwLhEEEBVOfJDAkQxjtWwUQPLHHTXhJhtSUhQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ott_lightset1.png"
+    },
+    {
+      "hash": "sha256-QNt\/4KUj2oopqh9lPZZ47gulndINwCWNWzHFWsXdLQU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/ott_lightset2.png"
+    },
+    {
+      "hash": "sha256-qMxvnW4hcFKycfSwfzFBLqkNDQZlq4YLEdfBqojMbrg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/painter.png"
+    },
+    {
+      "hash": "sha256-32Ixcx1QBGUosY3A4t9Vfl3mBPFHEEKd+560AqfSWaQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/par_lightset1.png"
+    },
+    {
+      "hash": "sha256-KJLBw3eaFOFdcN+y5vtvBYHBjwmU\/UjQ2FRxYdUYnCE=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/par_lightset2.png"
+    },
+    {
+      "hash": "sha256-rZV9NiH09H4UurnhJ9d+hQARsMGkWfKSqQpfUlxcnlY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/portharbor1.png"
+    },
+    {
+      "hash": "sha256-BdOcQDPpZkVnX6I4dB6BHSnIDlAZ+w2GecHUeIQQUKg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/portharbor2.png"
+    },
+    {
+      "hash": "sha256-iYtVWt8nn87DVwNjwJaI1CHXtP6GaOHyNWNDQ6kYWUA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/portharbor3.png"
+    },
+    {
+      "hash": "sha256-9GPZctNO1tSt56UrUOCmsuHj8dEmpQ2SfBBTjeeqFJI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/portharbor4.png"
+    },
+    {
+      "hash": "sha256-BcCsClaqy8FdQlBh4O+M1jbihlrKC8PBH\/4s44igmhg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/port_factory1.png"
+    },
+    {
+      "hash": "sha256-uA8r\/Rtz5U92ie4NyiivPIeyBm4ZVJSKV+e4fLSx8h0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/port_factory2.png"
+    },
+    {
+      "hash": "sha256-nzD5G9A\/p3rPUcGGqzF7ikUs5NwGIbgPoSzXOrd2MeU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/port_factory3.png"
+    },
+    {
+      "hash": "sha256-+YxpkaPSlXzYw6C14aB4HCVZSzTmy4Ijnc+xdVvVMYs=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/port_factory4.png"
+    },
+    {
+      "hash": "sha256-60LI3OuQz+7fqi+BaQzZmei62GuEs\/C5KFkq3ddtEas=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/port_factory5.png"
+    },
+    {
+      "hash": "sha256-pJ18EvHNWJs2Wrd4B9hCDL3TLYtVMa+x+1HhUFX0LUc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/port_factory6.png"
+    },
+    {
+      "hash": "sha256-olMXlT8F9E\/An+Yh+YYzVrsY8WC2jqjhMeXsN\/NOFVE=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/port_factory7.png"
+    },
+    {
+      "hash": "sha256-x4ExDKe+89fppa78583sToP06stVtqUhLCQ5FOEysPg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/port_factory8.png"
+    },
+    {
+      "hash": "sha256-eIiOpERVPKXhTWWU4WT6Mhs6MrbRqBjJv9buFr3v95o=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/por_lightset1.png"
+    },
+    {
+      "hash": "sha256-UyF75ZSCM1ct9zyrMUVv9YCv6IHRYN1TkpCjpkTd4T4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/por_lightset2.png"
+    },
+    {
+      "hash": "sha256-tnBMVMhcu6HBAwXe4BW+mgM2pf12p3TUpZeVEDhgemc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/preacher.png"
+    },
+    {
+      "hash": "sha256-vOErClyMEKh0cV9L8NZRTmhMNhv3diW1zDs1IC8OynM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Prop-fountain-64.png"
+    },
+    {
+      "hash": "sha256-F4wBNhMRfXVnhwRYaY62\/aWbxdcw3UcT1WizO8jx4Go=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props1.png"
+    },
+    {
+      "hash": "sha256-kwIAKnAYs8b0F9La+F+HEoglh8lK\/MT4J1FXr7JKrJs=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props10.png"
+    },
+    {
+      "hash": "sha256-ZhdL9\/7Sue\/w6sTiKydr5sOIi0aEY8uW2ov38YjCWqI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props11.png"
+    },
+    {
+      "hash": "sha256-WzeRxfFisOJvyqjlnWvrgRDdufgwzUWeavWWbFT0rbk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props2.png"
+    },
+    {
+      "hash": "sha256-S1oOWq4qthhUaMTSN7+raUDagCL6hQb2u+Q9s1CtChc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props3.png"
+    },
+    {
+      "hash": "sha256-vtPLnmlvK4FUDxsMQdplaSq7MrVByIXKBmzF0wPdUfk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props4.png"
+    },
+    {
+      "hash": "sha256-Ta4GVnpcKWWl70jtCFVd0ZoL8wgOZWe3sfiKbxWXtIk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props5.png"
+    },
+    {
+      "hash": "sha256-E5XKbguxXNSuJPW+o4FuBQ9JRQzz1bICGIUnUeFcUsE=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props6.png"
+    },
+    {
+      "hash": "sha256-DUBBBK6Og4ITuju5MQBR+6qClpU7kzgEjtwxUeEf\/J0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props7.png"
+    },
+    {
+      "hash": "sha256-n4xjfCpc2f2akA9kUeUwCF8va\/t\/anwok4c7y53CmNc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props8.png"
+    },
+    {
+      "hash": "sha256-nys\/caP9hHMI8ZV6a1t4DUgF+dJ5BodKjyKPKoaxw2I=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/Props9.png"
+    },
+    {
+      "hash": "sha256-ujjW\/MnLyGvCQ50p8s5fAZHsqlQRIrwWISxaP9p16vo=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/russian_cop_1_icon.png"
+    },
+    {
+      "hash": "sha256-fnY2zBNOkJXq\/WzrpkakjLNBd1GS9wgTvJHCapJeGRU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/russian_cop_2_icon.png"
+    },
+    {
+      "hash": "sha256-vyRTQ+dH+5P9aqeoV18zWZqX842LkCRbZlyO8eqhHEs=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/rus_lightset1.png"
+    },
+    {
+      "hash": "sha256-AbCIkUOr2x2Q2VgZsfvBPcsZsSnqkzgr4HnmukIOIi4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/rus_lightset2.png"
+    },
+    {
+      "hash": "sha256-2zg5rRIgXG8nlHwCanPX0h0oqi+Sx1WY7bOSyqemXfM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy1.png"
+    },
+    {
+      "hash": "sha256-VJi4NgmCEx41jENUi8pQ8b4DH\/RiaarySgT2M0BpOeE=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy10.png"
+    },
+    {
+      "hash": "sha256-5Je6JglfQ+BHtDBYF2yX4c92iEcIlqLeKZYPVyRQdsc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy11.png"
+    },
+    {
+      "hash": "sha256-MGhs7IxlcdDLcYfnQitYv77GD5NYMSs9Oq9ctuPXx70=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy12.png"
+    },
+    {
+      "hash": "sha256-f4zmqQMAPMDZcpDwTF4OGBMGqzXxbQKGRcjuS0s+Ls8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy13.png"
+    },
+    {
+      "hash": "sha256-Z1RxM6XVXbbxd8scjn5TKezNHsP0ii4152zYdopEgpY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy14.png"
+    },
+    {
+      "hash": "sha256-njjQ+0MaRtv6QescFIOLJAuI6AGow5PbV4MlcdHmwME=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy2.png"
+    },
+    {
+      "hash": "sha256-XUSQqx+qCeD1oYo2i+EKazzDB\/csBzC46K8ZILq6lQM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy3.png"
+    },
+    {
+      "hash": "sha256-XzXAvkg8Q5bHroFqLfxV5cVlwpb7co4dW\/jjqLaBYl0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy4.png"
+    },
+    {
+      "hash": "sha256-ssIxxNPw0utBH7tzQ84M9XZVgTRATnJAnoJAL6x0Il0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy5.png"
+    },
+    {
+      "hash": "sha256-05CrBKBEY9Ntfd67B3lGbFADx5BY6AQdjLxv8wUem+4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy6.png"
+    },
+    {
+      "hash": "sha256-QHgfd6sz0tbVekxUBKx\/gZikt7YrbCgGx45fpyXYB0E=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy7.png"
+    },
+    {
+      "hash": "sha256-7PC2K8nZ+TJZRyh1zaJ8sJ1Q+KDEIfNBsEG60o0FsVk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy8.png"
+    },
+    {
+      "hash": "sha256-URrEuIU9PuLAqvki8PLp7oapcFKsedf1iK91MZAOKDY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-academy9.png"
+    },
+    {
+      "hash": "sha256-0X65uYJD5TAka59zYxuegsUwS1jMX9ZkXI2QyK9vGPU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-factory1.png"
+    },
+    {
+      "hash": "sha256-3mB646AeO5ocT7qhH2idV4AqB7mzaqg081LpR1jO\/jo=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-factory2.png"
+    },
+    {
+      "hash": "sha256-3QHIethruRT19\/dedSuA1aZicCDFDc\/NWQx135kyUvA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-factory3.png"
+    },
+    {
+      "hash": "sha256-TkQc8aiwFGQ7EX4lsQNrZnJTFvpZAwQxSIjCJ5NY7DM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-factory4.png"
+    },
+    {
+      "hash": "sha256-47qzTS\/a+h\/EuUczh6F4ohE41e+rJwUot1IeCPo5dMc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-factory5.png"
+    },
+    {
+      "hash": "sha256-cjeM\/8Zvm86oxsQ6T5fe7RWeCYEzcSCWYneSWFFbn0Q=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-factory6.png"
+    },
+    {
+      "hash": "sha256-7aiavXlZmzfgkQS6VV0\/CquLHVfIJvAuwI+fk7hv8Ko=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-factory7.png"
+    },
+    {
+      "hash": "sha256-6lfV7uXrFgWgPWVXjpomAQyaXe0f4IlBuAXliwa\/IdU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sl-factory8.png"
+    },
+    {
+      "hash": "sha256-bJ4JedgexxNYKBX9btnhQLoEZ5lvD34zoQ8SrqfSm28=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/span_tog1.png"
+    },
+    {
+      "hash": "sha256-0Tdc\/4ADgSraD+oMUc0w5HD4yZQgrVhXd+8KzhrnpXk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/span_tog2.png"
+    },
+    {
+      "hash": "sha256-TL7HxcUO4XUbvRakNP1uv71k2QRQWEG\/BKuyzodD4uQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/span_tog3.png"
+    },
+    {
+      "hash": "sha256-Xm63Xlx5yCgfxmIlfK2lxFu4tPBYGUaINnBqrx+9PW4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/span_tog4.png"
+    },
+    {
+      "hash": "sha256-VUc2zwn4KFP3Mv70pC34SmD+sq8vVSKVbqTRvbidtLs=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/spn_lightset1.png"
+    },
+    {
+      "hash": "sha256-uwFENOsUafk+nfZx8XEVDtJdt8PGCmPBgJubC4CcJc8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/spn_lightset2.png"
+    },
+    {
+      "hash": "sha256-YleLk3WAu9uqSRCoYIklS241\/yNzGfoAbvIhg0ruL2U=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/stable.png"
+    },
+    {
+      "hash": "sha256-h02vPKZEUo8IDLHBZs57tyPmsP7WXN7zqotTXlw8wM4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/stagecoach.png"
+    },
+    {
+      "hash": "sha256-n\/vPvMqucJP+\/M7o9yyqrUyJocemke4IwD0K2zB7coA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/street_light.png"
+    },
+    {
+      "hash": "sha256-nzBRNZrD3pEyMWZiozzmiGhEaANrtE\/TOCzaTPrgUXc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/street_light_grey.png"
+    },
+    {
+      "hash": "sha256-+3tVGD3dOvyrM7OPdueuHMGRN71jC8CvaPjBELzCm7c=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/street_light_grey_2.png"
+    },
+    {
+      "hash": "sha256-1HPj91DzCWBCJruceldfDDKQjG7SxZe6qCb5qh48fUU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/street_light_grey_3.png"
+    },
+    {
+      "hash": "sha256-NuYIRiYZklJHYuGGg2MnPBqnTqTF5opJR5Hw1+AXPdI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/street_light_side.png"
+    },
+    {
+      "hash": "sha256-xAon\/aWE4uYbzZ7x8cQ3KmYOTIQJceje\/DZ\/xA4tCdY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/street_light_two.png"
+    },
+    {
+      "hash": "sha256-zEm2XcizSxbCkuyFiwbWhc2E6hXU\/iHnx6VcGWm9Quw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/sweeper.png"
+    },
+    {
+      "hash": "sha256-g\/luxmM0aii3NDlvxqAvaI2Wx3NqV2fhZxFGZWu3ngA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign.png"
+    },
+    {
+      "hash": "sha256-k8WwmzezmJH9v\/NDIw0kOQ8NuPbBPlfpF8nth2PUPJs=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_2.png"
+    },
+    {
+      "hash": "sha256-O1w8f717\/JqPt96NmBvR1vAMwl4Lk\/MItUUpOc0+1Nw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_admiral.png"
+    },
+    {
+      "hash": "sha256-\/aRMf03p6r2Hl\/sf7qo4DDoQM4oH37Otn2d5gPi1gGY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_amalgamation.png"
+    },
+    {
+      "hash": "sha256-IejJSyH2AuBA1cRPEfu8kyb8nC6oocT4X3U\/r1uEvwI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_flying_cat.png"
+    },
+    {
+      "hash": "sha256-KBVUbKeYb1DidG7aEXEek7L4b0LNYlz8PuU1Ha8DlS4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_governor.png"
+    },
+    {
+      "hash": "sha256-\/1cBWPDhn\/uBLkjr4FiMPTK\/NWHnzVg9AaH0657fyEI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_iroquois.png"
+    },
+    {
+      "hash": "sha256-3wRQlhqUw0xKxu1p+MVFi\/sTXoEKTXAeW0RFNAShsXk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_naturalist.png"
+    },
+    {
+      "hash": "sha256-r0qtLGI\/6nleeWmU8vmNQEEEUbe1Mx64ZxZiNyB9ZkI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_philosopher.png"
+    },
+    {
+      "hash": "sha256-cd0jXylC4OmrqdIXAA3sP0do7Y\/WCXgOGfNWGFmLPS4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_purple_dragon.png"
+    },
+    {
+      "hash": "sha256-iqmmHmsnutYD\/Wmdmo5tkoJlqyJG8t5XkwCvk3956j8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_quarter_master.png"
+    },
+    {
+      "hash": "sha256-yOgzWlCLz6CfiDKFWibJopzOJ5EhdOET9Vk\/A5+x6hw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_red_dragon.png"
+    },
+    {
+      "hash": "sha256-sJnrNTlX+juZ84hZQHCr8q6vJSNEM7zXUuQVzFu8mCU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_rum_distillery.png"
+    },
+    {
+      "hash": "sha256-uL+vpi9bHp53r2mIsuIHHGaliuPWDyZxSo\/eipdjMG8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_smiling_man.png"
+    },
+    {
+      "hash": "sha256-33YWzLbzeyiY5j74wio6Dzz1T64iqeFNo6WtacU8RDs=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/tavern_sign_surly_sword.png"
+    },
+    {
+      "hash": "sha256-o9dZrhs+AEvD0nicCgjJrNGxTXtkkK532e35+iJ4qCc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/thug.png"
+    },
+    {
+      "hash": "sha256-8JsyuRHOn4y0PGwxqZGVUJc5UzOPK2Nt3XknsFk35K8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/upperclass_female.png"
+    },
+    {
+      "hash": "sha256-lxkgozgGqj0xH2bZ4fmltMRdftam\/+NQSKettW9E4C4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/upperclass_male.png"
+    },
+    {
+      "hash": "sha256-wM7l6bMS3J3Cfva0rhRk5QB6lGYbsRk4lqcRJM9zNAk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/urn.png"
+    },
+    {
+      "hash": "sha256-63yF6LZUGtDW6Uu0MxTPKUOPZjxWFWNHLZLHltRTs2A=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/vendor.png"
+    },
+    {
+      "hash": "sha256-hyo8kPZJuAEw69dr9yVSs0eYRmKON1lc9WLQDmePOkg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/viola.png"
+    },
+    {
+      "hash": "sha256-Qv0FItnFFIUUeULMgkFUm7EbqUBaKsJShZICaWAsRL0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/violin.png"
+    },
+    {
+      "hash": "sha256-ObKeGKWunjFXukSG2XVy\/kftNrFNdQQNtx5AfPCjoYI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy1.png"
+    },
+    {
+      "hash": "sha256-SohRKSqXYBCqVsBk\/ptgSb6mnGxY03MVOscmdbghziA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy10.png"
+    },
+    {
+      "hash": "sha256-ZQmv6VwtLh32DFeMtrET6PLizVZnq2fTh+HMF2Y5BtA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy11.png"
+    },
+    {
+      "hash": "sha256-k1jzahpbEf2ohVZzt6ww0fJe9J0fiw664pT3pZWEDfk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy12.png"
+    },
+    {
+      "hash": "sha256-2i\/5SN8gpemnKA\/WEqmGaXR\/s4TBS6CkOwED1tugS0g=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy13.png"
+    },
+    {
+      "hash": "sha256-RXkIy1lUfFXmqebIuhr2pcoAnVVczCdmsDNh4N9djw4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy14.png"
+    },
+    {
+      "hash": "sha256-IUDk8ZBeTr0+wHr0x\/CM7UpPKthCt2eYNiR+BmM4Nsc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy15.png"
+    },
+    {
+      "hash": "sha256-+XlFfCzwpYjfDE12ZeZmkIwQq6Rs3a4C7SJIPDyBtm4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy16.png"
+    },
+    {
+      "hash": "sha256-6GmQS6cR+M9tPoVk3fPvTKWgkEyXZPqcCsxuZFHmp6k=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy17.png"
+    },
+    {
+      "hash": "sha256-1Vx+GdF\/WGpWNi1Ddb3d9mNKprpwlgV0LPZClvrnF+4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy18.png"
+    },
+    {
+      "hash": "sha256-rR5qnREC3aOsH0Oj3wvBm8bNVgPWghyJoDiAjbkLhpI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy19.png"
+    },
+    {
+      "hash": "sha256-JzEnGtrwx3GOsEHmar2QxKmOPCtZ9poTaUWnc\/3RAa0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy2.png"
+    },
+    {
+      "hash": "sha256-28KJTCOQRYcFv0Thl3oHhzx7nyNcSr94da4CmXGA8DM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy20.png"
+    },
+    {
+      "hash": "sha256-dyMWReui6dxhI70xWnoqHACUwFdCjM+ZVaCIJCNNLM0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy3.png"
+    },
+    {
+      "hash": "sha256-KjmRONS2wCqOuwfoMCMCvbyRs5MlDckJe7BIskK9tfI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy4.png"
+    },
+    {
+      "hash": "sha256-tCuOVMg2UxkAndnlUlGtRubNZ4q8fkO6bW04NL7hUyk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy5.png"
+    },
+    {
+      "hash": "sha256-aEnpwuHBqKM3SKJlHM+rjvxk\/jViqRqiRyBkFOe9xD0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy6.png"
+    },
+    {
+      "hash": "sha256-I\/vmQNfFKPzvBJdoqsiOhw0Lr0E2VowUS4KrEe+aQXc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy7.png"
+    },
+    {
+      "hash": "sha256-EyB2kyk+x7otzZ8pFUKW94WJ++fpSjnB1ECJIxUjYTA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy8.png"
+    },
+    {
+      "hash": "sha256-nvvQLJmT18KzPjBFoRmzOPT60KX40bh8wf53NPiq5Ns=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-academy9.png"
+    },
+    {
+      "hash": "sha256-j2O5fsKijk2NXpABoyrzUZ+1yITx\/NrBzH9YyeCJRv4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-cathedral1.png"
+    },
+    {
+      "hash": "sha256-yPTnZCOwo7H8PD9pYx8xt1Fce8\/GlIwfbHAOJ6WqdlE=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-cathedral2.png"
+    },
+    {
+      "hash": "sha256-17ycXx65WxynuwK\/IWWcZc7RIcE3RX7I22r49e\/aPEM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-cathedral3.png"
+    },
+    {
+      "hash": "sha256-d8BXXZH3zZdKxP7UTVmcDxjlLsB11sF1dXLj7aK9IOc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-cathedral4.png"
+    },
+    {
+      "hash": "sha256-3LCYE62NNOtHNWxLMQ6hoshfHsEZ3gp6JSA9Pm4h0zg=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-cathedral5.png"
+    },
+    {
+      "hash": "sha256-6CPukssvd3Cc6ciAbPHhXEjdmfX8zuK8Uc\/6iqX26q4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-cathedral6.png"
+    },
+    {
+      "hash": "sha256-Uc\/mQT9obprxlHErVCONM8J5GI2IR42FoyC83bNY8Fc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-cathedral7.png"
+    },
+    {
+      "hash": "sha256-Xo7xWTtWH0Bry36GaNcTgQonz4fUs3+C48yGUz6OKiI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-cathedral8.png"
+    },
+    {
+      "hash": "sha256-2Hr1M2Ff53gGcXbQFvl+Et2zUi1UTnROiuTRNMggipk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock1.png"
+    },
+    {
+      "hash": "sha256-NBxc5ikNCCvftA\/5vvQb34l2RKDzdv6Z92hJwTJUfd0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock10.png"
+    },
+    {
+      "hash": "sha256-EROJSXsvXorNnRmMyP2QRpGTPRrAzMo0K4dW\/EIA24A=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock11.png"
+    },
+    {
+      "hash": "sha256-cqJLUC8nGQ5srOb0I1CSgKsuCHaYP9b3idnJVGVNhqQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock12.png"
+    },
+    {
+      "hash": "sha256-GFXWDWHXS\/HywFNsdGolhMVonC4ezcb7TVV6s92sWhY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock13.png"
+    },
+    {
+      "hash": "sha256-q3FhRwKGiY7sf\/uoPQ8oUacr3WHQuqG49ndSxcDLSwA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock14.png"
+    },
+    {
+      "hash": "sha256-FNQuu2QolE8xrG4B+kjqKruRcvjDTHeEBEQfR5VKLto=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock15.png"
+    },
+    {
+      "hash": "sha256-1kQ1iZNcxrIAO0TEDmt0lJKOXNqhJ8lHBA3vfc2a7Y4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock16.png"
+    },
+    {
+      "hash": "sha256-Zc108nIcbfribFwjTSiVU4Bl90CHzvBwCoGaKOkqxGk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock2.png"
+    },
+    {
+      "hash": "sha256-Wm9TOEL17IA2LO3qphMNfHubO3m9OEAq0vBiecvT3VI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock3.png"
+    },
+    {
+      "hash": "sha256-R+a7EDTbKVPz1p\/ddtVauDlW0XFUtiS\/uNmQoGRqOCY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock4.png"
+    },
+    {
+      "hash": "sha256-\/y0EIm4Rw086GS0T88lPX0m6Viq1zzpkTGDD3MbBmik=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock5.png"
+    },
+    {
+      "hash": "sha256-\/NeXWSoBNMXdWiWVFbS5k6BjA+h0p0rSTzNK9XCGXec=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock6.png"
+    },
+    {
+      "hash": "sha256-R9PatF0u+g5ThF3FRm01ogN+W1x8Nvd7w0CYieNI5PA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock7.png"
+    },
+    {
+      "hash": "sha256-5LzVydn8uDZJwVLeDEIutjzsv4bCX\/9BAt8Yly5PeKI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock8.png"
+    },
+    {
+      "hash": "sha256-a8Iy2jrZ3HebCCE6TU4LHqq\/YINMYsi2A8dh3vAeMxM=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-dock9.png"
+    },
+    {
+      "hash": "sha256-TTys8+nZdHvaOpVC2mTXxGpDk+ZYwmMYqrLCkXT4bw0=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-factory1.png"
+    },
+    {
+      "hash": "sha256-HOlMtT1N8KwxkslUBNbFPoyw6eomuRRmuD\/tqGPs7Bw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-factory2.png"
+    },
+    {
+      "hash": "sha256-Cl9ZVz1LSJd6QgtEwdXeiD6RpXEX6l++fxavpfixl+Q=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-factory3.png"
+    },
+    {
+      "hash": "sha256-ZjPZ+Sssmw279Ft7SP0A8oxKK6cjz1r3LpU5Fy\/KRRU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-factory4.png"
+    },
+    {
+      "hash": "sha256-Kubhn3Xd0ZvL7JvAdBp14FL5ts1jqo8ciJv67VyG\/8o=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-factory5.png"
+    },
+    {
+      "hash": "sha256-7Ao77C3DKgwB30oTd4zx3kWW+kEtP2BQUrUDLNs6zdk=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-factory6.png"
+    },
+    {
+      "hash": "sha256-YGkbhsXQ5G1NH15V4HZKmEQVQ4dQtz0k8DhgfCtFIc4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-factory7.png"
+    },
+    {
+      "hash": "sha256-nDGD0t1+6sMI8cqspV9AM9csukbch1MyYprdYlrhxeA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-factory8.png"
+    },
+    {
+      "hash": "sha256-wIhaHUhGeDLDHEla8Uzp0BgtqLFnt1Ua\/R+e6ga3zfI=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc1.png"
+    },
+    {
+      "hash": "sha256-x1rxFVORF\/I+1fv8WfkrvkuEBPIE19RfgCxEUDImO6A=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc10.png"
+    },
+    {
+      "hash": "sha256-t6ytD2lTx1RY4VEs2IRkLerZzR1P3PqqkHH0G6migeU=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc11.png"
+    },
+    {
+      "hash": "sha256-Zf71qd5OYqqYbk3EesMCHOwKMq\/nFgn6Tj33L4qgJsQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc12.png"
+    },
+    {
+      "hash": "sha256-XUnXOx1lFrG1VUBpOExe4rq0tuvAZ7em9izGfVWwPfc=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc13.png"
+    },
+    {
+      "hash": "sha256-QSbisNA96QUtofuLYerfeFQ7v4M7LvsZPcmWYSzZ5FQ=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc14.png"
+    },
+    {
+      "hash": "sha256-iWla8Uy1zvOkieZw6lnszFX9xWD31vrkKsPFAH50LO8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc15.png"
+    },
+    {
+      "hash": "sha256-6t+suoMDqovKKSWvjnos1DxyM\/o08DxWaKdBE6fgjkA=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc16.png"
+    },
+    {
+      "hash": "sha256-sxI49lyiJSTKuPHQGMP0McwYyjpxB9nqvVWsXfJsBD8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc2.png"
+    },
+    {
+      "hash": "sha256-f5KpQOlk\/0zVmcEOjz+98ZLrd+8rsIAROfNAQ3NDw8U=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc3.png"
+    },
+    {
+      "hash": "sha256-ZJmHeMPvpp2ugrumbkGgzipY5ggMNQ3CpojnoWTcyVw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc4.png"
+    },
+    {
+      "hash": "sha256-FBsRZTnGgLNQF8jNB+t\/lZpeg70I6C+RqRSOpPO\/2T8=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc5.png"
+    },
+    {
+      "hash": "sha256-elLwwEEkq0OKa0eFpunKC\/I5GH94t8rJW7KrA6IzEUw=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc6.png"
+    },
+    {
+      "hash": "sha256-PcaW9EEcK+MP8wmn2HzBrPOBwvNqeT7BfWDM5d1fMbE=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc7.png"
+    },
+    {
+      "hash": "sha256-0+5Xu\/VzlTRTR8iZM6g9kpj+KW6Xv7Zz3RQGADuYjhY=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc8.png"
+    },
+    {
+      "hash": "sha256-wqF2ni38VAcD9V2M4C8+M5KMou0N2vDilXdopjadsJ4=",
+      "url": "img\/resources\/images\/icons\/home_city\/icons\/we-nwtc9.png"
+    },
+    {
+      "hash": "sha256-TNne+yHVH4+U6fGggEeQkxYDTKkhsFtX8Sl\/0J4Z+E8=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_castle_wagons.png"
+    },
+    {
+      "hash": "sha256-bQRwfPTCouf1So2EjW1udJIAswdMP+SCCm9VvLZu0Z4=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_catamaran_thuggees.png"
+    },
+    {
+      "hash": "sha256-wHDIQf7XeyhVW9UQrBOmp2Z8veI0WQzP5z4WbuXtxl4=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_cheap_unit_upgrade_icon_64.png"
+    },
+    {
+      "hash": "sha256-XRLKb11RCZ3cze523v3BNwc\/mMH+6D\/NajU0rZzTnZ0=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_fishing_boat.png"
+    },
+    {
+      "hash": "sha256-znPuNWsm6b\/jgsiwQYLsk5vD\/qTXy4csuaAX7cAmDrc=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_monitor_lizard.png"
+    },
+    {
+      "hash": "sha256-6fcwqKKNfydw10yG+Ss3nQiByQyrwABQGj78f3o4FNk=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_ninja.png"
+    },
+    {
+      "hash": "sha256-6x9mYaOMhLK3yE4IJR0+KqGyDWuUKu77sUeQTMDaqxI=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_ninja_and_pirate_army.png"
+    },
+    {
+      "hash": "sha256-OrYVXXHqSS32B7RBHEA2xvlosRl4\/e5n8TZ2rKZcaiE=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_priests.png"
+    },
+    {
+      "hash": "sha256-BwBoMGAPyZS0C+9fl+OzWjcQvct4OElkFJcYtzEbljo=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_tiger_claw.png"
+    },
+    {
+      "hash": "sha256-7jFwwY2OJbFIFCyJOQ3IolVgZgBzCnXskCKOaXXlGxE=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_urumi copy.png"
+    },
+    {
+      "hash": "sha256-VnhDX5gdyHvHyF7kKVK8DKNK5bWBwyTLxYemEI4wZ9A=",
+      "url": "img\/resources\/images\/icons\/home_city\/team_white_tiger.png"
+    },
+    {
+      "hash": "sha256-Dee8stoKINDEUJjebK4eHhRPaHJPSKWSylwSEMwFoiY=",
+      "url": "img\/resources\/images\/icons\/ingame\/icon_age_ii.png"
+    },
+    {
+      "hash": "sha256-yT81SPT3sFPGGSPeU\/Cx220USGUAwaAKEveLHooxCks=",
+      "url": "img\/resources\/images\/icons\/ingame\/icon_age_iii.png"
+    },
+    {
+      "hash": "sha256-\/PWcxLjzv5eus7rlDwx6j4dRjnby9VqYvRSTqHTmRsw=",
+      "url": "img\/resources\/images\/icons\/ingame\/icon_age_iv.png"
+    },
+    {
+      "hash": "sha256-8dnZy1FF9c5p4yiC69QcWUWuSUbceS7ms3pPoM4suDk=",
+      "url": "img\/resources\/images\/icons\/ingame\/icon_age_v.png"
+    },
+    {
+      "hash": "sha256-GbA+FgNBPtGpBQXdmFDX2E4DTfHlDx8VkOYlGn72fvI=",
+      "url": "img\/resources\/images\/icons\/ingame\/panel_gather_point_economy01.png"
+    },
+    {
+      "hash": "sha256-OmjamwKIUzEqciasXm8v+qsMP9o5Nd\/77p93j420Pbs=",
+      "url": "img\/resources\/images\/icons\/ingame\/panel_gather_point_military01.png"
+    },
+    {
+      "hash": "sha256-7ooF7mTWvO8MdtLo7mpwAtkONFWGuxOMQ96wQq2btGg=",
+      "url": "img\/resources\/images\/icons\/ingame\/politicians\/consulate_endisolation.png"
+    },
+    {
+      "hash": "sha256-RtawlfhE19buTzIs+KamIxLuEsDLs6tgmFnmXV5mdMs=",
+      "url": "img\/resources\/images\/icons\/ingame\/politicians\/consulate_endrelations.png"
+    },
+    {
+      "hash": "sha256-nuJiwJ6FiqnNfzaFHltESv2riycTMDqFfD3wddYB1gk=",
+      "url": "img\/resources\/images\/icons\/ingame\/politicians\/consulate_openrelations.png"
+    },
+    {
       "hash": "sha256-7zDJ0m1ZAfvmcQBZVqB3Or+SvjhbhbRuwStdgJ3I3hY=",
       "url": "index.html"
     },
@@ -3961,5 +6729,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "ierv0osU"
+  "version": "OSZSL\/Ie"
 };
