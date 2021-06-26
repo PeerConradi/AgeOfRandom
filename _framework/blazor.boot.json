@@ -22,7 +22,7 @@
       "Microsoft.JSInterop.dll": "sha256-qVfBFmJvf7A8AunXzjL0o5M1BhwlNrsL3TQ38pfJuCQ=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-uJLUw9XzHuJvg24MjIpf\/cAxCh1nXtCXBwROpjxObjo=",
       "System.IO.Pipelines.dll": "sha256-qZYTUS+ga7CydtH54fYPbehFCvx3B49I74G8dxreTog=",
-      "AgeOfKarten.dll": "sha256-h6DI1PKfD65bkyjPJeCZSGbKO8wQlv7pCi8O5GCxHQc=",
+      "AgeOfKarten.dll": "sha256-EzuffL4a6Yd9bPmSzTRSTUfvjExfIKAJLcDhM1I53C0=",
       "System.Collections.Concurrent.dll": "sha256-C9giMqeWeVICIqY9xbKbh+aVWxhVYPF7QrWz7BGYHNo=",
       "System.Collections.Immutable.dll": "sha256-+vO247jLg3j985A7THlevejVNFcyBoJFZk87oVFfSPI=",
       "System.Collections.NonGeneric.dll": "sha256-IQStYHOPAp9hCOetGu5PVbmh44rrBYwc\/V\/yFjiMC6g=",
@@ -49,7 +49,7 @@
       "System.Text.Encodings.Web.dll": "sha256-byWjwFphzTsMyQZlYg6pSspoEjxtir9pycb3lnSW3AY=",
       "System.Text.Json.dll": "sha256-GEgljQ1r2a7ZTlRxMQBcVwZnrlCvsVCAHhzSrrbsIOw=",
       "System.Text.RegularExpressions.dll": "sha256-aCSf0s\/KBskAbu9vuhHHRkWrkg7xQiewYk5WMuqFZco=",
-      "System.Private.CoreLib.dll": "sha256-Jm\/cJ658\/5MXIkgqg7P\/kKgqtT6CTEf3mVnSZhPLBgE="
+      "System.Private.CoreLib.dll": "sha256-zbm+jCRzU5aE7GcHq31vkWOrI0jpCzRcyn03Ao1Qhwk="
     },
     "lazyAssembly": null,
     "pdb": null,
