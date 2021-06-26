@@ -25,13 +25,6 @@ namespace AgeOfKarten.Data
         {
             homecity hc = null;
             string path = MyNavigationManager.BaseUri + "gamefiles/nations/" + name;
-
-            if (!System.IO.File.Exists(path))
-            {
-                Console.WriteLine("File not found: " + path);
-                return null;
-            }
-
             var httpClient = new System.Net.Http.HttpClient();
             var stream = await httpClient.GetStreamAsync(path);
             var serializer = new System.Xml.Serialization.XmlSerializer(typeof(homecity));
@@ -42,10 +35,7 @@ namespace AgeOfKarten.Data
 
         public async Task<List<InfoItem>> GetCardsOfNation(string nation, string language)
         {
-            var stopWatch = new Stopwatch();
-            stopWatch.Start();
             var hcTask = await ReadHomeCity(nation);
-            stopWatch.Restart();
             var ttTask = await ReadTechTree();
 
             var items = from card in hcTask.cards
