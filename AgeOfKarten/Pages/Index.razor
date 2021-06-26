@@ -1,16 +1,20 @@
 ﻿@page "/"
-@inject Data.MainService mainService; 
+@inject Data.MainService mainService;
 
 <div class="row">
     <div class="col-12">
         <div class="form-group">
             <label>Nation</label>
+            @if (!loadingDeck)
+            {
                 <select @bind="@selectedCityFile" class="form-control">
                     @foreach (var fileName in Data.MainService.Civs)
                     {
                         <option value="@fileName.Key">@fileName.Value</option>
                     }
                 </select>
+            }
+
         </div>
     </div>
 </div>
@@ -42,10 +46,10 @@
                     {
                         @foreach (var card in PickedCards.Where(n => n.Age == 1).OrderBy(n => n.DisplayUnitCount))
                         {
-                <td>
-                    <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
-                    <p>@card.Name</p>
-                </td>
+                            <td>
+                                <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
+                                <p>@card.Name</p>
+                            </td>
 
                         }
                     }
@@ -57,10 +61,10 @@
                     {
                         @foreach (var card in PickedCards.Where(n => n.Age == 2).OrderBy(n => n.DisplayUnitCount))
                         {
-                <td>
-                    <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
-                    <p>@card.Name</p>
-                </td>
+                            <td>
+                                <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
+                                <p>@card.Name</p>
+                            </td>
 
                         }
                     }
@@ -72,10 +76,10 @@
                     {
                         @foreach (var card in PickedCards.Where(n => n.Age == 3).OrderBy(n => n.DisplayUnitCount))
                         {
-                <td>
-                    <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
-                    <p>@card.Name</p>
-                </td>
+                            <td>
+                                <img src="/img/@card.ImageName" style="width: 64px; height: 64px" />
+                                <p>@card.Name</p>
+                            </td>
 
                         }
                     }
@@ -89,7 +93,15 @@
 
 @if (cards == null)
 {
-    <p>No Cards loaded</p>
+    @if (loadingDeck)
+    {
+        <p>Your deck is beeing prepared!</p>
+    }
+    else
+    {
+        <p>No Cards loaded</p>
+    }
+
 }
 else
 {
@@ -99,7 +111,7 @@ else
     <div class="row">
 
 
-        @foreach(var card in cards.OrderBy(n => n.Age).ThenBy(n => n.DisplayUnitCount))
+        @foreach (var card in cards.OrderBy(n => n.Age).ThenBy(n => n.DisplayUnitCount))
         {
 
             <div class="card" style="width: 18rem;">
@@ -114,12 +126,14 @@ else
     </div>
 }
 
-@code 
+@code
 {
 
     List<Models.InfoItem> cards;
 
     List<Models.InfoItem> PickedCards;
+
+    private bool loadingDeck = false;
 
     private string _selectedCityFile = "";
     private string selectedCityFile
@@ -129,6 +143,8 @@ else
         {
             if (_selectedCityFile != value)
             {
+                this.loadingDeck = true;
+                this.InvokeAsync(StateHasChanged);
                 _selectedCityFile = value;
                 PickedCards = new List<Models.InfoItem>();
                 Task.Run(async () =>
@@ -172,6 +188,7 @@ else
 
         }
         Console.WriteLine("Fertig gemischt" + DateTime.Now.ToLongTimeString());
+        this.loadingDeck = false;
         InvokeAsync(StateHasChanged);
     }
 
